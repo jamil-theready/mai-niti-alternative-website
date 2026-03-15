@@ -5,7 +5,7 @@ export default function About() {
         <div className="grid items-center gap-16 lg:grid-cols-2">
           {/* Left: Image placeholder */}
           <div className="relative">
-            <div className="aspect-[4/5] overflow-hidden rounded-2xl bg-brown-900/5">
+            <div className="aspect-[3/2] overflow-hidden rounded-2xl bg-brown-900/5">
               {/* TODO: Replace with actual image of the retreat center */}
               <div className="flex h-full flex-col items-center justify-center bg-gradient-to-br from-brown-900/10 via-forest/5 to-brown-600/10 p-12 text-center">
                 <svg
@@ -38,7 +38,7 @@ export default function About() {
 
           {/* Right: Text content */}
           <div>
-            <span className="font-display text-xs tracking-[0.2em] text-brown-600 uppercase">
+            <span className="font-display text-xs tracking-[0.2em] text-brown-800 uppercase">
               Our Mission
             </span>
             <h2 className="mt-4 font-serif text-4xl leading-tight text-brown-900 md:text-5xl">
@@ -46,7 +46,7 @@ export default function About() {
               <br />
               <span className="italic">Ancient Wisdom</span>
             </h2>
-            <div className="mt-8 space-y-5 text-base leading-relaxed text-brown-800/80">
+            <div className="mt-8 space-y-5 text-base leading-relaxed text-brown-900">
               <p>
                 Mai Niti Alternative is a plant medicine healing center nestled
                 in the Peruvian Amazon. We offer a safe, respectful space where

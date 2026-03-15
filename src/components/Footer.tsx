@@ -29,12 +29,12 @@ export default function Footer() {
             <a href="#" className="font-serif text-2xl text-cream">
               Mai Niti Alternative
             </a>
-            <p className="mt-4 text-sm leading-relaxed text-cream/50">
+            <p className="mt-4 text-sm leading-relaxed text-cream/60">
               Plant medicine healing retreats in the Peruvian Amazon. Traditional
               ceremonies guided by Shipibo curanderos.
             </p>
             {/* TODO: Replace with actual contact details */}
-            <div className="mt-6 space-y-2 text-sm text-cream/50">
+            <div className="mt-6 space-y-2 text-sm text-cream/60">
               <p>
                 <a
                   href="mailto:info@mainiti-alternative.com"
@@ -88,8 +88,8 @@ export default function Footer() {
                 <li key={link.label}>
                   <a
                     href={link.href}
-                    className="text-sm text-cream/50 transition-colors hover:text-cream"
-                  >
+                    className="text-sm text-cream/60 transition-colors hover:text-cream"
+>
                     {link.label}
                   </a>
                 </li>
@@ -106,8 +106,8 @@ export default function Footer() {
                 <li key={link.label}>
                   <a
                     href={link.href}
-                    className="text-sm text-cream/50 transition-colors hover:text-cream"
-                  >
+                    className="text-sm text-cream/60 transition-colors hover:text-cream"
+>
                     {link.label}
                   </a>
                 </li>
@@ -124,8 +124,8 @@ export default function Footer() {
                 <li key={link.label}>
                   <a
                     href={link.href}
-                    className="text-sm text-cream/50 transition-colors hover:text-cream"
-                  >
+                    className="text-sm text-cream/60 transition-colors hover:text-cream"
+>
                     {link.label}
                   </a>
                 </li>

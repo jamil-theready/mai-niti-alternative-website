@@ -67,7 +67,7 @@ export default function Hero() {
           <span className="italic text-brown-200">Alternative</span>
         </h1>
 
-        <p className="mx-auto mt-8 max-w-2xl font-display text-lg leading-relaxed text-cream/70 md:text-xl">
+        <p className="mx-auto mt-8 max-w-2xl font-display text-lg leading-relaxed text-cream/80 md:text-xl">
           A sacred space for plant medicine healing in the heart of Peru.
           Traditional ceremonies guided by experienced curanderos, rooted in
           generations of Shipibo wisdom.

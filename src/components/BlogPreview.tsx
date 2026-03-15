@@ -50,7 +50,7 @@ export default function BlogPreview() {
         {/* Section header */}
         <div className="flex flex-col items-start justify-between gap-6 md:flex-row md:items-end">
           <div>
-            <span className="font-display text-xs tracking-[0.2em] text-brown-600 uppercase">
+            <span className="font-display text-xs tracking-[0.2em] text-brown-800 uppercase">
               From the Journal
             </span>
             <h2 className="mt-4 font-serif text-4xl leading-tight text-brown-900 md:text-5xl">
@@ -60,7 +60,7 @@ export default function BlogPreview() {
           {/* TODO: Link to actual /blog page once built */}
           <a
             href="/blog"
-            className="font-display text-sm font-medium text-brown-600 underline decoration-brown-600/30 underline-offset-4 transition-colors hover:text-brown-900"
+            className="font-display text-sm font-medium text-brown-800 underline decoration-brown-800/30 underline-offset-4 transition-colors hover:text-brown-900"
           >
             View all articles
           </a>
@@ -73,14 +73,14 @@ export default function BlogPreview() {
               key={post.slug}
               className="group flex flex-col rounded-2xl border border-brown-200/60 bg-white p-6 transition-all hover:border-brown-300 hover:shadow-lg md:p-8"
             >
-              <span className="mb-4 inline-block w-fit rounded-full bg-cream px-3 py-1 font-display text-[11px] tracking-wide text-brown-600 uppercase">
+              <span className="mb-4 inline-block w-fit rounded-full bg-brown-900/10 px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-brown-800 uppercase">
                 {post.category}
               </span>
               <h3 className="font-serif text-xl leading-snug text-brown-900 transition-colors group-hover:text-brown-600">
                 {/* TODO: Link to actual blog post page */}
                 <a href={`/blog/${post.slug}`}>{post.title}</a>
               </h3>
-              <p className="mt-3 flex-1 text-sm leading-relaxed text-brown-800/60">
+              <p className="mt-3 flex-1 text-sm leading-relaxed text-brown-900">
                 {post.excerpt}
               </p>
               <div className="mt-6">

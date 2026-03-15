@@ -43,13 +43,13 @@ export default function WhyChooseUs() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         {/* Section header */}
         <div className="mx-auto max-w-2xl text-center">
-          <span className="font-display text-xs tracking-[0.2em] text-brown-600 uppercase">
+          <span className="font-display text-xs tracking-[0.2em] text-brown-800 uppercase">
             The Mai Niti Difference
           </span>
           <h2 className="mt-4 font-serif text-4xl leading-tight text-brown-900 md:text-5xl">
             Why People <span className="italic">Trust Us</span>
           </h2>
-          <p className="mt-6 text-base leading-relaxed text-brown-800/70">
+          <p className="mt-6 text-base leading-relaxed text-brown-800">
             Choosing where to do plant medicine work is one of the most
             important decisions you will make. Here is what sets Mai Niti
             Alternative apart.
@@ -66,7 +66,7 @@ export default function WhyChooseUs() {
               <h3 className="mt-3 font-serif text-xl text-brown-900">
                 {reason.title}
               </h3>
-              <p className="mt-3 text-sm leading-relaxed text-brown-800/70">
+              <p className="mt-3 text-sm leading-relaxed text-brown-900">
                 {reason.description}
               </p>
             </div>

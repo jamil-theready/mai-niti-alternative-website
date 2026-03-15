@@ -97,7 +97,7 @@ export default function Services() {
           <h2 className="mt-4 font-serif text-4xl leading-tight text-cream md:text-5xl">
             Sacred Paths to <span className="italic">Healing</span>
           </h2>
-          <p className="mt-6 text-base leading-relaxed text-cream/60">
+          <p className="mt-6 text-base leading-relaxed text-cream/80">
             Every journey is unique. We offer several pathways into plant
             medicine work, each held with the same deep respect for tradition,
             safety, and your personal healing process.
@@ -109,7 +109,7 @@ export default function Services() {
           {services.map((service) => (
             <div
               key={service.title}
-              className="group rounded-2xl border border-brown-700/50 bg-brown-800/30 p-8 transition-all hover:border-brown-600/60 hover:bg-brown-800/50 md:p-10"
+              className="group rounded-2xl border border-brown-700/40 bg-brown-800/50 p-8 transition-all hover:border-brown-500/60 hover:bg-brown-800/70 hover:shadow-2xl md:p-10"
             >
               <div className="mb-6 inline-flex rounded-xl bg-brown-700/30 p-3 text-brown-200 transition-colors group-hover:bg-brown-600/40 group-hover:text-cream">
                 {service.icon}
@@ -117,7 +117,7 @@ export default function Services() {
               <h3 className="font-serif text-2xl text-cream">
                 {service.title}
               </h3>
-              <p className="mt-4 text-sm leading-relaxed text-cream/60">
+              <p className="mt-4 text-sm leading-relaxed text-cream/80">
                 {service.description}
               </p>
               <div className="mt-6 flex items-center gap-2">
@@ -141,7 +141,7 @@ export default function Services() {
 
         {/* Bottom CTA */}
         <div className="mt-16 text-center">
-          <p className="mb-6 text-sm text-cream/50">
+          <p className="mb-6 text-sm text-cream/70">
             Not sure which path is right for you? We are here to help.
           </p>
           <a
