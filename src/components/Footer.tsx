@@ -1,21 +1,20 @@
 const footerLinks = {
   retreats: [
-    { label: "Ayahuasca Ceremony", href: "#services" },
+    { label: "Sacred Ceremony", href: "#services" },
     { label: "Plant Medicine Dieta", href: "#services" },
     { label: "Healing Retreats", href: "#services" },
     { label: "Private Ceremonies", href: "#services" },
   ],
   learn: [
     { label: "What Is a Dieta?", href: "/blog/what-is-a-dieta-plant-medicine-explained" },
-    { label: "Preparing for Ceremony", href: "/blog/how-to-prepare-for-an-ayahuasca-ceremony" },
-    { label: "Managing Retreat Anxiety", href: "/blog/ayahuasca-retreat-anxiety-how-to-manage-fear" },
+    { label: "Preparing for Ceremony", href: "/blog/how-to-prepare-for-ceremony" },
+    { label: "Managing Retreat Anxiety", href: "/blog/retreat-anxiety-how-to-manage-fear" },
     { label: "Amazon vs Sacred Valley", href: "/blog/amazon-vs-sacred-valley-retreats-which-is-right" },
   ],
   company: [
-    { label: "About Us", href: "#about" },
-    { label: "Contact", href: "#contact" },
-    { label: "Privacy Policy", href: "/privacy" },
-    { label: "Cookie Policy", href: "/cookies" },
+    { label: "About Us", href: "/about" },
+    { label: "Contact", href: "/contact" },
+    { label: "Privacy Policy", href: "/privacy-policy" },
   ],
 };
 
@@ -33,23 +32,23 @@ export default function Footer() {
               Plant medicine healing retreats in the Peruvian Amazon. Traditional
               ceremonies guided by Shipibo curanderos.
             </p>
-            {/* TODO: Replace with actual contact details */}
             <div className="mt-6 space-y-2 text-sm text-cream/60">
               <p>
                 <a
-                  href="mailto:info@mainiti-alternative.com"
+                  href="mailto:info@mainiti.org"
                   className="transition-colors hover:text-cream"
                 >
-                  info@mainiti-alternative.com
+                  info@mainiti.org
                 </a>
               </p>
               <p>Pucallpa, Ucayali, Peru</p>
             </div>
             {/* Social links */}
             <div className="mt-6 flex gap-4">
-              {/* TODO: Replace with actual social media links */}
-              <a
-                href="#"
+                <a
+                href="https://www.facebook.com/mainitialternative"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-cream/40 transition-colors hover:text-cream"
                 aria-label="Facebook"
               >

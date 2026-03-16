@@ -14,14 +14,14 @@ const blogPosts = [
     category: "Preparation",
   },
   {
-    slug: "how-to-prepare-for-an-ayahuasca-ceremony",
-    title: "How to Prepare for an Ayahuasca Ceremony",
+    slug: "how-to-prepare-for-ceremony",
+    title: "How to Prepare for a Sacred Ceremony",
     excerpt:
       "Preparation is half the journey. From dietary guidelines to setting intentions, this guide covers everything you need to do in the weeks before ceremony.",
     category: "Preparation",
   },
   {
-    slug: "ayahuasca-retreat-anxiety-how-to-manage-fear",
+    slug: "retreat-anxiety-how-to-manage-fear",
     title: "Retreat Anxiety: How to Manage Fear Before Ceremony",
     excerpt:
       "Feeling nervous before your first ceremony is completely normal. Here is how to work with that anxiety instead of letting it hold you back from healing.",

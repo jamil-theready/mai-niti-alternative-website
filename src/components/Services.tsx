@@ -1,8 +1,8 @@
 const services = [
   {
-    title: "Ayahuasca Ceremony",
+    title: "Sacred Ceremony",
     description:
-      "Traditional ayahuasca ceremonies guided by Shipibo curanderos. Each ceremony is held in a sacred maloca with icaros (healing songs) sung throughout the night. We limit group sizes to ensure personalized attention and a safe, supportive environment.",
+      "Traditional plant medicine ceremonies guided by Shipibo curanderos. Each ceremony is held in a sacred maloca with icaros (healing songs) sung throughout the night. We limit group sizes to ensure personalized attention and a safe, supportive environment.",
     duration: "1 night ceremony",
     icon: (
       <svg
@@ -43,7 +43,7 @@ const services = [
   {
     title: "Healing Retreats",
     description:
-      "Multi-day retreats combining ayahuasca ceremonies with complementary healing practices: flower baths, vapor baths, meditation, integration circles, and time in nature. Designed for those seeking a comprehensive healing experience in a structured, supportive setting.",
+      "Multi-day retreats combining sacred ceremonies with complementary healing practices: flower baths, vapor baths, meditation, integration circles, and time in nature. Designed for those seeking a comprehensive healing experience in a structured, supportive setting.",
     duration: "7 to 14 days",
     icon: (
       <svg

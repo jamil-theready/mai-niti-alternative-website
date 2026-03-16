@@ -30,9 +30,8 @@ export default function CTA() {
 
         {/* Contact options */}
         <div className="mt-12 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-          {/* TODO: Replace with actual booking/contact form link */}
           <a
-            href="mailto:info@mainiti-alternative.com"
+            href="mailto:info@mainiti.org"
             className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-cream px-8 py-4 font-display text-sm font-semibold tracking-wide text-brown-900 transition-all hover:bg-white hover:shadow-lg sm:w-auto"
           >
             <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
@@ -41,9 +40,8 @@ export default function CTA() {
             </svg>
             Send Us an Email
           </a>
-          {/* TODO: Replace with actual WhatsApp number */}
           <a
-            href="https://wa.me/51000000000"
+            href="https://wa.me/51961741743"
             className="inline-flex w-full items-center justify-center gap-2 rounded-full border border-cream/30 px-8 py-4 font-display text-sm font-medium tracking-wide text-cream transition-all hover:border-cream/50 hover:bg-cream/10 sm:w-auto"
           >
             <svg className="h-4 w-4" fill="currentColor" viewBox="0 0 24 24">

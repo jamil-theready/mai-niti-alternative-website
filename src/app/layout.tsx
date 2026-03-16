@@ -4,14 +4,14 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Mai Niti Alternative | Plant Medicine Healing Retreats in Peru",
   description:
-    "Experience transformative ayahuasca ceremonies and plant medicine healing retreats in the Peruvian Amazon. Guided by experienced curanderos in a safe, traditional setting.",
+    "Experience transformative plant medicine ceremonies and healing retreats in the Peruvian Amazon. Guided by experienced Shipibo curanderos in a safe, traditional setting.",
   keywords: [
-    "ayahuasca retreat Peru",
+    "plant medicine retreat Peru",
     "plant medicine healing",
-    "ayahuasca ceremony",
+    "sacred ceremony Peru",
     "healing retreat Amazon",
     "curandero Peru",
-    "shamanic healing",
+    "traditional healing",
     "Mai Niti Alternative",
     "dieta plant medicine",
     "Pucallpa retreat",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Mai Niti Alternative | Plant Medicine Healing Retreats in Peru",
     description:
-      "Transformative ayahuasca ceremonies and plant medicine retreats in the Peruvian Amazon. Traditional healing in a safe, guided setting.",
+      "Transformative plant medicine ceremonies and healing retreats in the Peruvian Amazon. Traditional healing in a safe, guided setting.",
     type: "website",
     locale: "en_US",
     /* TODO: Add OG image URL after deployment */
