@@ -1,35 +1,12 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 
 export default function ContactForm() {
-  const [submitted, setSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
-
-  if (submitted) {
-    return (
-      <div className="rounded-2xl border border-forest/20 bg-forest/5 p-10 text-center">
-        <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-forest/10">
-          <svg
-            className="h-7 w-7 text-forest"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-          >
-            <path d="M5 13l4 4L19 7" />
-          </svg>
-        </div>
-        <h3 className="font-serif text-2xl text-brown-900">
-          Message Received
-        </h3>
-        <p className="mt-3 text-base text-brown-800">
-          Thank you for reaching out. We will get back to you within 48 hours.
-        </p>
-      </div>
-    );
-  }
+  const router = useRouter();
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -50,7 +27,7 @@ export default function ContactForm() {
       const result = await res.json();
 
       if (result.success) {
-        setSubmitted(true);
+        router.push("/thank-you");
       } else {
         setError("Something went wrong. Please try again or email us directly.");
       }
