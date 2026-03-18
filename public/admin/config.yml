@@ -6,19 +6,70 @@ backend:
 media_folder: "public/images/blog"
 public_folder: "/images/blog"
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
 collections:
   - name: "blog"
     label: "Blog Posts"
+    label_singular: "Blog Post"
     folder: "content/blog"
     create: true
     slug: "{{slug}}"
+    sortable_fields: ["date", "title"]
+    view_groups:
+      - label: "Category"
+        field: "category"
+      - label: "Language"
+        field: "language"
+      - label: "Draft"
+        field: "draft"
+    summary: "{{title}} — {{category}} ({{date}})"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
-      - { label: "Category", name: "category", widget: "select", options: ["Guidance", "Preparation", "Tradition", "Integration", "Wellness", "Community"] }
+      # Core
+      - { label: "Title", name: "title", widget: "string", hint: "The main headline (H1). Keep under 60 characters for SEO." }
+      - { label: "Slug", name: "slug", widget: "string", hint: "URL-friendly version of the title. Use lowercase and hyphens only." }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - "Guidance"
+          - "Preparation"
+          - "Tradition"
+          - "Integration"
+          - "Wellness"
+          - "Community"
+          - "Culture"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        hint: "Comma-separated tags for related content linking."
       - { label: "Read Time", name: "readTime", widget: "string", default: "8 min read" }
-      - { label: "Featured Image", name: "image", widget: "image" }
-      - { label: "Image Alt Text", name: "imageAlt", widget: "string" }
-      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - label: "Language"
+        name: "language"
+        widget: "select"
+        default: "en"
+        options:
+          - { label: "English", value: "en" }
+          - { label: "Spanish", value: "es" }
+
+      # Media
+      - { label: "Featured Image", name: "image", widget: "image", hint: "Recommended: 1200x630px for optimal social sharing." }
+      - { label: "Image Alt Text", name: "imageAlt", widget: "string", hint: "Describe the image for accessibility and SEO." }
+
+      # SEO overrides
+      - { label: "Meta Title", name: "metaTitle", widget: "string", required: false, hint: "Custom <title> tag. Defaults to post title if blank. Keep under 60 chars." }
+      - { label: "Meta Description", name: "metaDescription", widget: "text", required: false, hint: "Custom meta description. Defaults to excerpt if blank. Keep under 155 chars." }
+
+      # Content
+      - { label: "Excerpt", name: "excerpt", widget: "text", hint: "Short summary shown on blog cards and in search results. 1-2 sentences." }
       - { label: "Body", name: "body", widget: "markdown" }
+
+      # Publishing
+      - { label: "Author", name: "author", widget: "string", default: "Mai Niti Alternative", required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false, hint: "Draft posts are hidden from the live site." }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false, required: false, hint: "Pin this post to the top of the blog." }

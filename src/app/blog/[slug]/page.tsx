@@ -20,18 +20,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = getPostBySlug(slug);
   if (!post) return {};
 
+  const metaTitle = post.metaTitle || post.title;
+  const metaDesc = post.metaDescription || post.excerpt;
+
   return {
-    title: `${post.title} | Mai Niti Alternative`,
-    description: post.excerpt,
+    title: `${metaTitle} | Mai Niti Alternative`,
+    description: metaDesc,
     alternates: {
       canonical: `https://mainiti.org/blog/${slug}`,
     },
     openGraph: {
-      title: post.title,
-      description: post.excerpt,
+      title: metaTitle,
+      description: metaDesc,
       type: "article",
       publishedTime: post.date,
       url: `https://mainiti.org/blog/${slug}`,
+      images: post.image ? [{ url: post.image, alt: post.imageAlt }] : [],
     },
   };
 }
@@ -72,7 +76,7 @@ export default async function BlogPost({ params }: Props) {
     dateModified: post.date,
     author: {
       "@type": "Organization",
-      name: "Mai Niti Alternative",
+      name: post.author || "Mai Niti Alternative",
       url: "https://mainiti.org",
     },
     publisher: {
