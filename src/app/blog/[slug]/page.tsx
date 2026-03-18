@@ -4,6 +4,8 @@ import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { getAllPosts, getPostBySlug } from "@/lib/blog";
+import ShareButtons from "@/components/blog/ShareButtons";
+import TableOfContents from "@/components/blog/TableOfContents";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -138,31 +140,56 @@ export default async function BlogPost({ params }: Props) {
         </div>
       )}
 
-      {/* Article Content */}
+      {/* Article Content with Sidebar */}
       <section className="bg-cream py-16 md:py-24">
-        <div className="mx-auto max-w-3xl px-6 lg:px-8">
-          <article
-            className="prose-article [&>h2]:mt-10 [&>h2]:mb-4 [&>h2]:font-serif [&>h2]:text-2xl [&>h2]:text-brown-900 [&>h2]:md:text-3xl [&>p]:mb-5 [&>p]:text-base [&>p]:leading-relaxed [&>p]:text-brown-800 [&>ul]:mb-5 [&>ul]:list-disc [&>ul]:space-y-2 [&>ul]:pl-6 [&>ul]:text-base [&>ul]:leading-relaxed [&>ul]:text-brown-800 [&>ol]:mb-5 [&>ol]:list-decimal [&>ol]:space-y-2 [&>ol]:pl-6 [&>ol]:text-base [&>ol]:leading-relaxed [&>ol]:text-brown-800 [&_a]:text-brown-600 [&_a]:underline [&_a]:decoration-brown-600/30 [&_a]:underline-offset-4 hover:[&_a]:text-brown-900 [&_strong]:font-semibold [&_strong]:text-brown-900"
-            dangerouslySetInnerHTML={{ __html: post.content }}
-          />
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="relative lg:grid lg:grid-cols-[1fr_minmax(0,_720px)_1fr] lg:gap-8">
 
-          {/* Back to Journal */}
-          <div className="mt-16 border-t border-brown-200 pt-8">
-            <Link
-              href="/blog"
-              className="inline-flex items-center gap-2 font-display text-sm font-medium text-brown-600 transition-colors hover:text-brown-900"
-            >
-              <svg
-                className="h-4 w-4"
-                viewBox="0 0 16 16"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="1.5"
-              >
-                <path d="M10 4L6 8L10 12" />
-              </svg>
-              Back to Journal
-            </Link>
+            {/* Left sidebar: Share buttons (sticky) */}
+            <div className="hidden lg:block">
+              <div className="sticky top-32">
+                <ShareButtons title={post.title} slug={post.slug} />
+              </div>
+            </div>
+
+            {/* Main article */}
+            <div>
+              <article
+                className="prose-article [&>h2]:mt-10 [&>h2]:mb-4 [&>h2]:scroll-mt-24 [&>h2]:font-serif [&>h2]:text-2xl [&>h2]:text-brown-900 [&>h2]:md:text-3xl [&>h3]:mt-8 [&>h3]:mb-3 [&>h3]:scroll-mt-24 [&>h3]:font-serif [&>h3]:text-xl [&>h3]:text-brown-900 [&>p]:mb-5 [&>p]:text-base [&>p]:leading-relaxed [&>p]:text-brown-800 [&>p]:md:text-lg [&>ul]:mb-5 [&>ul]:list-disc [&>ul]:space-y-2 [&>ul]:pl-6 [&>ul]:text-base [&>ul]:leading-relaxed [&>ul]:text-brown-800 [&>ol]:mb-5 [&>ol]:list-decimal [&>ol]:space-y-2 [&>ol]:pl-6 [&>ol]:text-base [&>ol]:leading-relaxed [&>ol]:text-brown-800 [&_a]:text-brown-600 [&_a]:underline [&_a]:decoration-brown-600/30 [&_a]:underline-offset-4 hover:[&_a]:text-brown-900 [&_strong]:font-semibold [&_strong]:text-brown-900 [&_figure]:my-8 [&_figcaption]:mt-3 [&_figcaption]:text-center [&_figcaption]:text-sm [&_figcaption]:italic [&_figcaption]:text-brown-500"
+                dangerouslySetInnerHTML={{ __html: post.content }}
+              />
+
+              {/* Mobile share buttons */}
+              <div className="mt-12 flex items-center justify-center gap-4 border-t border-brown-200 pt-8 lg:hidden">
+                <ShareButtons title={post.title} slug={post.slug} />
+              </div>
+
+              {/* Back to Journal */}
+              <div className="mt-12 border-t border-brown-200 pt-8 lg:mt-16">
+                <Link
+                  href="/blog"
+                  className="inline-flex items-center gap-2 font-display text-sm font-medium text-brown-600 transition-colors hover:text-brown-900"
+                >
+                  <svg
+                    className="h-4 w-4"
+                    viewBox="0 0 16 16"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.5"
+                  >
+                    <path d="M10 4L6 8L10 12" />
+                  </svg>
+                  Back to Journal
+                </Link>
+              </div>
+            </div>
+
+            {/* Right sidebar: Table of Contents (sticky) */}
+            <div className="hidden lg:block">
+              <div className="sticky top-32">
+                <TableOfContents headings={post.headings} />
+              </div>
+            </div>
           </div>
         </div>
       </section>
