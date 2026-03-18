@@ -64,7 +64,7 @@ export default function ContactForm() {
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
       {/* Web3Forms access key - get yours free at web3forms.com */}
-      <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY" />
+      <input type="hidden" name="access_key" value="50f7767f-586d-47cb-a319-ed3ac7f91139" />
       <input type="hidden" name="subject" value="New inquiry from Mai Niti website" />
       <input type="hidden" name="from_name" value="Mai Niti Website" />
 
