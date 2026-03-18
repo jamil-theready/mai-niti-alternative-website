@@ -29,12 +29,21 @@ export const metadata: Metadata = {
     locale: "en_US",
     siteName: "Mai Niti Alternative",
     url: "https://mainiti.org",
+    images: [
+      {
+        url: "/images/site/pucallpa-yarinacocha.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Mai Niti Alternative healing retreat in the Peruvian Amazon",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Mai Niti Alternative | Plant Medicine Healing Retreats in Peru",
     description:
       "Transformative plant medicine ceremonies and healing retreats in the Peruvian Amazon.",
+    images: ["/images/site/pucallpa-yarinacocha.jpg"],
   },
   robots: {
     index: true,

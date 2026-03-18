@@ -4,6 +4,8 @@ import { useState } from "react";
 
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
 
   if (submitted) {
     return (
@@ -29,31 +31,43 @@ export default function ContactForm() {
     );
   }
 
-  function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     const form = e.currentTarget;
     const data = new FormData(form);
 
     if (data.get("bot-field")) return;
 
-    const name = data.get("name") || "";
-    const lastName = data.get("lastName") || "";
-    const email = data.get("email") || "";
-    const message = data.get("message") || "";
+    setLoading(true);
+    setError("");
 
-    const subject = encodeURIComponent(
-      `New inquiry from ${name} ${lastName}`.trim()
-    );
-    const body = encodeURIComponent(
-      `Name: ${name} ${lastName}\nEmail: ${email}\n\nMessage:\n${message}`
-    );
+    try {
+      const res = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        body: data,
+      });
 
-    window.location.href = `mailto:info@mainiti.org?subject=${subject}&body=${body}`;
-    setSubmitted(true);
+      const result = await res.json();
+
+      if (result.success) {
+        setSubmitted(true);
+      } else {
+        setError("Something went wrong. Please try again or email us directly.");
+      }
+    } catch {
+      setError("Connection error. Please try again or email us at info@mainiti.org");
+    } finally {
+      setLoading(false);
+    }
   }
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
+      {/* Web3Forms access key - get yours free at web3forms.com */}
+      <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY" />
+      <input type="hidden" name="subject" value="New inquiry from Mai Niti website" />
+      <input type="hidden" name="from_name" value="Mai Niti Website" />
+
       <div className="grid gap-6 sm:grid-cols-2">
         <div>
           <label
@@ -83,7 +97,7 @@ export default function ContactForm() {
             id="lastName"
             name="lastName"
             className="mt-2 w-full rounded-xl border border-brown-200 bg-white px-4 py-3 text-base text-brown-900 outline-none transition-colors placeholder:text-brown-400 focus:border-brown-600 focus:ring-1 focus:ring-brown-600"
-            placeholder="Your lastName"
+            placeholder="Your last name"
           />
         </div>
       </div>
@@ -127,11 +141,16 @@ export default function ContactForm() {
         <input type="text" name="bot-field" tabIndex={-1} autoComplete="off" />
       </div>
 
+      {error && (
+        <p className="text-sm text-red-600">{error}</p>
+      )}
+
       <button
         type="submit"
-        className="w-full rounded-full bg-brown-900 px-8 py-4 font-display text-sm font-semibold tracking-wide text-cream transition-colors hover:bg-brown-800"
+        disabled={loading}
+        className="w-full rounded-full bg-brown-900 px-8 py-4 font-display text-sm font-semibold tracking-wide text-cream transition-colors hover:bg-brown-800 disabled:opacity-50"
       >
-        Send message
+        {loading ? "Sending..." : "Send message"}
       </button>
     </form>
   );
