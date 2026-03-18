@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: jamil-theready/mai-niti-alternative-website
+  branch: main
+
+media_folder: "public/images/blog"
+public_folder: "/images/blog"
+
+collections:
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Category", name: "category", widget: "select", options: ["Guidance", "Preparation", "Tradition", "Integration", "Wellness", "Community"] }
+      - { label: "Read Time", name: "readTime", widget: "string", default: "8 min read" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Image Alt Text", name: "imageAlt", widget: "string" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }

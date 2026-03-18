@@ -1,7 +1,7 @@
-import { blogPosts } from "@/lib/blog-data";
+import { getAllPosts } from "@/lib/blog";
 
 export default function BlogPreview() {
-  const posts = blogPosts.slice(0, 5);
+  const posts = getAllPosts().slice(0, 5);
   const featured = posts[0];
   const sidePosts = posts.slice(1, 3);
   const bottomPosts = posts.slice(3, 5);

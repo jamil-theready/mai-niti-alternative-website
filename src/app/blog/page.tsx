@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { blogPosts } from "@/lib/blog-data";
+import { getAllPosts } from "@/lib/blog";
 
 export const metadata: Metadata = {
   title: "Explore Our Blog | Mai Niti Alternative",
@@ -21,12 +21,9 @@ export const metadata: Metadata = {
 };
 
 export default function BlogIndex() {
-  const sortedPosts = [...blogPosts].sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-  );
-
-  const featured = sortedPosts[0];
-  const rest = sortedPosts.slice(1);
+  const posts = getAllPosts();
+  const featured = posts[0];
+  const rest = posts.slice(1);
 
   return (
     <main>

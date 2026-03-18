@@ -3,21 +3,21 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { blogPosts } from "@/lib/blog-data";
+import { getAllPosts, getPostBySlug } from "@/lib/blog";
 
 type Props = {
   params: Promise<{ slug: string }>;
 };
 
 export async function generateStaticParams() {
-  return blogPosts.map((post) => ({
+  return getAllPosts().map((post) => ({
     slug: post.slug,
   }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const post = blogPosts.find((p) => p.slug === slug);
+  const post = getPostBySlug(slug);
   if (!post) return {};
 
   return {
@@ -38,20 +38,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function BlogPost({ params }: Props) {
   const { slug } = await params;
-  const post = blogPosts.find((p) => p.slug === slug);
+  const post = getPostBySlug(slug);
 
   if (!post) {
     notFound();
   }
 
+  const allPosts = getAllPosts();
+
   // Get related posts (same category, exclude current)
-  const relatedPosts = blogPosts
+  const relatedPosts = allPosts
     .filter((p) => p.category === post.category && p.slug !== post.slug)
     .slice(0, 3);
 
   // If not enough same-category, fill with others
   if (relatedPosts.length < 3) {
-    const others = blogPosts
+    const others = allPosts
       .filter(
         (p) =>
           p.slug !== post.slug &&
