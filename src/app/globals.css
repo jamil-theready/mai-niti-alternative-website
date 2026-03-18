@@ -35,3 +35,16 @@ body {
   background-color: var(--color-brown-600);
   color: var(--color-cream);
 }
+
+.bg-grid-subtle {
+  background-image: radial-gradient(circle, rgba(42,26,19,0.05) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Hide scrollbar for horizontal scroll sections */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  scrollbar-width: none;
+}

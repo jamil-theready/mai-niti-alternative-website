@@ -1,98 +1,138 @@
-const blogPosts = [
-  {
-    slug: "what-is-a-dieta-plant-medicine-explained",
-    title: "What Is a Dieta? Plant Medicine Tradition Explained",
-    excerpt:
-      "The dieta is one of the most important yet misunderstood aspects of Amazonian plant medicine. Learn what it involves, why it matters, and how it deepens the healing process.",
-    category: "Tradition",
-  },
-  {
-    slug: "what-to-expect-healing-retreat-peru",
-    title: "What to Expect at a Healing Retreat in Peru",
-    excerpt:
-      "Your first plant medicine retreat can feel daunting. Here is a clear, honest walkthrough of what happens before, during, and after, so you can arrive prepared.",
-    category: "Preparation",
-  },
-  {
-    slug: "how-to-prepare-for-ceremony",
-    title: "How to Prepare for a Sacred Ceremony",
-    excerpt:
-      "Preparation is half the journey. From dietary guidelines to setting intentions, this guide covers everything you need to do in the weeks before ceremony.",
-    category: "Preparation",
-  },
-  {
-    slug: "retreat-anxiety-how-to-manage-fear",
-    title: "Retreat Anxiety: How to Manage Fear Before Ceremony",
-    excerpt:
-      "Feeling nervous before your first ceremony is completely normal. Here is how to work with that anxiety instead of letting it hold you back from healing.",
-    category: "Wellness",
-  },
-  {
-    slug: "amazon-vs-sacred-valley-retreats-which-is-right",
-    title: "Amazon vs Sacred Valley: Which Retreat Setting Is Right for You?",
-    excerpt:
-      "Peru offers two very different landscapes for plant medicine work. We compare the Amazon jungle and Sacred Valley settings to help you choose the right fit.",
-    category: "Guidance",
-  },
-  {
-    slug: "pucallpa-yarinacocha-healing-traditions",
-    title: "Pucallpa and Yarinacocha: A Living Tradition of Healing",
-    excerpt:
-      "The Pucallpa-Yarinacocha region has been a center of Shipibo healing for centuries. Discover why this area remains the heartbeat of Amazonian plant medicine.",
-    category: "Culture",
-  },
-];
+import { blogPosts } from "@/lib/blog-data";
 
 export default function BlogPreview() {
+  const posts = blogPosts.slice(0, 5);
+  const featured = posts[0];
+  const sidePosts = posts.slice(1, 3);
+  const bottomPosts = posts.slice(3, 5);
+
   return (
-    <section id="blog" className="bg-cream-light py-24 md:py-32">
+    <section id="blog" className="bg-cream-light bg-grid-subtle py-16 md:py-24">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         {/* Section header */}
-        <div className="flex flex-col items-start justify-between gap-6 md:flex-row md:items-end">
-          <div>
-            <span className="font-display text-xs tracking-[0.2em] text-brown-800 uppercase">
-              From the Journal
-            </span>
-            <h2 className="mt-4 font-serif text-4xl leading-tight text-brown-900 md:text-5xl">
-              Learn Before <span className="italic">You Journey</span>
-            </h2>
-          </div>
-          {/* TODO: Link to actual /blog page once built */}
-          <a
-            href="/blog"
-            className="font-display text-sm font-medium text-brown-800 underline decoration-brown-800/30 underline-offset-4 transition-colors hover:text-brown-900"
-          >
-            View all articles
-          </a>
+        <div className="text-center">
+          <h2 className="font-serif text-5xl font-bold leading-tight text-brown-900 md:text-7xl">
+            Inspiring Insights for
+            <br />
+            <span className="italic">Lasting Growth</span>
+          </h2>
         </div>
 
-        {/* Blog grid */}
-        <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {blogPosts.map((post) => (
-            <article
-              key={post.slug}
-              className="group flex flex-col rounded-2xl border border-brown-200/60 bg-white p-6 transition-all hover:border-brown-300 hover:shadow-lg md:p-8"
-            >
-              <span className="mb-4 inline-block w-fit rounded-full bg-brown-900/10 px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-brown-800 uppercase">
-                {post.category}
-              </span>
-              <h3 className="font-serif text-xl leading-snug text-brown-900 transition-colors group-hover:text-brown-600">
-                {/* TODO: Link to actual blog post page */}
-                <a href={`/blog/${post.slug}`}>{post.title}</a>
-              </h3>
-              <p className="mt-3 flex-1 text-sm leading-relaxed text-brown-900">
-                {post.excerpt}
-              </p>
-              <div className="mt-6">
-                <a
-                  href={`/blog/${post.slug}`}
-                  className="font-display text-xs font-medium tracking-wide text-brown-600 transition-colors group-hover:text-brown-900"
-                >
-                  Read more &rarr;
-                </a>
+        {/* Asymmetric layout: large left + 2 stacked right */}
+        <div className="mt-14 grid gap-6 lg:grid-cols-2">
+          {/* Featured large card */}
+          <a
+            href={`/blog/${featured.slug}`}
+            className="group relative flex aspect-[4/5] flex-col justify-end overflow-hidden rounded-2xl lg:aspect-auto lg:row-span-2"
+          >
+            {featured.image ? (
+              <div className="absolute inset-0 bg-brown-200/30">
+                <img
+                  src={featured.image}
+                  alt={featured.imageAlt || featured.title}
+                  className="h-full w-full object-cover transition-all duration-500 group-hover:scale-105"
+                />
               </div>
-            </article>
+            ) : (
+              <div className="absolute inset-0 bg-gradient-to-br from-brown-800 to-brown-900" />
+            )}
+            <div className="absolute inset-0 bg-gradient-to-t from-brown-900/90 via-brown-900/20 to-transparent" />
+            <div className="relative z-10 p-8 md:p-10">
+              <span className="mb-4 inline-block rounded-full bg-forest px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-white uppercase">
+                {featured.category}
+              </span>
+              <h3 className="font-serif text-3xl font-bold leading-snug text-cream md:text-4xl">
+                {featured.title}
+              </h3>
+              <time
+                dateTime={featured.date}
+                className="mt-4 block font-display text-xs text-cream/50"
+              >
+                {new Date(featured.date).toLocaleDateString("en-US", {
+                  month: "long",
+                  day: "numeric",
+                  year: "numeric",
+                })}
+              </time>
+            </div>
+          </a>
+
+          {/* 2 stacked cards on right */}
+          {sidePosts.map((post) => (
+            <a
+              key={post.slug}
+              href={`/blog/${post.slug}`}
+              className="group relative flex aspect-[2/1] flex-col justify-end overflow-hidden rounded-2xl"
+            >
+              {post.image ? (
+                <div className="absolute inset-0 bg-brown-200/30">
+                  <img
+                    src={post.image}
+                    alt={post.imageAlt || post.title}
+                    className="h-full w-full object-cover transition-all duration-500 group-hover:scale-105"
+                    loading="lazy"
+                  />
+                </div>
+              ) : (
+                <div className="absolute inset-0 bg-gradient-to-br from-brown-800 to-brown-900" />
+              )}
+              <div className="absolute inset-0 bg-gradient-to-t from-brown-900/90 via-brown-900/30 to-transparent" />
+              <div className="relative z-10 p-6 md:p-8">
+                <span className="mb-2 inline-block rounded-full bg-forest px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-white uppercase">
+                  {post.category}
+                </span>
+                <h3 className="font-serif text-xl font-bold leading-snug text-cream md:text-2xl">
+                  {post.title}
+                </h3>
+              </div>
+            </a>
           ))}
+        </div>
+
+        {/* 2 more cards below */}
+        {bottomPosts.length > 0 && (
+          <div className="mt-6 grid gap-6 md:grid-cols-2">
+            {bottomPosts.map((post) => (
+              <a
+                key={post.slug}
+                href={`/blog/${post.slug}`}
+                className="group relative flex aspect-[2/1] flex-col justify-end overflow-hidden rounded-2xl"
+              >
+                {post.image ? (
+                  <div className="absolute inset-0 bg-brown-200/30">
+                    <img
+                      src={post.image}
+                      alt={post.imageAlt || post.title}
+                      className="h-full w-full object-cover transition-all duration-500 group-hover:scale-105"
+                      loading="lazy"
+                    />
+                  </div>
+                ) : (
+                  <div className="absolute inset-0 bg-gradient-to-br from-brown-800 to-brown-900" />
+                )}
+                <div className="absolute inset-0 bg-gradient-to-t from-brown-900/90 via-brown-900/30 to-transparent" />
+                <div className="relative z-10 p-6 md:p-8">
+                  <span className="mb-2 inline-block rounded-full bg-forest px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-white uppercase">
+                    {post.category}
+                  </span>
+                  <h3 className="font-serif text-xl font-bold leading-snug text-cream md:text-2xl">
+                    {post.title}
+                  </h3>
+                </div>
+              </a>
+            ))}
+          </div>
+        )}
+
+        {/* Read more button */}
+        <div className="mt-10 flex justify-center">
+          <a
+            href="/blog"
+            className="group inline-flex items-center gap-2 rounded-full bg-brown-900 px-8 py-3.5 font-display text-sm font-semibold tracking-wide text-cream transition-all hover:bg-brown-800 hover:shadow-lg"
+          >
+            Read more
+            <span className="transition-transform group-hover:translate-x-1">&rarr;</span>
+          </a>
         </div>
       </div>
     </section>

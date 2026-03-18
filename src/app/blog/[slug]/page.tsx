@@ -23,11 +23,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${post.title} | Mai Niti Alternative`,
     description: post.excerpt,
+    alternates: {
+      canonical: `https://mainiti.org/blog/${slug}`,
+    },
     openGraph: {
       title: post.title,
       description: post.excerpt,
       type: "article",
       publishedTime: post.date,
+      url: `https://mainiti.org/blog/${slug}`,
     },
   };
 }
@@ -57,8 +61,35 @@ export default async function BlogPost({ params }: Props) {
     relatedPosts.push(...others);
   }
 
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.excerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      "@type": "Organization",
+      name: "Mai Niti Alternative",
+      url: "https://mainiti.org",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Mai Niti Alternative",
+      url: "https://mainiti.org",
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://mainiti.org/blog/${post.slug}`,
+    },
+  };
+
   return (
     <main>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <Navbar />
 
       {/* Hero */}
@@ -85,6 +116,21 @@ export default async function BlogPost({ params }: Props) {
           </time>
         </div>
       </section>
+
+      {/* Featured Image */}
+      {post.image && (
+        <div className="bg-cream pt-12 md:pt-16">
+          <div className="mx-auto max-w-4xl px-6 lg:px-8">
+            <div className="aspect-[2/1] overflow-hidden rounded-2xl">
+              <img
+                src={post.image}
+                alt={post.imageAlt || post.title}
+                className="h-full w-full object-cover"
+              />
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Article Content */}
       <section className="bg-cream py-16 md:py-24">

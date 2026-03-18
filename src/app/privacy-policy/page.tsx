@@ -6,6 +6,16 @@ export const metadata: Metadata = {
   title: "Privacy Policy | Mai Niti Alternative",
   description:
     "Privacy policy for Mai Niti Alternative. Learn how we collect, use, and protect your personal information.",
+  alternates: {
+    canonical: "https://mainiti.org/privacy-policy",
+  },
+  openGraph: {
+    title: "Privacy Policy | Mai Niti Alternative",
+    description:
+      "Privacy policy for Mai Niti Alternative. Learn how we collect, use, and protect your personal information.",
+    type: "website",
+    url: "https://mainiti.org/privacy-policy",
+  },
 };
 
 export default function PrivacyPolicyPage() {

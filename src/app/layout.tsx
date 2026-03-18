@@ -17,14 +17,92 @@ export const metadata: Metadata = {
     "Pucallpa retreat",
     "spiritual healing Peru",
   ],
+  metadataBase: new URL("https://mainiti.org"),
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
     title: "Mai Niti Alternative | Plant Medicine Healing Retreats in Peru",
     description:
       "Transformative plant medicine ceremonies and healing retreats in the Peruvian Amazon. Traditional healing in a safe, guided setting.",
     type: "website",
     locale: "en_US",
-    /* TODO: Add OG image URL after deployment */
+    siteName: "Mai Niti Alternative",
+    url: "https://mainiti.org",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Mai Niti Alternative | Plant Medicine Healing Retreats in Peru",
+    description:
+      "Transformative plant medicine ceremonies and healing retreats in the Peruvian Amazon.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+};
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Mai Niti Alternative",
+  url: "https://mainiti.org",
+  email: "info@mainiti.org",
+  telephone: "+51-961-741-743",
+  description:
+    "Traditional plant medicine healing retreat center in the Peruvian Amazon, guided by experienced Shipibo curanderos.",
+  address: {
+    "@type": "PostalAddress",
+    addressLocality: "Pucallpa",
+    addressRegion: "Ucayali",
+    addressCountry: "PE",
+  },
+  sameAs: [
+    "https://www.facebook.com/mainitialternative",
+    "https://www.instagram.com/mainitialternative",
+    "https://www.youtube.com/@mainitialternative",
+  ],
+};
+
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "HealthAndBeautyBusiness",
+  name: "Mai Niti Alternative",
+  url: "https://mainiti.org",
+  email: "info@mainiti.org",
+  telephone: "+51-961-741-743",
+  description:
+    "Plant medicine healing retreat center offering sacred ceremonies, dieta programs, and healing retreats in the Peruvian Amazon.",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "Near Yarinacocha",
+    addressLocality: "Pucallpa",
+    addressRegion: "Ucayali",
+    postalCode: "25000",
+    addressCountry: "PE",
+  },
+  geo: {
+    "@type": "GeoCoordinates",
+    latitude: -8.271167,
+    longitude: -74.641795,
+  },
+  openingHoursSpecification: {
+    "@type": "OpeningHoursSpecification",
+    dayOfWeek: [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday",
+    ],
+    opens: "00:00",
+    closes: "23:59",
+  },
+  priceRange: "$$",
+  areaServed: "Worldwide",
+  knowsLanguage: ["English", "Spanish", "Shipibo"],
 };
 
 export default function RootLayout({
@@ -44,6 +122,18 @@ export default function RootLayout({
         <link
           href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;700;900&display=swap"
           rel="stylesheet"
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationSchema),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(localBusinessSchema),
+          }}
         />
       </head>
       <body className="antialiased">{children}</body>

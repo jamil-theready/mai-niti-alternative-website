@@ -24,36 +24,51 @@ export default function ContactForm() {
         </h3>
         <p className="mt-3 text-base text-brown-800">
           Thank you for reaching out. We will get back to you within 48 hours.
-          Check your email for our response.
         </p>
       </div>
     );
   }
 
+  function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
+    e.preventDefault();
+    const form = e.currentTarget;
+    const data = new FormData(form);
+
+    if (data.get("bot-field")) return;
+
+    const name = data.get("name") || "";
+    const lastName = data.get("lastName") || "";
+    const email = data.get("email") || "";
+    const message = data.get("message") || "";
+
+    const subject = encodeURIComponent(
+      `New inquiry from ${name} ${lastName}`.trim()
+    );
+    const body = encodeURIComponent(
+      `Name: ${name} ${lastName}\nEmail: ${email}\n\nMessage:\n${message}`
+    );
+
+    window.location.href = `mailto:info@mainiti.org?subject=${subject}&body=${body}`;
+    setSubmitted(true);
+  }
+
   return (
-    <form
-      onSubmit={(e) => {
-        e.preventDefault();
-        setSubmitted(true);
-      }}
-      className="space-y-6"
-    >
-      {/* Name */}
+    <form onSubmit={handleSubmit} className="space-y-6">
       <div className="grid gap-6 sm:grid-cols-2">
         <div>
           <label
-            htmlFor="firstName"
+            htmlFor="name"
             className="block font-display text-xs font-semibold tracking-wide text-brown-900 uppercase"
           >
-            First Name <span className="text-brown-500">*</span>
+            Name <span className="text-brown-500">*</span>
           </label>
           <input
             type="text"
-            id="firstName"
-            name="firstName"
+            id="name"
+            name="name"
             required
             className="mt-2 w-full rounded-xl border border-brown-200 bg-white px-4 py-3 text-base text-brown-900 outline-none transition-colors placeholder:text-brown-400 focus:border-brown-600 focus:ring-1 focus:ring-brown-600"
-            placeholder="Your first name"
+            placeholder="Your name"
           />
         </div>
         <div>
@@ -68,12 +83,11 @@ export default function ContactForm() {
             id="lastName"
             name="lastName"
             className="mt-2 w-full rounded-xl border border-brown-200 bg-white px-4 py-3 text-base text-brown-900 outline-none transition-colors placeholder:text-brown-400 focus:border-brown-600 focus:ring-1 focus:ring-brown-600"
-            placeholder="Your last name"
+            placeholder="Your lastName"
           />
         </div>
       </div>
 
-      {/* Email */}
       <div>
         <label
           htmlFor="email"
@@ -91,35 +105,12 @@ export default function ContactForm() {
         />
       </div>
 
-      {/* Interest */}
-      <div>
-        <label
-          htmlFor="interest"
-          className="block font-display text-xs font-semibold tracking-wide text-brown-900 uppercase"
-        >
-          What interests you?
-        </label>
-        <select
-          id="interest"
-          name="interest"
-          className="mt-2 w-full rounded-xl border border-brown-200 bg-white px-4 py-3 text-base text-brown-900 outline-none transition-colors focus:border-brown-600 focus:ring-1 focus:ring-brown-600"
-        >
-          <option value="">Select an option</option>
-          <option value="ceremony">Sacred Ceremony</option>
-          <option value="dieta">Plant Medicine Dieta</option>
-          <option value="retreat">Healing Retreat</option>
-          <option value="private">Private Ceremony</option>
-          <option value="unsure">Not sure yet</option>
-        </select>
-      </div>
-
-      {/* Message */}
       <div>
         <label
           htmlFor="message"
           className="block font-display text-xs font-semibold tracking-wide text-brown-900 uppercase"
         >
-          Your Message <span className="text-brown-500">*</span>
+          Message <span className="text-brown-500">*</span>
         </label>
         <textarea
           id="message"
@@ -138,9 +129,9 @@ export default function ContactForm() {
 
       <button
         type="submit"
-        className="w-full rounded-full bg-brown-900 px-8 py-4 font-display text-sm font-semibold tracking-wide text-cream transition-colors hover:bg-brown-800 sm:w-auto"
+        className="w-full rounded-full bg-brown-900 px-8 py-4 font-display text-sm font-semibold tracking-wide text-cream transition-colors hover:bg-brown-800"
       >
-        Send Message
+        Send message
       </button>
     </form>
   );
