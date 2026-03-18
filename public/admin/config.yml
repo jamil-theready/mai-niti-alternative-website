@@ -67,7 +67,28 @@ collections:
 
       # Content
       - { label: "Excerpt", name: "excerpt", widget: "text", hint: "Short summary shown on blog cards and in search results. 1-2 sentences." }
+      - label: "Quick Answer"
+        name: "quickAnswer"
+        widget: "text"
+        required: false
+        hint: "A 1-2 sentence direct answer to the question in the title. AI search engines grab this first. Write as if answering someone directly."
+      - label: "Key Takeaways"
+        name: "keyTakeaways"
+        widget: "list"
+        required: false
+        hint: "3-5 bullet point takeaways shown at the top of the post. AI engines love structured summaries."
+        field: { label: "Takeaway", name: "takeaway", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+      # AEO (Answer Engine Optimization)
+      - label: "FAQ Section"
+        name: "faq"
+        widget: "list"
+        required: false
+        hint: "Q&A pairs that generate FAQ schema. AI engines directly pull these as answers."
+        fields:
+          - { label: "Question", name: "question", widget: "string" }
+          - { label: "Answer", name: "answer", widget: "text" }
 
       # Publishing
       - { label: "Author", name: "author", widget: "string", default: "Mai Niti Alternative", required: false }

@@ -2,6 +2,11 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
+export interface FAQItem {
+  question: string;
+  answer: string;
+}
+
 export interface BlogPost {
   slug: string;
   title: string;
@@ -16,6 +21,10 @@ export interface BlogPost {
   // SEO
   metaTitle: string;
   metaDescription: string;
+  // AEO
+  quickAnswer: string;
+  keyTakeaways: string[];
+  faq: FAQItem[];
   // Extra
   author: string;
   tags: string[];
@@ -122,6 +131,9 @@ export function getAllPosts(includeDrafts = false): BlogPost[] {
         headings: extractHeadings(content),
         metaTitle: data.metaTitle || "",
         metaDescription: data.metaDescription || "",
+        quickAnswer: data.quickAnswer || "",
+        keyTakeaways: data.keyTakeaways || [],
+        faq: data.faq || [],
         author: data.author || "Mai Niti Alternative",
         tags: data.tags || [],
         language: data.language || "en",

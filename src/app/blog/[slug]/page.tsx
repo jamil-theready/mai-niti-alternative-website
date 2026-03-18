@@ -73,7 +73,7 @@ export default async function BlogPost({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     headline: post.title,
-    description: post.excerpt,
+    description: post.metaDescription || post.excerpt,
     datePublished: post.date,
     dateModified: post.date,
     author: {
@@ -90,7 +90,30 @@ export default async function BlogPost({ params }: Props) {
       "@type": "WebPage",
       "@id": `https://mainiti.org/blog/${post.slug}`,
     },
+    ...(post.image && {
+      image: {
+        "@type": "ImageObject",
+        url: `https://mainiti.org${post.image}`,
+      },
+    }),
   };
+
+  // FAQ Schema for AEO
+  const faqSchema =
+    post.faq.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: post.faq.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+        }
+      : null;
 
   return (
     <main>
@@ -98,6 +121,12 @@ export default async function BlogPost({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       <Navbar />
 
       {/* Hero */}
@@ -154,10 +183,65 @@ export default async function BlogPost({ params }: Props) {
 
             {/* Main article */}
             <div>
+              {/* Quick Answer - AEO: AI engines grab this first */}
+              {post.quickAnswer && (
+                <div className="mb-10 rounded-2xl border border-forest/20 bg-forest/5 p-6 md:p-8">
+                  <p className="font-display text-[10px] font-semibold tracking-[0.15em] text-forest uppercase">
+                    Quick Answer
+                  </p>
+                  <p className="mt-3 text-base leading-relaxed text-brown-900 md:text-lg">
+                    {post.quickAnswer}
+                  </p>
+                </div>
+              )}
+
+              {/* Key Takeaways - AEO: structured summary for AI */}
+              {post.keyTakeaways.length > 0 && (
+                <div className="mb-10 rounded-2xl border border-brown-200 bg-cream-light p-6 md:p-8">
+                  <p className="font-display text-[10px] font-semibold tracking-[0.15em] text-brown-600 uppercase">
+                    Key Takeaways
+                  </p>
+                  <ul className="mt-4 space-y-3">
+                    {post.keyTakeaways.map((item, i) => (
+                      <li
+                        key={i}
+                        className="flex gap-3 text-base leading-relaxed text-brown-800"
+                      >
+                        <span className="mt-1 flex h-5 w-5 flex-shrink-0 items-center justify-center rounded-full bg-forest/10 text-xs font-semibold text-forest">
+                          {i + 1}
+                        </span>
+                        {item}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
               <article
                 className="prose-article [&>h2]:mt-10 [&>h2]:mb-4 [&>h2]:scroll-mt-24 [&>h2]:font-serif [&>h2]:text-2xl [&>h2]:text-brown-900 [&>h2]:md:text-3xl [&>h3]:mt-8 [&>h3]:mb-3 [&>h3]:scroll-mt-24 [&>h3]:font-serif [&>h3]:text-xl [&>h3]:text-brown-900 [&>p]:mb-5 [&>p]:text-base [&>p]:leading-relaxed [&>p]:text-brown-800 [&>p]:md:text-lg [&>ul]:mb-5 [&>ul]:list-disc [&>ul]:space-y-2 [&>ul]:pl-6 [&>ul]:text-base [&>ul]:leading-relaxed [&>ul]:text-brown-800 [&>ol]:mb-5 [&>ol]:list-decimal [&>ol]:space-y-2 [&>ol]:pl-6 [&>ol]:text-base [&>ol]:leading-relaxed [&>ol]:text-brown-800 [&_a]:text-brown-600 [&_a]:underline [&_a]:decoration-brown-600/30 [&_a]:underline-offset-4 hover:[&_a]:text-brown-900 [&_strong]:font-semibold [&_strong]:text-brown-900 [&_figure]:my-8 [&_figcaption]:mt-3 [&_figcaption]:text-center [&_figcaption]:text-sm [&_figcaption]:italic [&_figcaption]:text-brown-500"
                 dangerouslySetInnerHTML={{ __html: post.content }}
               />
+
+              {/* FAQ Section - AEO: structured Q&A for AI engines */}
+              {post.faq.length > 0 && (
+                <div className="mt-16 border-t border-brown-200 pt-10">
+                  <h2 className="font-serif text-2xl text-brown-900 md:text-3xl">
+                    Frequently Asked Questions
+                  </h2>
+                  <div className="mt-8 space-y-6">
+                    {post.faq.map((item, i) => (
+                      <div key={i} className="rounded-xl border border-brown-200/60 bg-cream-light p-6">
+                        <h3 className="font-serif text-lg font-medium text-brown-900">
+                          {item.question}
+                        </h3>
+                        <p className="mt-3 text-base leading-relaxed text-brown-700">
+                          {item.answer}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
 
               {/* Mobile share buttons */}
               <div className="mt-12 flex items-center justify-center gap-4 border-t border-brown-200 pt-8 lg:hidden">
