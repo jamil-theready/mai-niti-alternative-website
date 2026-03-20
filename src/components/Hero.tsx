@@ -66,7 +66,7 @@ export default function Hero() {
             data-parallax-layer="2"
             src="/images/hero/mountains.webp"
             alt="Green mountain valley with turquoise lake in the Peruvian highlands"
-            className="absolute inset-x-0 bottom-0 top-[18%] h-auto w-full object-cover object-bottom"
+            className="absolute inset-x-0 bottom-0 top-[8%] h-auto w-full object-cover object-bottom"
           />
 
           {/* Layer 3: Heading text */}
@@ -101,7 +101,7 @@ export default function Hero() {
             data-parallax-layer="4"
             src="/images/hero/hiker.webp"
             alt="Hiker standing on cliff overlooking the valley"
-            className="absolute inset-0 h-full w-full object-cover object-bottom"
+            className="absolute inset-x-0 -bottom-[5%] top-[15%] w-full scale-[0.85] object-cover object-bottom"
           />
         </div>
       </section>
