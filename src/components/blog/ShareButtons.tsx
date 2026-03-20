@@ -71,8 +71,8 @@ export default function ShareButtons({ title, slug }: ShareButtonsProps) {
   ];
 
   return (
-    <div className="flex flex-col items-center gap-3">
-      <span className="font-display text-[10px] font-semibold tracking-[0.15em] text-brown-400 uppercase">
+    <div className="flex flex-row flex-wrap items-center justify-center gap-3 lg:flex-col">
+      <span className="font-display text-[10px] font-semibold tracking-[0.15em] text-brown-400 uppercase lg:mb-0">
         Share
       </span>
       {links.map((link) => (

@@ -74,7 +74,7 @@ export default function Hero() {
             data-parallax-layer="3"
             className="absolute inset-0 z-10 flex flex-col items-center justify-start px-6 pt-[22vh] md:pt-[18vh]"
           >
-            <h1 className="text-center font-serif text-4xl font-normal leading-tight tracking-tight text-brown-900 [text-shadow:0_2px_20px_rgba(240,237,225,0.9),0_0_40px_rgba(240,237,225,0.6)] md:text-6xl lg:text-8xl">
+            <h1 className="text-center font-serif text-5xl font-normal leading-tight tracking-tight text-brown-900 [text-shadow:0_2px_20px_rgba(240,237,225,0.9),0_0_40px_rgba(240,237,225,0.6)] md:text-6xl lg:text-8xl">
               Ancient Wisdom for
               <br />
               <span className="italic">the Modern Seeker</span>
@@ -101,7 +101,7 @@ export default function Hero() {
             data-parallax-layer="4"
             src="/images/hero/hiker.webp"
             alt="Hiker standing on cliff overlooking the valley"
-            className="pointer-events-none absolute bottom-[3%] left-1/2 z-[5] w-[40vw] -translate-x-1/2 md:w-[35vw] lg:w-[28vw]"
+            className="pointer-events-none absolute bottom-[3%] left-1/2 z-[5] w-[55vw] -translate-x-1/2 md:w-[40vw] lg:w-[28vw]"
           />
         </div>
       </section>
