@@ -40,9 +40,13 @@ Master plants include trees like the noya rao, chiric sanango, and bobinsana. Ea
 Beyond the master plants used in ceremonial contexts, Shipibo families use dozens of plants for everyday health care:
 
 - **Cat's claw (uña de gato):** An immune system booster and anti inflammatory that has gained recognition in Western herbal medicine
+
 - **Sangre de grado (dragon's blood):** A red tree resin used to treat wounds, ulcers, and infections
+
 - **Matico:** A plant used for respiratory conditions and wound healing
+
 - **Chuchuhuasi:** A bark used for joint pain, back pain, and as a general tonic
+
 - **Piñon blanco:** Used for skin conditions and spiritual cleansing
 
 These plants are used in teas, poultices, baths, and steam treatments. The knowledge of how to prepare and apply them is passed from parents to children, ensuring continuity across generations.

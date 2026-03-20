@@ -54,9 +54,13 @@ Look for practitioners who are familiar with plant medicine contexts. They do no
 Integration is built on daily habits. Consider adopting or deepening these practices in the weeks after ceremony:
 
 - **Meditation:** Even 10 minutes daily helps maintain the inner quiet cultivated during retreat
+
 - **Time in nature:** The natural world reinforces the connection to the living systems you encountered in the Amazon
+
 - **Mindful eating:** Continue the [post ceremony dieta](/blog/understanding-the-dieta) as long as advised, then transition gradually to conscious, whole food eating
+
 - **Movement:** Gentle yoga, walking, swimming. The body stores emotional material. Move it through.
+
 - **Creative expression:** Drawing, painting, music, dance. Many people find that ceremony unlocks creative channels that were previously blocked.
 
 ## Relationships and Boundaries

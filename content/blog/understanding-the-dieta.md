@@ -28,7 +28,9 @@ Most people hear "dieta" and think of food restrictions. No sugar. No salt. No p
 The dieta (pronounced dee-EH-tah) is a traditional protocol observed before, during, and after working with master plants. At its core, it involves three categories of discipline:
 
 - **Dietary restrictions:** Avoiding certain foods that are believed to interfere with the plant's work in the body
+
 - **Behavioral restrictions:** Limiting social interaction, sexual activity, and stimulating media
+
 - **Energetic boundaries:** Protecting the space of the dieta from strong external influences, including certain people, places, and substances
 
 The specific guidelines vary depending on which plant you are dieting, how long the dieta lasts, and the curandero's instructions. A short dieta before ceremony might last two weeks. A deep master plant dieta undertaken by an apprentice curandero could last months.

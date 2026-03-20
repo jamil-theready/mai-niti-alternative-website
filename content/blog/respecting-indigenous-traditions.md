@@ -36,6 +36,7 @@ When you sit in ceremony, you are receiving something that was built by generati
 The line between appropriation and respectful exchange is not always simple, but the principles are clear:
 
 - **Appropriation** takes elements of a culture without permission, credit, or compensation. It treats sacred practices as products. It centers the consumer's experience over the tradition's integrity.
+
 - **Respectful exchange** approaches the tradition with humility. It follows the protocols set by the tradition's holders. It ensures fair compensation. It does not claim expertise or ownership over what belongs to another culture.
 
 As a ceremony participant, you are receiving a gift. You do not get to repackage it, teach it, or claim it as your own. You do not get to call yourself a shaman after attending a few retreats. You do not get to sing icaros you heard in ceremony as if they were your songs.

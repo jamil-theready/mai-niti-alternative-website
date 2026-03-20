@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import BlogGrid from "@/components/BlogGrid";
 import { getAllPosts } from "@/lib/blog";
 
 export const metadata: Metadata = {
@@ -98,63 +99,8 @@ export default function BlogIndex() {
             </div>
           </Link>
 
-          {/* Category filters */}
-          <div className="mb-10 flex flex-wrap gap-3">
-            {["All", "Preparation", "Tradition", "Guidance", "Culture", "Wellness", "Integration"].map(
-              (cat) => (
-                <span
-                  key={cat}
-                  className="cursor-pointer rounded-full border border-brown-200 px-4 py-1.5 font-display text-xs font-medium tracking-wide text-brown-800 transition-colors hover:bg-brown-900 hover:text-cream"
-                >
-                  {cat}
-                </span>
-              )
-            )}
-          </div>
-
-          {/* 3-column grid for remaining posts */}
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {rest.map((post) => (
-              <Link
-                key={post.slug}
-                href={`/blog/${post.slug}`}
-                className="group relative flex aspect-[3/2] flex-col justify-end overflow-hidden rounded-2xl"
-              >
-                {post.image ? (
-                  <div className="absolute inset-0 bg-brown-200/30">
-                    <img
-                      src={post.image}
-                      alt={post.imageAlt || post.title}
-                      className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
-                      loading="lazy"
-                    />
-                  </div>
-                ) : (
-                  <div className="absolute inset-0 bg-gradient-to-br from-brown-800 to-brown-900" />
-                )}
-                <div className="absolute inset-0 bg-gradient-to-t from-brown-900/90 via-brown-900/30 to-transparent" />
-
-                <div className="relative z-10 p-6">
-                  <span className="mb-2 inline-block rounded-full bg-forest px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-white uppercase">
-                    {post.category}
-                  </span>
-                  <h3 className="font-serif text-lg leading-snug text-cream md:text-xl">
-                    {post.title}
-                  </h3>
-                  <time
-                    dateTime={post.date}
-                    className="mt-2 block font-display text-xs text-cream/50"
-                  >
-                    {new Date(post.date).toLocaleDateString("en-US", {
-                      month: "short",
-                      day: "numeric",
-                      year: "numeric",
-                    })}
-                  </time>
-                </div>
-              </Link>
-            ))}
-          </div>
+          {/* Category filters + grid with load more */}
+          <BlogGrid posts={rest} />
         </div>
       </section>
 

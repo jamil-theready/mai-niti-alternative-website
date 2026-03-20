@@ -70,9 +70,13 @@ An authentic curandero will have a verifiable lineage. They can tell you who the
 Look for these signs of authenticity:
 
 - **Humility:** A genuine curandero does not boast about their abilities or make grandiose promises. They let the work speak for itself.
+
 - **Clear boundaries:** An ethical curandero maintains professional boundaries at all times. They do not exploit the vulnerability of ceremony for personal gain, romantic attention, or power.
+
 - **Deep knowledge of plants:** Ask about their training. A real curandero can speak at length about specific plants, their properties, and the dietas involved in learning from them.
+
 - **Connection to community:** Authentic curanderos are embedded in a community. They have relationships with other healers, with the indigenous communities they come from, and with the land itself.
+
 - **No exaggerated claims:** Be wary of anyone who promises guaranteed results or claims to cure everything. Traditional healing is powerful, but it is honest about its scope and limitations.
 
 Conversely, be cautious of individuals who completed a short training period and now market themselves as healers. Be cautious of anyone who mixes traditions indiscriminately or who prioritizes commercial growth over the integrity of the practice. The tradition deserves better, and so do you.

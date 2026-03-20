@@ -38,9 +38,13 @@ A 2019 study published in the journal Psychological Medicine found that particip
 Several consistent themes emerge across the research:
 
 - **Emotional processing:** Participants report accessing and processing difficult emotional material that had been resistant to conventional therapy
+
 - **Perspective shifts:** Many describe a fundamental change in how they relate to their own stories, moving from identification with trauma to a broader perspective
+
 - **Reduced rumination:** Studies using brain imaging have shown decreased activity in the default mode network, the brain region associated with repetitive self referential thinking
+
 - **Increased connectedness:** Participants often report a renewed sense of connection to others, to nature, and to a sense of meaning or purpose
+
 - **Lasting effects:** Unlike many pharmaceutical interventions, the positive effects of ceremonial work often persist for months or years after a single series of ceremonies
 
 ## What the Studies Do Not Say

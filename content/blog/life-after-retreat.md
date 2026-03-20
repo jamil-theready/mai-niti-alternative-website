@@ -42,8 +42,11 @@ Returning to your regular life after a deep ceremonial experience can feel jarri
 Several specific challenges tend to arise:
 
 - **Sensory overload:** The stimulation of city life, traffic, advertising, crowded spaces can feel overwhelming for a nervous system that has been in the quiet of the jungle. Build in buffer days before returning to full activity.
+
 - **Difficulty communicating the experience:** People will ask how your time was. Most of them want a simple answer. Finding the words for what you experienced, or deciding that you do not need to find them, is its own process.
+
 - **Old patterns resurfacing:** You may notice familiar habits, reactions, or thought patterns returning within days or weeks of being home. This is not failure. It is the old programming reasserting itself. The awareness you gained in ceremony gives you the ability to see these patterns in real time, which is the first step toward changing them.
+
 - **Relationship tension:** You have changed. The people around you have not. Some relationships will feel different. Some may feel strained. Navigate this with patience rather than urgency.
 
 ## Daily Practices to Sustain Growth
@@ -53,9 +56,13 @@ The insights from ceremony do not maintain themselves. They require ongoing atte
 Consider building these practices into your daily life:
 
 - **Journaling:** Write every day, even if only for ten minutes. Write about what you are feeling, what you are noticing, what is changing. Do not censor or edit. The journal is for you alone. Over time, patterns will emerge that help you understand your process.
+
 - **Mindful eating:** Continue following the post retreat [dieta](/blog/understanding-the-dieta) for as long as your curandero recommended. After the formal dieta period ends, maintain awareness of what you put in your body. Clean, simple, whole foods support the ongoing work of integration.
+
 - **Time in nature:** The natural world is the closest thing to the jungle available in your daily environment. Walking among trees, sitting by water, watching the sky. These activities are not idle. They keep you connected to the living world that was so present during retreat.
+
 - **Meditation or stillness:** Even five minutes of sitting quietly each morning creates space for the medicine's teachings to continue arriving. Many people find that insights from ceremony keep unfolding for weeks or months, but only when they create the stillness to receive them.
+
 - **Movement:** Gentle physical practice helps the body release what ceremony stirred up. Yoga, walking, swimming, stretching. The body stores emotional material, and movement helps it process and release.
 
 ## Building a New Routine

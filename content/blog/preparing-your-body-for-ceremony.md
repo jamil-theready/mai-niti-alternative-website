@@ -19,12 +19,116 @@ draft: false
 featured: false
 ---
 
-The [dieta](/blog/dieta-explained) tells you what not to eat. This guide goes further. It tells you how to actively build a body that is ready for deep work.Ceremony is physically demanding. You sit or lie in one position for hours. You may purge intensely. You may sweat, shake, or cry. Your body needs to be in a state where it can handle these demands without breaking down.## What "Body Ready" MeansIt does not mean fit. You do not need to run a marathon or bench press your bodyweight. It means your body is:- **Clean** , free from processed food, alcohol, and excess stimulants- **Hydrated** , well watered at a cellular level- **Rested** , not running on fumes from overwork or undersleep- **Flexible** , able to sit comfortably for extended periods- **Calm** , with a nervous system that is not constantly activatedThink of your body as the instrument through which the healing plays. A well-tuned instrument produces clearer, more resonant sound. A neglected one still makes noise, but the music is muddled. The preparation you do in the weeks before ceremony determines how clearly the medicine can communicate with your system.### Why This Matters for CeremonyWhen your body is prepared, the medicine can focus on the deeper work. When your body is depleted, the medicine spends energy just bringing you to baseline. That is energy that could have gone toward transformation.
+The [dieta](/blog/dieta-explained) tells you what not to eat. This guide goes further. It tells you how to actively build a body that is ready for deep work.
 
-The dieta is the foundation. This section is about what you build on top of it.## Nutrient Dense EatingIn the two weeks before your retreat, focus on foods that nourish deeply:- **Leafy greens** , spinach, kale, chard. Rich in magnesium and B vitamins.- **Sweet potatoes** , sustained energy, gentle on the stomach- **Wild caught fish** , omega 3s for brain health and inflammation reduction- **Bone broth** , gut healing, mineral rich, easy to digest- **Fermented foods** (stop one week before) , build gut health early in your preparation- **Fruits** , berries, papaya, bananas for antioxidants and natural energy## Gut PreparationYour gut processes the medicine. A healthy gut processes it more effectively. The [gut brain connection](https://www.health.harvard.edu/diseases-and-conditions/the-gut-brain-connection) documented by Harvard Health explains why digestive health directly affects emotional and mental processing.The relationship between gut health and emotional processing is not metaphorical. Your gut produces roughly 90 percent of your body's serotonin. It contains more neurons than your spinal cord. When traditional healers say the medicine works through the stomach, they are describing something that neuroscience now confirms from a different angle.### Practical Tips- Start a probiotic supplement two weeks out- Eat prebiotic foods (garlic, onions, bananas) to feed good bacteria- Reduce processed food to minimize gut inflammation- Stay hydrated to support digestionFor the complete dietary guidelines, see our [physical preparation guide](/blog/physical-preparation-plant-medicine).
+Ceremony is physically demanding. You sit or lie in one position for hours. You may purge intensely. You may sweat, shake, or cry. Your body needs to be in a state where it can handle these demands without breaking down.
 
-The type of movement you do in the weeks before a retreat directly affects your nervous system state when you arrive.## The Goal: Parasympathetic ActivationYour autonomous nervous system has two modes: sympathetic (fight or flight) and parasympathetic (rest and digest). You want to arrive at the retreat in a parasympathetic state. This means your body is relaxed, receptive, and ready to heal.## Best Movement Practices- **[Yoga](/blog/yoga-and-meditation-before-retreat)** , especially yin or restorative styles. These hold poses for extended periods, teaching your body to relax into discomfort.- **Walking** , 30 minutes daily, ideally in nature. No headphones. Let your senses engage with the environment.- **Stretching** , focus on hips, lower back, and shoulders. These areas hold tension and you will be sitting for long periods during ceremony.- **Tai chi or qi gong** , slow, deliberate movement that calms the nervous system.The shift from intense to gentle movement can feel counterintuitive if you are used to pushing hard. You might feel like you are not doing enough. That feeling is your sympathetic nervous system talking — the part of you that equates effort with value. In this context, less effort is more preparation. The softer your approach, the more ready your body will be.### What to Avoid- High intensity interval training- Heavy weightlifting- Competitive sports- Running long distancesThese activate the sympathetic nervous system. In the two weeks before your retreat, shift from intensity to gentleness.
+## What "Body Ready" Means
 
-The final week before departure is about settling, not ramping up.## Nutrition- Meals should be simple and plain: rice, steamed vegetables, light protein- Reduce portion sizes slightly. You want your digestive system calm, not working overtime.- Drink 2 to 3 liters of water daily- Stop caffeine entirely if you have not already (or reduce to minimal)## Movement- Gentle walks only- Restorative yoga or simple stretching- No strenuous exercise## Sleep- Go to bed earlier than usual- No screens in the last hour before sleep- Aim for 8 hours per night### The Mental SideBegin a [digital detox](/blog/digital-detox-before-retreat). Reduce social engagements. Create quiet space in your day. The less stimulation you take in, the more settled you will feel when you arrive.If you have been following the preparation guidelines for two weeks or more, this final week should feel like a natural settling rather than a dramatic shift. Your body is already cleaner, more rested, and more responsive. The last week is about maintaining that state and letting everything quiet down.## Pack EarlyGet your [packing](/blog/what-to-pack-healing-retreat-peru) done early in the week so it is not weighing on you. Last minute packing creates stress you do not need.
+It does not mean fit. You do not need to run a marathon or bench press your bodyweight. It means your body is:
 
-The day of ceremony requires its own approach to nutrition and body care.## MorningEat a light breakfast. Oatmeal, fruit, or plain toast. Nothing heavy. Nothing greasy. Drink water.## MiddayEat your last meal by early afternoon. Keep it simple: rice, steamed vegetables, a small amount of plain protein. This is your fuel for the next 12 or more hours.## AfternoonDrink water with electrolytes. Rest. Nap if you can. Stretch gently. Sit in silence. Review your [intention](/blog/setting-intention-ceremony).### What Not to Do- Do not eat after the cutoff time your center gives you- Do not drink caffeine- Do not exercise- Do not engage in stressful conversations or activities## Before Entering the MalocaUse the bathroom. Put on comfortable clothing. Bring your ceremony kit (blanket, headlamp, water, tissues). Take a few deep breaths.The afternoon before ceremony is sacred time. Use it well. This is not the time to check email, have intense conversations, or worry about things back home. This is the time to be fully present with what you are about to do.Your body is prepared. Trust it. Trust the work you have put in. And trust the tradition that has been guiding people through this process for generations.<hr>*Ready to begin your healing journey? Learn more about Mai Niti's traditional retreats in the Peruvian Amazon at [mainiti.org](https://mainiti.org/).*
+- **Clean** , free from processed food, alcohol, and excess stimulants
+
+- **Hydrated** , well watered at a cellular level
+
+- **Rested** , not running on fumes from overwork or undersleep
+
+- **Flexible** , able to sit comfortably for extended periods
+
+- **Calm** , with a nervous system that is not constantly activatedThink of your body as the instrument through which the healing plays. A well-tuned instrument produces clearer, more resonant sound. A neglected one still makes noise, but the music is muddled. The preparation you do in the weeks before ceremony determines how clearly the medicine can communicate with your system.#
+
+## Why This Matters for Ceremony
+
+When your body is prepared, the medicine can focus on the deeper work. When your body is depleted, the medicine spends energy just bringing you to baseline. That is energy that could have gone toward transformation.
+
+The dieta is the foundation. This section is about what you build on top of it.
+
+## Nutrient Dense Eating
+
+In the two weeks before your retreat, focus on foods that nourish deeply:
+
+- **Leafy greens** , spinach, kale, chard. Rich in magnesium and B vitamins.
+
+- **Sweet potatoes** , sustained energy, gentle on the stomach
+
+- **Wild caught fish** , omega 3s for brain health and inflammation reduction
+
+- **Bone broth** , gut healing, mineral rich, easy to digest
+
+- **Fermented foods** (stop one week before) , build gut health early in your preparation
+
+- **Fruits** , berries, papaya, bananas for antioxidants and natural energy
+
+## Gut Preparation
+
+Your gut processes the medicine. A healthy gut processes it more effectively. The [gut brain connection](https://www.health.harvard.edu/diseases-and-conditions/the-gut-brain-connection) documented by Harvard Health explains why digestive health directly affects emotional and mental processing.
+
+The relationship between gut health and emotional processing is not metaphorical. Your gut produces roughly 90 percent of your body's serotonin. It contains more neurons than your spinal cord. When traditional healers say the medicine works through the stomach, they are describing something that neuroscience now confirms from a different angle.#
+
+## Practical Tips- Start a probiotic supplement two weeks out- Eat prebiotic foods (garlic, onions, bananas) to feed good bacteria- Reduce processed food to minimize gut inflammation- Stay hydrated to support digestion
+
+For the complete dietary guidelines, see our [physical preparation guide](/blog/physical-preparation-plant-medicine).
+
+The type of movement you do in the weeks before a retreat directly affects your nervous system state when you arrive.
+
+## The Goal: Parasympathetic Activation
+
+Your autonomous nervous system has two modes: sympathetic (fight or flight) and parasympathetic (rest and digest). You want to arrive at the retreat in a parasympathetic state. This means your body is relaxed, receptive, and ready to heal.
+
+## Best Movement Practices
+
+- **[Yoga](/blog/yoga-and-meditation-before-retreat)** , especially yin or restorative styles. These hold poses for extended periods, teaching your body to relax into discomfort.
+
+- **Walking** , 30 minutes daily, ideally in nature. No headphones. Let your senses engage with the environment.
+
+- **Stretching** , focus on hips, lower back, and shoulders. These areas hold tension and you will be sitting for long periods during ceremony.
+
+- **Tai chi or qi gong** , slow, deliberate movement that calms the nervous system.
+
+The shift from intense to gentle movement can feel counterintuitive if you are used to pushing hard. You might feel like you are not doing enough. That feeling is your sympathetic nervous system talking — the part of you that equates effort with value. In this context, less effort is more preparation. The softer your approach, the more ready your body will be.#
+
+## What to Avoid- High intensity interval training- Heavy weightlifting- Competitive sports- Running long distances
+
+These activate the sympathetic nervous system. In the two weeks before your retreat, shift from intensity to gentleness.
+
+The final week before departure is about settling, not ramping up.
+
+## Nutrition- Meals should be simple and plain: rice, steamed vegetables, light protein- Reduce portion sizes slightly. You want your digestive system calm, not working overtime.- Drink 2 to 3 liters of water daily- Stop caffeine entirely if you have not already (or reduce to minimal)
+
+## Movement- Gentle walks only- Restorative yoga or simple stretching- No strenuous exercise
+
+## Sleep- Go to bed earlier than usual- No screens in the last hour before sleep- Aim for 8 hours per night#
+
+## The Mental Side
+
+Begin a [digital detox](/blog/digital-detox-before-retreat). Reduce social engagements. Create quiet space in your day. The less stimulation you take in, the more settled you will feel when you arrive.
+
+If you have been following the preparation guidelines for two weeks or more, this final week should feel like a natural settling rather than a dramatic shift. Your body is already cleaner, more rested, and more responsive. The last week is about maintaining that state and letting everything quiet down.
+
+## Pack Early
+
+Get your [packing](/blog/what-to-pack-healing-retreat-peru) done early in the week so it is not weighing on you. Last minute packing creates stress you do not need.
+
+The day of ceremony requires its own approach to nutrition and body care.
+
+## Morning
+
+Eat a light breakfast. Oatmeal, fruit, or plain toast. Nothing heavy. Nothing greasy. Drink water.
+
+## Midday
+
+Eat your last meal by early afternoon. Keep it simple: rice, steamed vegetables, a small amount of plain protein. This is your fuel for the next 12 or more hours.
+
+## Afternoon
+
+Drink water with electrolytes. Rest. Nap if you can. Stretch gently. Sit in silence. Review your [intention](/blog/setting-intention-ceremony).#
+
+## What Not to Do- Do not eat after the cutoff time your center gives you- Do not drink caffeine- Do not exercise- Do not engage in stressful conversations or activities
+
+## Before Entering the Maloca
+
+Use the bathroom. Put on comfortable clothing. Bring your ceremony kit (blanket, headlamp, water, tissues). Take a few deep breaths.
+
+The afternoon before ceremony is sacred time. Use it well. This is not the time to check email, have intense conversations, or worry about things back home. This is the time to be fully present with what you are about to do.
+
+Your body is prepared. Trust it. Trust the work you have put in. And trust the tradition that has been guiding people through this process for generations.<hr>*Ready to begin your healing journey? Learn more about Mai Niti's traditional retreats in the Peruvian Amazon at [mainiti.org](https://mainiti.org/).*

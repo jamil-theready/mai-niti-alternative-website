@@ -44,9 +44,13 @@ During ceremony, the curandero reads the energetic state of each participant and
 While the categories vary among different curanderos, common types include:
 
 - **Arkana:** Protection songs that create an energetic shield around the participant or the ceremonial space
+
 - **Mariri:** Songs for cleansing and purification
+
 - **Songs of specific plants:** Each master plant has its own songs, learned by the curandero during the dieta with that plant
+
 - **Opening and closing songs:** Used to begin and end the ceremonial space
+
 - **Diagnostic songs:** Songs that help the curandero perceive and understand the patient's condition
 
 ## The Connection to Kené

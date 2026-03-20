@@ -19,12 +19,120 @@ draft: false
 featured: false
 ---
 
-Everyone focuses on the physical packing list. What clothes. What gear. What toiletries. That matters, and we have a [detailed packing guide](/blog/what-to-pack-healing-retreat-peru) for it.But there is a second packing list that nobody talks about. The intangible one. What you carry in your mind, your heart, and your habits matters as much as what you carry in your bag.## Two ListsThis guide covers both: the things you should physically bring, the things you should intentionally carry in spirit, the physical items to leave at home, and the mental baggage to drop before you arrive.Think of it this way: the physical list keeps you comfortable. The intangible list keeps you open. You need both. A person who is physically prepared but emotionally closed off will have a frustrating experience. A person who is emotionally open but physically miserable will be distracted by discomfort when they should be going deeper.### Why Both MatterA person who brings the perfect gear but arrives with a closed mind and rigid expectations will have a harder time than someone with a half packed bag and a fully open heart. The external preparation supports the internal preparation. Neither one alone is enough.
+Everyone focuses on the physical packing list. What clothes. What gear. What toiletries. That matters, and we have a [detailed packing guide](/blog/what-to-pack-healing-retreat-peru) for it.
 
-## The Essentials- **Passport and documents** , copies in digital and physical form- **Lightweight comfortable clothing** , simple, breathable, unscented- **Rain protection** , the jungle rains without warning- **A headlamp with red light mode** , essential for ceremony nights- **A journal and pen** , your most important tool after the medicine itself- **A water bottle** , refillable, sturdy- **Electrolyte packets** , for rehydration after ceremony- **Bug protection** , DEET or picaridin based repellent- **A blanket or shawl** , for ceremony## Often Forgotten- **Ziplock bags** , for keeping things dry in humidity- **Cash in local currency** , Peruvian Soles for small purchases- **A small first aid kit** , bandages, antiseptic, antihistamines- **Earplugs and eye mask** , jungle nights are loud and early mornings are bright## Comfort ItemsA few personal comfort items can make a real difference. A favorite shawl for ceremony. A small photo that grounds you. A simple talisman or object that carries personal meaning. These are not frivolous. They are anchors that remind you of who you are when the experience gets intense.### Less Is MoreWhen in doubt, leave it out. You can survive with much less than you think. The simplicity is part of the experience. Our detailed [packing list](/blog/what-to-pack-healing-retreat-peru) has the full breakdown.
+But there is a second packing list that nobody talks about. The intangible one. What you carry in your mind, your heart, and your habits matters as much as what you carry in your bag.
 
-These are the things you cannot put in a bag but should carry with you intentionally.## An Open MindThe experience may challenge your worldview. It may show you things that do not fit your current framework. An open mind lets you receive the experience without needing to immediately categorize or judge it.## Your IntentionArrive with a clear, open ended [intention](/blog/setting-intention-ceremony). Not a shopping list of outcomes. A direction. A question you are willing to sit with.## Willingness to Be UncomfortableThe jungle is physically uncomfortable. Ceremony is emotionally uncomfortable. Both are designed that way. Bringing a willingness to be uncomfortable is the single most powerful thing you can carry.### CuriosityWonder is an underrated tool. "I wonder what will happen" is a better mindset than "I know what will happen" or "I am afraid of what will happen." Curiosity keeps you present and receptive.## Self CompassionYou are about to do something brave and difficult. You will not do it perfectly. You might cry, vomit, get scared, or feel lost. Bring the ability to treat yourself with kindness through all of it.
+## Two Lists
 
-## Physical Items to Leave Home- **Scented products** , perfume, cologne, scented lotion and deodorant. These interfere with the plant work at an energetic level. Use unscented alternatives.- **Excess electronics** , you do not need a laptop, a tablet, and a phone. One device for emergencies is enough.- **Valuables** , expensive jewelry, designer clothes, anything you would worry about- **Too many books** , one is enough. Your journal will keep you busy.- **Heavy luggage** , you may need to travel by boat or walk on muddy paths. A large suitcase is a burden.The point of leaving physical items behind is not minimalism for its own sake. It is about removing distractions. Every unnecessary item you bring is something you have to manage, worry about, or make decisions about. At a retreat, your decision-making energy should go toward your inner work, not your luggage.### Why Scented Products MatterThis one surprises people. In the Shipibo tradition, strong artificial scents create interference with the plant spirits. It is not superstition. It is a practice refined over generations. Most centers will ask you to switch to unscented products before you arrive.
+This guide covers both: the things you should physically bring, the things you should intentionally carry in spirit, the physical items to leave at home, and the mental baggage to drop before you arrive.
 
-This is the harder list. And the more important one.## Rigid Expectations"I need to have a vision." "This must cure my depression." "I will have a breakthrough by night three." Drop all of it. Expectations create a lens that distorts the actual experience.## The Need to ControlYou cannot control what the medicine does. You cannot control what comes up. You cannot control the timeline of your healing. Bringing the need to control into ceremony creates resistance that makes everything harder.## JudgmentOf yourself. Of others. Of the process. Judgment closes doors that need to be open for healing to happen. Practice noticing judgment and letting it pass without acting on it.### Other People's OpinionsLeave behind the voices of everyone who has an opinion about what you are doing. Your mother's worry. Your friend's skepticism. Your colleague's judgment. This is *your* journey. Their opinions do not get a seat in the maloca.## ComparisonLeave behind the habit of measuring your experience against others. Your ceremony will be different from everyone else in the room. Your healing timeline is yours alone. The person next to you might have a dramatic experience while yours is subtle. Neither is better. The medicine gives each person exactly what they need.## Your TimelineHealing does not operate on a schedule. Leave your planner mindset at home. Some things happen fast. Others take months to unfold. Let the process be what it is, not what your calendar says it should be.For more on the full preparation process, including physical, mental, and emotional readiness, read our [complete preparation guide](/blog/how-to-prepare-for-plant-medicine-retreat).<hr>*Rooted in Shipibo tradition. Held in the Amazon jungle. Led by indigenous healers. Learn more about Mai Niti at [mainiti.org](https://mainiti.org/).*
+Think of it this way: the physical list keeps you comfortable. The intangible list keeps you open. You need both. A person who is physically prepared but emotionally closed off will have a frustrating experience. A person who is emotionally open but physically miserable will be distracted by discomfort when they should be going deeper.#
+
+## Why Both Matter
+
+A person who brings the perfect gear but arrives with a closed mind and rigid expectations will have a harder time than someone with a half packed bag and a fully open heart. The external preparation supports the internal preparation. Neither one alone is enough.
+
+## The Essentials
+
+- **Passport and documents** , copies in digital and physical form
+
+- **Lightweight comfortable clothing** , simple, breathable, unscented
+
+- **Rain protection** , the jungle rains without warning
+
+- **A headlamp with red light mode** , essential for ceremony nights
+
+- **A journal and pen** , your most important tool after the medicine itself
+
+- **A water bottle** , refillable, sturdy
+
+- **Electrolyte packets** , for rehydration after ceremony
+
+- **Bug protection** , DEET or picaridin based repellent
+
+- **A blanket or shawl** , for ceremony
+
+## Often Forgotten
+
+- **Ziplock bags** , for keeping things dry in humidity
+
+- **Cash in local currency** , Peruvian Soles for small purchases
+
+- **A small first aid kit** , bandages, antiseptic, antihistamines
+
+- **Earplugs and eye mask** , jungle nights are loud and early mornings are bright
+
+## Comfort Items
+
+A few personal comfort items can make a real difference. A favorite shawl for ceremony. A small photo that grounds you. A simple talisman or object that carries personal meaning. These are not frivolous. They are anchors that remind you of who you are when the experience gets intense.#
+
+## Less Is More
+
+When in doubt, leave it out. You can survive with much less than you think. The simplicity is part of the experience. Our detailed [packing list](/blog/what-to-pack-healing-retreat-peru) has the full breakdown.
+
+These are the things you cannot put in a bag but should carry with you intentionally.
+
+## An Open Mind
+
+The experience may challenge your worldview. It may show you things that do not fit your current framework. An open mind lets you receive the experience without needing to immediately categorize or judge it.
+
+## Your Intention
+
+Arrive with a clear, open ended [intention](/blog/setting-intention-ceremony). Not a shopping list of outcomes. A direction. A question you are willing to sit with.
+
+## Willingness to Be Uncomfortable
+
+The jungle is physically uncomfortable. Ceremony is emotionally uncomfortable. Both are designed that way. Bringing a willingness to be uncomfortable is the single most powerful thing you can carry.#
+
+## Curiosity
+
+Wonder is an underrated tool. "I wonder what will happen" is a better mindset than "I know what will happen" or "I am afraid of what will happen." Curiosity keeps you present and receptive.
+
+## Self Compassion
+
+You are about to do something brave and difficult. You will not do it perfectly. You might cry, vomit, get scared, or feel lost. Bring the ability to treat yourself with kindness through all of it.
+
+## Physical Items to Leave Home
+
+- **Scented products** , perfume, cologne, scented lotion and deodorant. These interfere with the plant work at an energetic level. Use unscented alternatives.
+
+- **Excess electronics** , you do not need a laptop, a tablet, and a phone. One device for emergencies is enough.
+
+- **Valuables** , expensive jewelry, designer clothes, anything you would worry about
+
+- **Too many books** , one is enough. Your journal will keep you busy.
+
+- **Heavy luggage** , you may need to travel by boat or walk on muddy paths. A large suitcase is a burden.
+
+The point of leaving physical items behind is not minimalism for its own sake. It is about removing distractions. Every unnecessary item you bring is something you have to manage, worry about, or make decisions about. At a retreat, your decision-making energy should go toward your inner work, not your luggage.#
+
+## Why Scented Products Matter
+
+This one surprises people. In the Shipibo tradition, strong artificial scents create interference with the plant spirits. It is not superstition. It is a practice refined over generations. Most centers will ask you to switch to unscented products before you arrive.
+
+This is the harder list. And the more important one.
+
+## Rigid Expectations"I need to have a vision." "This must cure my depression." "I will have a breakthrough by night three." Drop all of it. Expectations create a lens that distorts the actual experience.
+
+## The Need to Control
+
+You cannot control what the medicine does. You cannot control what comes up. You cannot control the timeline of your healing. Bringing the need to control into ceremony creates resistance that makes everything harder.
+
+## Judgment
+
+Of yourself. Of others. Of the process. Judgment closes doors that need to be open for healing to happen. Practice noticing judgment and letting it pass without acting on it.#
+
+## Other People's Opinions
+
+Leave behind the voices of everyone who has an opinion about what you are doing. Your mother's worry. Your friend's skepticism. Your colleague's judgment. This is *your* journey. Their opinions do not get a seat in the maloca.
+
+## Comparison
+
+Leave behind the habit of measuring your experience against others. Your ceremony will be different from everyone else in the room. Your healing timeline is yours alone. The person next to you might have a dramatic experience while yours is subtle. Neither is better. The medicine gives each person exactly what they need.
+
+## Your Timeline
+
+Healing does not operate on a schedule. Leave your planner mindset at home. Some things happen fast. Others take months to unfold. Let the process be what it is, not what your calendar says it should be.
+
+For more on the full preparation process, including physical, mental, and emotional readiness, read our [complete preparation guide](/blog/how-to-prepare-for-plant-medicine-retreat).<hr>*Rooted in Shipibo tradition. Held in the Amazon jungle. Led by indigenous healers. Learn more about Mai Niti at [mainiti.org](https://mainiti.org/).*
