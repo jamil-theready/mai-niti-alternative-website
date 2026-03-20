@@ -25,10 +25,10 @@ export default function Hero() {
     });
 
     const layers = [
-      { layer: "1", yPercent: 50 },
-      { layer: "2", yPercent: 30 },
-      { layer: "3", yPercent: 15 },
-      { layer: "4", yPercent: 70 },
+      { layer: "1", yPercent: 0 },
+      { layer: "2", yPercent: 15 },
+      { layer: "3", yPercent: 20 },
+      { layer: "4", yPercent: 100 },
     ];
 
     layers.forEach((l, i) => {
@@ -74,7 +74,7 @@ export default function Hero() {
             data-parallax-layer="3"
             className="absolute inset-0 z-10 flex flex-col items-center justify-start px-6 pt-[22vh] md:pt-[18vh]"
           >
-            <h1 className="text-center font-serif text-5xl font-normal leading-tight text-brown-900 [text-shadow:0_2px_20px_rgba(240,237,225,0.9),0_0_40px_rgba(240,237,225,0.6)] md:text-7xl lg:text-9xl">
+            <h1 className="text-center font-serif text-4xl font-normal leading-tight tracking-tight text-brown-900 [text-shadow:0_2px_20px_rgba(240,237,225,0.9),0_0_40px_rgba(240,237,225,0.6)] md:text-6xl lg:text-8xl">
               Ancient Wisdom for
               <br />
               <span className="italic">the Modern Seeker</span>
