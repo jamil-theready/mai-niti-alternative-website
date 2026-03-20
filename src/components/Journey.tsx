@@ -74,7 +74,7 @@ export default function Journey() {
                 <span className="inline-block rounded-full border border-brown-200 bg-cream px-4 py-1.5 font-display text-xs font-semibold tracking-[0.15em] text-brown-800 uppercase">
                   The Journey
                 </span>
-                <h2 className="mt-6 font-serif text-5xl font-bold leading-tight text-brown-900 md:text-7xl">
+                <h2 className="mt-6 font-serif text-5xl font-normal leading-tight text-brown-900 md:text-7xl">
                   What Your Path Looks Like
                   <br />
                   <span className="italic">in Four Stages</span>
@@ -96,7 +96,7 @@ export default function Journey() {
                 <div className="flex h-14 w-14 items-center justify-center rounded-full border-2 border-brown-900 font-serif text-2xl text-brown-900">
                   {stage.number}
                 </div>
-                <h3 className="mt-6 font-serif text-2xl font-bold text-brown-900">
+                <h3 className="mt-6 font-serif text-2xl font-normal text-brown-900">
                   {stage.title}
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-brown-800">

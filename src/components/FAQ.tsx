@@ -52,7 +52,7 @@ export default function FAQ() {
           <span className="inline-block rounded-full border border-brown-200 bg-cream-light px-4 py-1.5 font-display text-xs font-semibold tracking-[0.15em] text-brown-800 uppercase">
             Faq
           </span>
-          <h2 className="mt-6 font-serif text-5xl font-bold leading-tight text-brown-900 md:text-7xl">
+          <h2 className="mt-6 font-serif text-5xl font-normal leading-tight text-brown-900 md:text-7xl">
             Honest Answers to the Questions
             <br />
             <span className="italic">People Actually Ask</span>

@@ -35,7 +35,7 @@ export default function Services() {
             Offerings
           </span>
         </div>
-        <h2 className="mt-8 text-center font-serif text-5xl font-bold leading-tight text-brown-900 md:text-7xl">
+        <h2 className="mt-8 text-center font-serif text-5xl font-normal leading-tight text-brown-900 md:text-7xl">
           Resources and Experiences for
           <br />
           <span className="italic">Holistic Healing</span>
@@ -64,7 +64,7 @@ export default function Services() {
               <div className="absolute inset-0 bg-gradient-to-t from-brown-900/90 via-brown-900/30 to-transparent" />
 
               <div className="relative z-10 p-6 md:p-8">
-                <h3 className="font-serif text-2xl font-bold text-cream md:text-3xl">
+                <h3 className="font-serif text-2xl font-normal text-cream md:text-3xl">
                   {offering.title}
                 </h3>
                 <p className="mt-3 text-base leading-relaxed text-cream/80">

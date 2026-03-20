@@ -9,7 +9,7 @@ export default function About() {
           </span>
         </div>
 
-        <h2 className="mt-8 text-center font-serif text-5xl font-bold leading-tight text-brown-900 md:text-7xl">
+        <h2 className="mt-8 text-center font-serif text-5xl font-normal leading-tight text-brown-900 md:text-7xl">
           A Home for Seekers of
           <br />
           <span className="italic">Deep Healing</span>

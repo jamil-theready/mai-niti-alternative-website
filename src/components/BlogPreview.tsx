@@ -11,7 +11,7 @@ export default function BlogPreview() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         {/* Section header */}
         <div className="text-center">
-          <h2 className="font-serif text-5xl font-bold leading-tight text-brown-900 md:text-7xl">
+          <h2 className="font-serif text-5xl font-normal leading-tight text-brown-900 md:text-7xl">
             Inspiring Insights for
             <br />
             <span className="italic">Lasting Growth</span>
@@ -41,7 +41,7 @@ export default function BlogPreview() {
               <span className="mb-4 inline-block rounded-full bg-forest px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-white uppercase">
                 {featured.category}
               </span>
-              <h3 className="font-serif text-3xl font-bold leading-snug text-cream md:text-4xl">
+              <h3 className="font-serif text-3xl font-normal leading-snug text-cream md:text-4xl">
                 {featured.title}
               </h3>
               <time
@@ -81,7 +81,7 @@ export default function BlogPreview() {
                 <span className="mb-2 inline-block rounded-full bg-forest px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-white uppercase">
                   {post.category}
                 </span>
-                <h3 className="font-serif text-xl font-bold leading-snug text-cream md:text-2xl">
+                <h3 className="font-serif text-xl font-normal leading-snug text-cream md:text-2xl">
                   {post.title}
                 </h3>
               </div>
@@ -115,7 +115,7 @@ export default function BlogPreview() {
                   <span className="mb-2 inline-block rounded-full bg-forest px-3 py-1 font-display text-[11px] font-semibold tracking-[0.12em] text-white uppercase">
                     {post.category}
                   </span>
-                  <h3 className="font-serif text-xl font-bold leading-snug text-cream md:text-2xl">
+                  <h3 className="font-serif text-xl font-normal leading-snug text-cream md:text-2xl">
                     {post.title}
                   </h3>
                 </div>

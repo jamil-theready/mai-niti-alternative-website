@@ -49,7 +49,7 @@ export default function Testimonials() {
           <span className="inline-block rounded-full border border-brown-200 bg-cream px-4 py-1.5 font-display text-xs font-semibold tracking-[0.15em] text-brown-800 uppercase">
             Experiences
           </span>
-          <h2 className="mt-8 font-serif text-5xl font-bold leading-tight text-brown-900 md:text-7xl">
+          <h2 className="mt-8 font-serif text-5xl font-normal leading-tight text-brown-900 md:text-7xl">
             What People Carry Home
             <br />
             <span className="italic">from Their Journey</span>
@@ -112,7 +112,7 @@ export default function Testimonials() {
                       </div>
 
                       <div className="border-t border-brown-200/60 pt-5">
-                        <p className="font-serif text-lg font-bold text-brown-900">{t.name}</p>
+                        <p className="font-serif text-lg font-normal text-brown-900">{t.name}</p>
                       </div>
                     </div>
                   </div>

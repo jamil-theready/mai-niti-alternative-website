@@ -66,15 +66,15 @@ export default function Hero() {
             data-parallax-layer="2"
             src="/images/hero/mountains.webp"
             alt="Green mountain valley with turquoise lake in the Peruvian highlands"
-            className="absolute inset-0 h-full w-full object-cover object-bottom"
+            className="absolute inset-x-0 bottom-0 top-[18%] h-auto w-full object-cover object-bottom"
           />
 
           {/* Layer 3: Heading text */}
           <div
             data-parallax-layer="3"
-            className="absolute inset-0 flex flex-col items-center justify-start px-6 pt-[22vh] md:pt-[18vh]"
+            className="absolute inset-0 z-10 flex flex-col items-center justify-start px-6 pt-[22vh] md:pt-[18vh]"
           >
-            <h1 className="text-center font-serif text-5xl font-bold leading-tight text-brown-900 [text-shadow:0_2px_20px_rgba(240,237,225,0.9),0_0_40px_rgba(240,237,225,0.6)] md:text-7xl lg:text-9xl">
+            <h1 className="text-center font-serif text-5xl font-normal leading-tight text-brown-900 [text-shadow:0_2px_20px_rgba(240,237,225,0.9),0_0_40px_rgba(240,237,225,0.6)] md:text-7xl lg:text-9xl">
               Ancient Wisdom for
               <br />
               <span className="italic">the Modern Seeker</span>
