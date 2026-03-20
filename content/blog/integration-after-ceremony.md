@@ -6,7 +6,19 @@ category: "Integration"
 readTime: "10 min read"
 image: "/images/site/journaling.jpg"
 imageAlt: "Journaling and reflection as part of the integration process after ceremony"
-excerpt: "The ceremony is only the beginning. Integration is where the real transformation happens. Learn how to carry the insights from sacred ceremony into your daily life and make lasting change."
+excerpt: "Integration is where ceremony becomes lasting change. Learn the practices and principles that help you carry the lessons home and into daily life."
+author: "Mai Niti Alternative"
+tags: ["integration", "after ceremony", "healing process", "daily practice", "lasting change"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "Integration is the process of making sense of ceremonial experiences and applying their lessons to daily life through practices like journaling, meditation, therapy, community connection, and lifestyle changes."
+keyTakeaways: ["Integration is considered as important as the ceremony itself", "Journaling immediately after ceremony captures insights before they fade", "Professional support from integration-aware therapists can be valuable", "Community connection with others on the path provides ongoing support", "Integration is a long-term process that unfolds over weeks and months"]
+faq: [
+    {"question": "What is integration after ceremony?", "answer": "Integration is the process of making sense of ceremonial experiences and applying their insights to daily life. It involves reflection, journaling, lifestyle changes, and sometimes professional support."},
+    {"question": "How long does integration take?", "answer": "Integration is an ongoing process. The most active period is the first 2 to 4 weeks after ceremony, but deeper integration can unfold over months or even years."},
+    {"question": "Do I need a therapist for integration?", "answer": "While not required, working with an integration-aware therapist can be very helpful, especially for processing intense emotional experiences or trauma that surfaced during ceremony."}
+  ]
 ---
 
 The most common mistake people make with plant medicine is thinking the ceremony is the whole thing. It is not. The ceremony is the opening. Integration is where the work actually takes root.

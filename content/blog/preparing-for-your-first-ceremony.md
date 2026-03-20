@@ -6,7 +6,19 @@ category: "Preparation"
 readTime: "10 min read"
 image: "/images/blog/physical-preparation.jpg"
 imageAlt: "Physical and mental preparation for a plant medicine ceremony"
-excerpt: "Preparation is everything when it comes to sacred ceremony. From dietary guidelines to mental readiness, here is what you need to know to arrive in the best possible state for your healing work."
+excerpt: "Your first ceremony is a profound step. This guide covers the physical, mental, and emotional preparation that will help you approach it with confidence."
+author: "Mai Niti Alternative"
+tags: ["first ceremony", "preparation", "ceremony guide", "beginners", "healing journey"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "Preparing for your first ceremony involves physical preparation through diet changes, mental preparation through intention setting, and emotional readiness through honest self-reflection about what you hope to heal."
+keyTakeaways: ["Start dietary preparation at least one week before ceremony", "Set clear but flexible intentions for your experience", "Practice meditation or breathwork to build comfort with stillness", "Communicate openly with your curandero about medical history and concerns", "Release expectations about what the experience should look like"]
+faq: [
+    {"question": "How do I prepare for my first ceremony?", "answer": "Begin dietary preparation one week before, set clear intentions, practice sitting in stillness through meditation, communicate your medical history to the curandero, and release specific expectations."},
+    {"question": "What should I expect during ceremony?", "answer": "Experiences vary widely. You may experience physical sensations, emotional releases, inner visions, or profound stillness. The curandero guides the process through icaros and holds the space for your healing."},
+    {"question": "Is it normal to feel nervous before ceremony?", "answer": "Yes, nervousness is completely normal and even healthy. It reflects the seriousness with which you are approaching the experience. Share your feelings with your curandero for reassurance."}
+  ]
 ---
 
 Your first sacred ceremony is a significant event. How you prepare for it matters more than most people realize. The weeks and days leading up to ceremony are not just logistical. They are the beginning of the healing process itself.
@@ -62,3 +74,8 @@ Many experienced practitioners say the medicine begins working the moment you co
 You do not need to be perfect. You do not need to have it all figured out. You just need to show up as honestly as you can.
 
 For detailed guidance on preparing for your retreat at Mai Niti Alternative, visit [mainiti.org](https://mainiti.org/).
+
+
+## Trust the Process
+
+Your first ceremony will be unlike anything you can prepare for intellectually. And that is exactly the point. The preparation practices outlined here are not about controlling the experience. They are about arriving in the best possible condition, physically, mentally, and emotionally, so that you can surrender to whatever the medicine needs to show you. Trust your curandero. Trust the tradition that has held this space for thousands of years. Trust yourself for having the courage to take this step. The healing you are seeking has already begun the moment you decided to pursue it with sincerity and respect. Everything you need for this experience is already within you. The ceremony simply creates the conditions for you to finally access it.

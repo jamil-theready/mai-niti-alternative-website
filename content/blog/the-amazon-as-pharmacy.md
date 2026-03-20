@@ -6,7 +6,19 @@ category: "Culture"
 readTime: "9 min read"
 image: "/images/site/amazon-jungle.jpg"
 imageAlt: "The vast Amazon rainforest, home to thousands of medicinal plant species"
-excerpt: "The Amazon rainforest contains more plant species than any ecosystem on earth. Indigenous peoples have spent millennia learning their medicinal properties. This is the story of the jungle as the world's greatest pharmacy."
+excerpt: "The Amazon rainforest contains over 80,000 plant species and centuries of indigenous knowledge about their healing properties. Explore this living pharmacy."
+author: "Mai Niti Alternative"
+tags: ["Amazon", "rainforest", "medicinal plants", "indigenous knowledge", "biodiversity", "natural medicine"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "The Amazon rainforest is the world's largest repository of medicinal plants, with over 80,000 species and indigenous knowledge systems that have catalogued thousands of healing applications over millennia."
+keyTakeaways: ["The Amazon contains more medicinal plant species than any ecosystem on earth", "Indigenous communities have developed sophisticated pharmacological knowledge over millennia", "Many modern pharmaceuticals are derived from Amazonian plants", "Deforestation threatens both the plants and the traditional knowledge systems", "Supporting indigenous land rights directly protects this irreplaceable pharmacy"]
+faq: [
+    {"question": "How many medicinal plants are in the Amazon?", "answer": "The Amazon basin contains over 80,000 plant species, with indigenous communities having identified thousands for specific medicinal applications across physical, emotional, and spiritual healing."},
+    {"question": "Are modern medicines derived from Amazon plants?", "answer": "Yes. Approximately 25 percent of modern pharmaceuticals contain compounds originally identified in tropical rainforest plants. Indigenous knowledge has guided many of these discoveries."},
+    {"question": "How is deforestation affecting traditional medicine?", "answer": "Deforestation destroys both the medicinal plants themselves and the ecosystems they depend on. It also displaces indigenous communities, threatening the oral traditions that carry this knowledge."}
+  ]
 ---
 
 The Amazon rainforest covers roughly 5.5 million square kilometers. It contains an estimated 80,000 plant species. Of those, indigenous communities have identified medicinal uses for thousands. Western science has studied a fraction. The jungle holds more pharmaceutical potential than all the laboratories in the world combined.
@@ -56,3 +68,8 @@ Perhaps the most important lesson the Amazon teaches is that healing is relation
 When you come to the Amazon for healing, you are entering into that web of relationships. You are not just taking medicine. You are joining a conversation that has been ongoing for millennia.
 
 At Mai Niti Alternative, we operate within the Amazon, in the Pucallpa and Yarinacocha area, surrounded by the living pharmacy that makes this work possible. Learn more at [mainiti.org](https://mainiti.org/).
+
+
+## Preserving the Pharmacy
+
+The urgency of protecting the Amazon cannot be overstated. Every hectare of rainforest lost takes with it plant species that may never be catalogued, compounds that might have treated diseases we have not yet cured, and generations of accumulated knowledge about their use. Supporting indigenous land rights, choosing retreat centers that invest in local communities, and advocating for rainforest conservation are not abstract political positions. They are direct actions to preserve the most extraordinary pharmacy the world has ever known. The plants are still there, waiting. The knowledge keepers are still teaching. But the window is narrowing. What we protect now determines what future generations will have access to for their healing.

@@ -1,0 +1,16 @@
+{
+  "name": "Mai Niti Alternative",
+  "short_name": "Mai Niti",
+  "description": "Plant Medicine Healing Retreats in Peru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0ede1",
+  "theme_color": "#2a1a13",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

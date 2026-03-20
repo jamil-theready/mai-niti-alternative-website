@@ -138,11 +138,13 @@ export default function Testimonials() {
                 <button
                   key={i}
                   onClick={() => setActive(i)}
-                  className={`h-2.5 rounded-full transition-all ${
-                    i === active ? "w-8 bg-brown-900" : "w-2.5 bg-brown-300"
-                  }`}
+                  className={`flex h-6 min-w-[24px] items-center justify-center rounded-full transition-all`}
                   aria-label={`Go to testimonial ${i + 1}`}
-                />
+                >
+                  <span className={`block h-2.5 rounded-full transition-all ${
+                    i === active ? "w-8 bg-brown-900" : "w-2.5 bg-brown-300"
+                  }`} />
+                </button>
               ))}
             </div>
 

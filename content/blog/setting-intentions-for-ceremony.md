@@ -6,7 +6,19 @@ category: "Preparation"
 readTime: "8 min read"
 image: "/images/blog/yoga-meditation.jpg"
 imageAlt: "Meditation and intention setting as preparation for sacred ceremony"
-excerpt: "Intention is the compass that guides your ceremonial experience. Learn the difference between intention and expectation, how to craft meaningful intentions, and how to hold them with an open hand."
+excerpt: "Setting intentions is one of the most important steps in preparing for ceremony. Learn how to craft intentions that support deep and meaningful healing."
+author: "Mai Niti Alternative"
+tags: ["intentions", "ceremony preparation", "healing journey", "mindset", "spiritual practice"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "Setting intentions for ceremony means identifying what you genuinely want to heal or understand, then holding that intention with openness rather than rigid expectation about how the answer will arrive."
+keyTakeaways: ["Good intentions are specific enough to provide direction but open enough to allow surprise", "Write your intentions down and revisit them before ceremony", "Common intentions include healing relationships, releasing fear, finding purpose, and understanding patterns", "Avoid setting intentions about other people or controlling outcomes", "Share your intentions with your curandero for additional guidance"]
+faq: [
+    {"question": "How do I set intentions for ceremony?", "answer": "Reflect honestly on what you want to heal or understand. Write it down simply and specifically. Hold it with openness rather than rigid expectation. Share it with your curandero."},
+    {"question": "What are good intentions for ceremony?", "answer": "Good intentions are honest and personal. Examples include understanding a recurring pattern, healing a specific relationship wound, releasing a fear that holds you back, or finding clarity on life direction."},
+    {"question": "Can I have more than one intention?", "answer": "Yes, but it helps to have one primary intention and one or two secondary ones. Too many intentions can scatter your focus. The medicine often addresses what is most needed regardless."}
+  ]
 ---
 
 Every experienced curandero will tell you the same thing: come to ceremony with a clear intention. But what does that actually mean? How do you set an intention that is honest, useful, and open enough to allow the medicine to work?
@@ -66,3 +78,8 @@ Setting intentions for ceremony is excellent practice for life. The skill of ide
 During [integration](/blog/integration-after-ceremony), revisit your original intention. Did the medicine address it? How? What did you learn? What new intentions are forming? This reflection completes the cycle and prepares you for whatever comes next.
 
 To learn more about the ceremonial process at Mai Niti Alternative, visit [mainiti.org](https://mainiti.org/).
+
+
+## Holding Intentions Lightly
+
+The paradox of intention setting is that the tighter you grip your desired outcome, the less space you leave for genuine healing. The most powerful ceremonies often deliver something completely different from what the participant requested, and something far more profound than what they imagined. Set your intention with sincerity. Write it on paper. Speak it aloud. Then release your attachment to how it should be answered. The medicine has its own intelligence, refined over millennia. It knows what you need, often better than you do. Your intention is the invitation. What arrives is the gift.

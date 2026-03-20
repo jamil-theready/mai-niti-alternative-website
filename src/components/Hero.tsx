@@ -56,7 +56,7 @@ export default function Hero() {
           {/* Layer 1: Sky */}
           <img
             data-parallax-layer="1"
-            src="/images/hero/sky.png"
+            src="/images/hero/sky.webp"
             alt=""
             className="absolute inset-0 h-full w-full object-cover"
           />
@@ -64,7 +64,7 @@ export default function Hero() {
           {/* Layer 2: Mountains */}
           <img
             data-parallax-layer="2"
-            src="/images/hero/mountains.png"
+            src="/images/hero/mountains.webp"
             alt="Green mountain valley with turquoise lake in the Peruvian highlands"
             className="absolute inset-0 h-full w-full object-cover object-bottom"
           />
@@ -99,7 +99,7 @@ export default function Hero() {
           {/* Layer 4: Hiker */}
           <img
             data-parallax-layer="4"
-            src="/images/hero/hiker.png"
+            src="/images/hero/hiker.webp"
             alt="Hiker standing on cliff overlooking the valley"
             className="absolute inset-0 h-full w-full object-cover object-bottom"
           />

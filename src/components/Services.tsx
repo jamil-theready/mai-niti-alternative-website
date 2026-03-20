@@ -3,7 +3,7 @@ const offerings = [
     title: "Knowledge Resources",
     description:
       "Explore our curated library of articles, guides, and research on ancestral healing traditions, ceremonial practices, and personal growth.",
-    image: "/images/site/framer-offering-1.jpg",
+    image: "/images/site/framer-offering-1.webp",
     imageAlt: "Knowledge resources for healing and personal growth",
     href: "/blog",
   },
@@ -11,7 +11,7 @@ const offerings = [
     title: "Retreat Programs",
     description:
       "Join us in Peru for immersive, expertly held retreats rooted in traditional Amazonian practices and supported by modern integration methods.",
-    image: "/images/site/framer-offering-2.jpg",
+    image: "/images/site/framer-offering-2.webp",
     imageAlt: "Immersive retreat program in the Peruvian Amazon",
     href: "/contact",
   },
@@ -19,7 +19,7 @@ const offerings = [
     title: "Integration Support",
     description:
       "Healing does not end when a retreat does. Our community and support resources help you process, ground, and grow long after ceremony.",
-    image: "/images/site/framer-offering-3.jpg",
+    image: "/images/site/framer-offering-3.webp",
     imageAlt: "Integration and ongoing support after retreat",
     href: "/blog/integration-after-ceremony",
   },

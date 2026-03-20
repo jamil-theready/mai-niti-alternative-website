@@ -77,7 +77,7 @@ export default function Navbar() {
       <nav className="fixed top-4 left-4 right-4 z-50 md:hidden">
         <div className="flex items-center justify-between rounded-full bg-brown-900/90 px-4 py-2.5 shadow-xl backdrop-blur-md">
           {/* Logo */}
-          <a href="/" className="flex h-9 w-9 items-center justify-center rounded-full text-cream">
+          <a href="/" className="flex h-9 w-9 items-center justify-center rounded-full text-cream" aria-label="Go to homepage">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 40 40">
               <path fill="currentColor" d="M19.982 11.7V20l-1.73-1.08c-3.073-1.931-4.98-5.52-4.98-9.42H12v9.497c0 3.088 1.625 5.945 4.203 7.295l3.814 2.008V20l1.731 1.08c3.073 1.931 4.98 5.521 4.98 9.42H28v-9.496c0-3.088-1.625-5.945-4.203-7.296L19.982 11.7Z"/>
             </svg>

@@ -6,7 +6,19 @@ category: "Guidance"
 readTime: "9 min read"
 image: "/images/blog/peru-healing.jpg"
 imageAlt: "The lush Peruvian Amazon, home to thousands of years of plant medicine tradition"
-excerpt: "Plant medicine has been used for thousands of years by indigenous cultures across the Amazon. This guide covers the basics of what plant medicine is, how it works within traditional healing frameworks, and what seekers should know before exploring this path."
+excerpt: "Plant medicine refers to sacred plants used by indigenous healers in ceremony. Learn the basics of this tradition and what seekers should know."
+author: "Mai Niti Alternative"
+tags: ["plant medicine", "beginners guide", "sacred plants", "Amazon healing", "curandero"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "Plant medicine is the traditional use of sacred plants by trained indigenous healers called curanderos within ceremonial and dietary contexts for physical, emotional, and spiritual healing."
+keyTakeaways: ["Plant medicine involves sacred plants administered by trained curanderos in ceremonial settings", "The Shipibo tradition views healing as restoring energetic balance", "Ceremony, dieta, and integration are all essential parts of the process", "A qualified curandero is not optional but central to safe practice", "Seekers should educate themselves thoroughly before pursuing this path"]
+faq: [
+    {"question": "What is plant medicine?", "answer": "Plant medicine refers to sacred plants used by trained indigenous healers within ceremonial settings for healing. It is a complete traditional medical system with its own protocols and specialists."},
+    {"question": "Is plant medicine safe?", "answer": "When administered by a trained curandero in a proper ceremonial setting with appropriate screening and preparation, plant medicine has been used safely for thousands of years."},
+    {"question": "How do I start exploring plant medicine?", "answer": "Begin with education. Learn about the Shipibo tradition, understand what a dieta involves, and research how to choose a retreat center that honors the tradition and prioritizes safety."}
+  ]
 ---
 
 For thousands of years, the indigenous peoples of the Amazon have turned to the rainforest for healing. Not in the way modern pharmacies dispense pills. Something far older. Something rooted in relationship, reverence, and deep listening to the natural world.
@@ -52,3 +64,8 @@ If you are considering plant medicine, start with education. Read about the [Shi
 The path of plant medicine is not for everyone. But for those who feel called, it can be one of the most profound healing experiences available. The Amazon has been offering this gift for thousands of years. The invitation is open.
 
 To learn more about beginning your journey with Mai Niti Alternative, visit [mainiti.org](https://mainiti.org/).
+
+
+## A Path Worth Walking Carefully
+
+Plant medicine is not for everyone, and it is not a casual undertaking. But for those who feel genuinely called to this path, who have done their research, who approach with humility and respect for the traditions that carry it, the potential for deep and lasting transformation is real. Thousands of years of continuous practice by indigenous healers is not a trend or a fad. It is a proven system of healing that has survived precisely because it works. The question is not whether plant medicine is powerful. The question is whether you are ready to meet that power with the seriousness, preparation, and commitment it deserves.

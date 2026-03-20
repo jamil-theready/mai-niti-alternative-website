@@ -6,7 +6,19 @@ category: "Wellness"
 readTime: "8 min read"
 image: "/images/blog/couples-retreat.jpg"
 imageAlt: "People coming together in community as part of the shared healing experience"
-excerpt: "Healing in the indigenous tradition has always been communal. From shared ceremony to integration circles, community is one of the most powerful forces in the healing process."
+excerpt: "Healing is not a solitary path. Discover why community is central to the traditional healing model and how shared experience deepens transformation."
+author: "Mai Niti Alternative"
+tags: ["community", "group healing", "shared experience", "retreat community", "support"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "Community is central to traditional healing because shared ceremonial experience creates mutual support, accountability, and a sense of belonging that deepens individual transformation."
+keyTakeaways: ["Indigenous healing has always been communal, not individualistic", "Sharing in a group creates witnesses to your process, which deepens healing", "Post-retreat community provides ongoing accountability and support", "Vulnerability in a group setting builds trust and accelerates growth", "Online integration communities extend support beyond the retreat"]
+faq: [
+    {"question": "Why is community important in healing?", "answer": "Community provides witnessing, support, and accountability that deepen individual healing. Indigenous traditions have always understood healing as a communal rather than solitary process."},
+    {"question": "Will I have to share personal experiences with the group?", "answer": "Sharing is always voluntary. Most retreat centers create optional sharing circles where participants can speak about their experiences at whatever depth feels comfortable."},
+    {"question": "How can I stay connected after retreat?", "answer": "Many retreat centers offer alumni communities, integration circles, or online groups. Building relationships with fellow participants during retreat often creates lasting bonds for mutual support."}
+  ]
 ---
 
 There is a belief in modern Western culture that healing is a private matter. You go to your therapist alone. You take your medication alone. You work through your problems inside your own head. But indigenous traditions across the Amazon see it differently. Healing has always been a communal act. The individual does not heal in isolation. The community holds the space, witnesses the process, and shares in the restoration of balance.

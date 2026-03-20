@@ -6,7 +6,19 @@ category: "Preparation"
 readTime: "9 min read"
 image: "/images/blog/fasting.jpg"
 imageAlt: "Simple, clean food prepared as part of a traditional plant medicine dieta"
-excerpt: "The dieta is far more than a list of foods to avoid. In the Shipibo tradition, the dieta is a sacred contract between you and the plant. Here is why it matters and how to approach it with the seriousness it deserves."
+excerpt: "The dieta is a strict dietary and behavioral protocol central to plant medicine healing. Learn why it matters and what it involves before ceremony."
+author: "Mai Niti Alternative"
+tags: ["dieta", "plant medicine preparation", "dietary protocol", "Shipibo tradition", "ceremony preparation"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "The dieta is a strict dietary and behavioral protocol observed before, during, and after ceremony. It involves specific food restrictions, social isolation, and sexual abstinence to create optimal conditions for healing."
+keyTakeaways: ["The dieta is not just a food restriction but a complete behavioral protocol", "It creates physical and energetic conditions for deeper healing", "Restrictions typically include salt, sugar, spice, alcohol, pork, and sexual activity", "Breaking the dieta can interfere with the healing process", "The duration and strictness vary depending on the ceremony and healer"]
+faq: [
+    {"question": "What is a dieta in plant medicine?", "answer": "A dieta is a strict dietary and behavioral protocol that includes food restrictions, social isolation, and abstinence from certain activities to prepare the body and mind for ceremonial healing."},
+    {"question": "What foods are restricted during a dieta?", "answer": "Common restrictions include salt, sugar, spicy foods, alcohol, pork, red meat, fermented foods, caffeine, and processed foods. Each curandero may have specific additional requirements."},
+    {"question": "How long does a dieta last?", "answer": "A basic pre-ceremony dieta typically lasts 3 to 7 days. Extended dietas for deeper healing work can last weeks or months under the curandero's guidance."}
+  ]
 ---
 
 Most people hear "dieta" and think of food restrictions. No sugar. No salt. No pork. And yes, those guidelines are part of it. But the dieta in the Shipibo healing tradition is something much larger. It is a sacred agreement between you and the plant you are working with. It is the container that allows the medicine to do its deepest work.
@@ -68,3 +80,8 @@ Follow your curandero's guidance on the post ceremony dieta carefully. This is o
 If you are [preparing for your first ceremony](/blog/preparing-for-your-first-ceremony), start the dietary changes gradually. Do not wait until two days before to overhaul your entire diet. Begin tapering off caffeine, sugar, and processed food at least a week before the formal dieta begins. Your body will thank you.
 
 For specific dieta guidelines for your retreat at Mai Niti Alternative, visit [mainiti.org](https://mainiti.org/).
+
+
+## The Dieta as Teacher
+
+Many experienced practitioners say the dieta itself is one of the greatest teachers. The restrictions force you to confront habits, cravings, and attachments you did not realize you had. The simplicity of the diet clears mental fog. The social isolation creates space for self-reflection that modern life rarely allows. By the time ceremony arrives, the dieta has already begun the healing process. Your body is lighter. Your mind is clearer. Your sensitivity to the plants is heightened. What felt like deprivation in the first days reveals itself as a profound gift of clarity and readiness.

@@ -6,7 +6,19 @@ category: "Tradition"
 readTime: "10 min read"
 image: "/images/blog/ceremony-space.jpg"
 imageAlt: "A traditional ceremonial space used in Shipibo healing practices"
-excerpt: "The Shipibo people of the Peruvian Amazon hold one of the most sophisticated healing traditions on earth. Learn about their cosmology, their approach to medicine, and why their knowledge matters now more than ever."
+excerpt: "The Shipibo people of Peru have developed one of the most sophisticated healing traditions in the Amazon. An introduction for seekers exploring this path."
+author: "Mai Niti Alternative"
+tags: ["Shipibo", "healing tradition", "indigenous wisdom", "Peru", "Amazon", "kene"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "The Shipibo are an indigenous people of the Peruvian Amazon known for their sophisticated healing tradition that integrates plant medicine, sacred songs called icaros, and geometric art patterns called kene into a complete medical system."
+keyTakeaways: ["The Shipibo have maintained their healing tradition for thousands of years", "Their system integrates plant medicine, icaros, and kene art into one framework", "Kene patterns are visual maps of healing frequencies", "Shipibo healers undergo decades of training through plant dietas", "Their tradition offers one of the most structured approaches to plant medicine healing"]
+faq: [
+    {"question": "Who are the Shipibo people?", "answer": "The Shipibo are an indigenous people of the Ucayali River region in the Peruvian Amazon, known for their sophisticated system of plant medicine healing, sacred songs, and geometric art."},
+    {"question": "What makes Shipibo healing unique?", "answer": "The Shipibo tradition uniquely integrates plant medicine, healing songs called icaros, and geometric patterns called kene into a unified system where sound, vision, and medicine work together."},
+    {"question": "What is kene?", "answer": "Kene are intricate geometric patterns created by Shipibo artists that represent healing frequencies. They appear on textiles, pottery, and are perceived by curanderos during ceremony as energetic maps."}
+  ]
 ---
 
 The Shipibo Conibo people have lived along the Ucayali River in the Peruvian Amazon for centuries. Their healing tradition is among the most complete and sophisticated systems of plant medicine in the world. For seekers considering this path, understanding the Shipibo tradition is not just respectful. It is essential.
@@ -54,3 +66,8 @@ If you feel drawn to the Shipibo healing tradition, begin by learning. Read acco
 At Mai Niti Alternative, the Shipibo tradition is the foundation of everything we do. Our curanderos carry lineage knowledge passed down through generations. The ceremonies, the dietas, the icaros: all follow traditional protocols.
 
 Learn more about our approach at [mainiti.org](https://mainiti.org/).
+
+
+## A Living Tradition in a Changing World
+
+The Shipibo healing tradition is not a relic of the past. It is a living, evolving system practiced by contemporary healers who navigate both the ancient world of plant spirits and the modern world of international visitors, digital communication, and global health challenges. The best Shipibo curanderos hold both worlds with skill, maintaining the integrity of their ancestral practices while adapting their communication to help outsiders understand and benefit from the tradition. For seekers approaching this path, the invitation is clear. Come with respect. Come with genuine need. Come willing to learn on the tradition's own terms rather than yours. What you find may reshape your entire understanding of what healing can be.

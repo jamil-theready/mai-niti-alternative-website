@@ -15,7 +15,7 @@ export default function Footer() {
             Have a question? Email us at{" "}
             <a
               href="mailto:Mainiti@gmail.com"
-              className="font-medium text-forest-light transition-colors hover:text-cream"
+              className="font-medium text-cream/90 transition-colors hover:text-cream"
             >
               Mainiti@gmail.com
             </a>
@@ -49,7 +49,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="mt-10 border-t border-cream/10 pt-6">
-          <p className="text-xs text-cream/30">
+          <p className="text-xs text-cream/60">
             &copy; 2026 Mai Niti All rights reserved.
           </p>
         </div>

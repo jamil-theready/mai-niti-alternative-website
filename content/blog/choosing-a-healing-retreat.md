@@ -6,7 +6,19 @@ category: "Guidance"
 readTime: "10 min read"
 image: "/images/blog/choosing-retreat.jpg"
 imageAlt: "A peaceful healing retreat center nestled in the Peruvian Amazon jungle"
-excerpt: "Not all retreat centers are created equal. Safety, lineage, and integrity matter deeply when choosing where to do plant medicine work. Here is what to look for and what to avoid."
+excerpt: "Choosing the right retreat center is one of the most important decisions in your healing journey. Here are the key factors to evaluate before you commit."
+author: "Mai Niti Alternative"
+tags: ["retreat center", "choosing retreat", "Peru retreat", "safety", "healing journey"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "When choosing a healing retreat, prioritize centers with traditionally trained curanderos, proper medical screening, small group sizes, integration support, and transparent communication about their practices and lineage."
+keyTakeaways: ["Verify the curandero has legitimate traditional training and lineage", "Look for proper medical screening and contraindication protocols", "Small group sizes (under 15) allow more personalized attention", "Integration support before and after ceremony is essential", "Transparent pricing and clear communication are green flags"]
+faq: [
+    {"question": "How do I choose a healing retreat in Peru?", "answer": "Evaluate the curandero's training and lineage, check for medical screening protocols, look for small group sizes, verify integration support is offered, and seek transparent communication about practices and pricing."},
+    {"question": "What red flags should I watch for in retreat centers?", "answer": "Watch for centers with no medical screening, unusually large groups, vague information about their healers' training, pressure tactics to book, and no integration support before or after ceremony."},
+    {"question": "How much does a healing retreat in Peru cost?", "answer": "Legitimate retreat centers in Peru typically charge between 1500 and 4000 USD for a week-long program, depending on the location, amenities, and length of the program."}
+  ]
 ---
 
 The decision to attend a healing retreat in Peru is significant. Where you choose to do this work can mean the difference between a safe, transformative experience and one that is harmful or empty. The landscape of retreat centers has grown rapidly in recent years, and not all operate with the same standards of safety, ethics, and authenticity.
@@ -73,3 +85,8 @@ Watch for these warning signs:
 After you have done your research, trust your gut. Read reviews. Talk to alumni. Visit the center's website and see how it feels. The right center for your first experience should feel safe, honest, and grounded.
 
 At Mai Niti Alternative, we welcome questions. We believe transparency builds trust, and trust is the foundation of healing work. Learn more about our approach, our curanderos, and our protocols at [mainiti.org](https://mainiti.org/).
+
+
+## Taking Your Time With This Decision
+
+There is no rush. The right retreat will still be there when you are ready. Spend weeks or even months researching. Reach out to centers with specific questions. Pay attention to how they respond. A center that takes time to answer thoughtfully, that does not pressure you to book immediately, and that demonstrates genuine care for your wellbeing before you have paid anything is showing you how they will treat you when you arrive. Trust that instinct. The quality of your healing experience begins long before you board the plane. It begins with the quality of your discernment in choosing where to go and who to trust with your process.

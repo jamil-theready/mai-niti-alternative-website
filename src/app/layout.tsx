@@ -122,6 +122,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="manifest" href="/site.webmanifest" />
+        <meta name="theme-color" content="#2a1a13" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
@@ -129,9 +132,16 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         <link
+          rel="preload"
+          as="style"
+          href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;700;900&display=swap"
+        />
+        <link
           href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;700;900&display=swap"
           rel="stylesheet"
         />
+        <link rel="preload" as="image" href="/images/hero/sky.webp" />
+        <link rel="preload" as="image" href="/images/hero/mountains.webp" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

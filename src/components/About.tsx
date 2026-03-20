@@ -24,7 +24,7 @@ export default function About() {
           {/* Large image — 3 cols */}
           <div className="relative overflow-hidden rounded-2xl bg-brown-200/30 lg:col-span-3 lg:row-span-2">
             <img
-              src="/images/site/shipibo-healers.jpg"
+              src="/images/site/shipibo-healers.webp"
               alt="Shipibo curanderos at the Mai Niti Alternative retreat center in the Peruvian Amazon"
               className="h-full w-full object-cover"
               loading="lazy"

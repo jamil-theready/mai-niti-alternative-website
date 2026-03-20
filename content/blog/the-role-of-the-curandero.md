@@ -6,7 +6,19 @@ category: "Tradition"
 readTime: "10 min read"
 image: "/images/site/retreat-3.jpg"
 imageAlt: "A traditional healer in the Peruvian Amazon, guardian of ancestral plant medicine knowledge"
-excerpt: "The curandero stands at the center of traditional Amazonian healing. Trained through decades of plant dietas, these healers carry ancestral knowledge that cannot be learned from books or weekend courses."
+excerpt: "The curandero is the trained healer who holds ceremonial space. Learn about their years of training, their role in healing, and why they are essential."
+author: "Mai Niti Alternative"
+tags: ["curandero", "traditional healer", "Shipibo", "ceremony", "plant medicine", "training"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "A curandero is a traditionally trained healer who has undergone years of rigorous dietas with master plants to develop the skills needed to facilitate safe and effective ceremonial healing."
+keyTakeaways: ["Curanderos undergo decades of training through plant dietas and apprenticeship", "They serve as guides, protectors, and translators between humans and the plant world", "The curandero reads energetic states and selects healing approaches in real time", "Working with plant medicine without a trained curandero carries real risks", "Not all who claim the title have completed legitimate training"]
+faq: [
+    {"question": "What is a curandero?", "answer": "A curandero is a traditionally trained healer in the Amazonian tradition who has completed years of rigorous plant dietas and apprenticeship to develop healing abilities."},
+    {"question": "How long does curandero training take?", "answer": "Authentic curandero training takes years to decades of dedicated practice, involving extended periods of isolation, strict dietas, and mentorship under experienced healers."},
+    {"question": "Why is a curandero necessary for ceremony?", "answer": "The curandero holds the ceremonial space, reads participants' energetic states, selects appropriate healing songs, and provides protection and guidance throughout the process."}
+  ]
 ---
 
 In the Shipibo tradition, the curandero is the person who holds the healing space. The word comes from the Spanish "curar," meaning to heal. But the role goes far deeper than that simple translation. A curandero is a specialist trained over decades in the art of working with plant spirits, navigating unseen energies, and guiding others through sacred ceremony. This is not a title that can be self assigned. It is earned through years of sacrifice, solitude, and devotion to the ancestral practice.

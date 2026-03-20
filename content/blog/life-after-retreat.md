@@ -6,7 +6,19 @@ category: "Integration"
 readTime: "9 min read"
 image: "/images/blog/digital-detox.jpg"
 imageAlt: "Returning to daily life after a transformative healing retreat experience"
-excerpt: "The retreat ends but the healing continues. What happens in the first weeks after ceremony, and how you navigate the transition home, determines whether the work takes root or fades."
+excerpt: "The real work begins when you return home. Learn how to navigate the transition from retreat back to daily life while preserving your healing gains."
+author: "Mai Niti Alternative"
+tags: ["life after retreat", "returning home", "integration", "daily practice", "lasting change"]
+language: "en"
+featured: false
+draft: false
+quickAnswer: "Life after retreat involves creating daily practices that maintain your connection to the healing work, building a support network, making aligned lifestyle changes, and being patient with the gradual unfolding of integration."
+keyTakeaways: ["The transition home is often the most challenging part of the journey", "Establish daily practices immediately: meditation, journaling, time in nature", "Be selective about who you share your experience with", "Expect some relationships and habits to naturally shift", "Give yourself grace during the readjustment period"]
+faq: [
+    {"question": "What should I do when I get home from retreat?", "answer": "Establish daily practices like meditation and journaling immediately. Keep your diet clean for at least two weeks. Be selective about who you share with. Give yourself space to integrate."},
+    {"question": "Will my relationships change after retreat?", "answer": "Many people experience shifts in relationships after deep healing work. Some relationships deepen while others may naturally fall away. This is a normal part of personal growth."},
+    {"question": "How long should I maintain the dieta after retreat?", "answer": "Most curanderos recommend maintaining core dietary restrictions for at least two weeks after ceremony. Your retreat center should provide specific post-ceremony guidelines."}
+  ]
 ---
 
 You are on the plane home. The jungle is behind you. The ceremonies are memories now. Your body is tired in a way that feels different from ordinary fatigue. Something has shifted inside, and the world outside the window looks both familiar and strange. The question forming in your mind is the same one that every person asks after retreat: what do I do now?
