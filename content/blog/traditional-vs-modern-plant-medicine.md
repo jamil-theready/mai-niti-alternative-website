@@ -15,17 +15,15 @@ excerpt: >-
   Traditional and modern approaches to plant medicine differ fundamentally.
   Learn the benefits and risks of each and what a thoughtful blend looks like.
 quickAnswer: >-
-  Traditional and modern approaches to plant medicine differ fundamentally.
-  Learn the benefits and risks of each and what a thoughtful blend looks like.
+  The traditional Shipibo approach to plant medicine developed over centuries
+  within a specific cultural, ecological, and spiritual context. Understanding
+  its core features helps clarify what makes it different from modern
+  adaptations.
 keyTakeaways:
-  - >-
-    Understanding the traditional approach in the context of plant medicine
-    healing
+  - The Traditional Approach
   - The Healer at the Center
-  - Understanding community context in the context of plant medicine healing
-  - >-
-    Understanding long term relationships in the context of plant medicine
-    healing
+  - Community Context
+  - Long Term Relationships
   - No Separation of Spiritual and Physical
 faq:
   - question: What is traditional approach?

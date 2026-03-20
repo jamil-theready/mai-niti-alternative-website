@@ -16,14 +16,15 @@ excerpt: >-
   Yoga and plant medicine share deep roots in body-based healing. Discover how
   combining these practices enhances both ceremony and integration.
 quickAnswer: >-
-  Yoga and plant medicine share deep roots in body-based healing. Discover how
-  combining these practices enhances both ceremony and integration.
+  Both <a href="https://en.wikipedia.org/wiki/Yoga" target="_blank">yoga</a> and
+  plant medicine traditions recognize that healing happens through the body, not
+  just the mind.
 keyTakeaways:
   - Shared Roots in Body-Based Healing
   - 'Different Traditions, Similar Principles'
   - Yoga as Preparation for Ceremony
   - Which Styles Work Best
-  - Understanding yoga during retreat in the context of plant medicine healing
+  - Yoga During Retreat
 faq:
   - question: What is shared roots in body-based healing?
     answer: >-

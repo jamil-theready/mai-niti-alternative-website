@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine and Boundaries: Learning to Protect Your E...'
+title: Plant Medicine and Boundaries
 slug: plant-medicine-and-boundaries
 date: '2026-03-12'
 category: Tradition
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Plant Medicine and Boundaries: Protecting Your Energy Aft...'
+metaTitle: Plant Medicine and Boundaries
 metaDescription: >-
   Ceremony often reveals where your boundaries are weak or absent. Learn how
   plant medicine helps you establish and maintain healthy boundaries.
@@ -16,14 +16,12 @@ excerpt: >-
   Ceremony often reveals where your boundaries are weak or absent. Learn how
   plant medicine helps you establish and maintain healthy boundaries.
 quickAnswer: >-
-  Ceremony often reveals where your boundaries are weak or absent. Learn how
-  plant medicine helps you establish and maintain healthy boundaries.
+  Plant medicine has a consistent way of illuminating the areas of life where
+  you are leaking energy.
 keyTakeaways:
   - Why Boundaries Come Up in Ceremony
   - Roots of Boundary Issues
-  - >-
-    Understanding recognizing boundary patterns in the context of plant medicine
-    healing
+  - Recognizing Boundary Patterns
   - The Body's Boundary Signals
   - Energetic Boundaries After Retreat
 faq:

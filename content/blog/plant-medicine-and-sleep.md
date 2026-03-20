@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Plant Medicine and Sleep: How Healing Retreats Address In...'
+metaTitle: 'Plant Medicine and Sleep: How Ceremony Restores Deep Rest'
 metaDescription: >-
   Chronic sleeplessness often has roots deeper than habits. Discover how plant
   medicine ceremony addresses the emotional and energetic patterns that keep ...
@@ -16,11 +16,13 @@ excerpt: >-
   Chronic sleeplessness often has roots deeper than habits. Discover how plant
   medicine ceremony addresses the emotional and energetic patterns that keep ...
 quickAnswer: >-
-  Chronic sleeplessness often has roots deeper than habits. Discover how plant
-  medicine ceremony addresses the emotional and energetic patterns that keep ...
+  Insomnia is not a disease. It is a symptom. When someone lies awake at three
+  in the morning with a racing mind, the problem is not broken sleep
+  architecture. The problem is a nervous system that does not feel safe enough
+  to let go.
 keyTakeaways:
   - Why Modern People Cannot Sleep
-  - Understanding sleep as surrender in the context of plant medicine healing
+  - Sleep as Surrender
   - How Ceremony Resets the Nervous System
   - The Role of the Ceremonial Space
   - The Purge That Precedes Rest

@@ -1,5 +1,5 @@
 ---
-title: 'Mental Preparation for a Healing Retreat: What Actually H...'
+title: Mental Preparation Healing Retreat
 slug: mental-preparation-healing-retreat
 date: '2026-02-28'
 category: Preparation
@@ -15,14 +15,13 @@ excerpt: >-
   How to mentally prepare for a healing retreat. Practical strategies for
   quieting the mind, managing fear, and arriving with the right mindset.
 quickAnswer: >-
-  How to mentally prepare for a healing retreat. Practical strategies for
-  quieting the mind, managing fear, and arriving with the right mindset.
+  People spend weeks cleaning up their diet. They pack meticulously. They book
+  flights months in advance. And then they show up with a mind that is louder
+  than a construction site.
 keyTakeaways:
   - What Mental Preparation Actually Does
   - The Connection to Physical Prep
-  - >-
-    Understanding reduce information input in the context of plant medicine
-    healing
+  - Reduce Information Input
   - Create Pockets of Silence
   - Why This Feels Hard
 faq:

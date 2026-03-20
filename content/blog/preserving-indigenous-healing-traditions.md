@@ -15,13 +15,14 @@ excerpt: >-
   Indigenous healing traditions face real threats from tourism, appropriation,
   and modernization. Here is what is being lost and what visitors and retreat.
 quickAnswer: >-
-  Indigenous healing traditions face real threats from tourism, appropriation,
-  and modernization. Here is what is being lost and what visitors and retreat.
+  The traditions that draw people to the Amazon did not develop overnight. They
+  were built across centuries by communities whose survival depended on deep
+  knowledge of the plant world. That knowledge is now at risk.
 keyTakeaways:
   - What Is Being Lost
-  - Understanding the language gap in the context of plant medicine healing
-  - Understanding economic pressure in the context of plant medicine healing
-  - Understanding tourism distortion in the context of plant medicine healing
+  - The Language Gap
+  - Economic Pressure
+  - Tourism Distortion
   - Cultural Appropriation vs Appreciation
 faq:
   - question: What Is Being Lost?

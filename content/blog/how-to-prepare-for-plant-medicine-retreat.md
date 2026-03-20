@@ -15,8 +15,9 @@ excerpt: >-
   Everything you need to know before your first plant medicine retreat in Peru.
   From diet and mindset to what to pack and how to set your intention.
 quickAnswer: >-
-  Everything you need to know before your first plant medicine retreat in Peru.
-  From diet and mindset to what to pack and how to set your intention.
+  A plant medicine retreat is not a vacation. It is not a wellness getaway with
+  smoothies and sunsets. It is deep, transformative work that asks you to meet
+  yourself fully.
 keyTakeaways:
   - What Preparation Actually Does
   - The Three Layers of Preparation

@@ -16,8 +16,8 @@ excerpt: >-
   Crying, laughing, shaking, screaming. Emotional release during ceremony can be
   intense and confusing. Here is what it means and why it matters.
 quickAnswer: >-
-  Crying, laughing, shaking, screaming. Emotional release during ceremony can be
-  intense and confusing. Here is what it means and why it matters.
+  Emotional release during plant medicine ceremony takes many forms, and almost
+  none of them look the way people expect.
 keyTakeaways:
   - What Emotional Release Looks Like in Ceremony
   - The Unexpected Nature of Release

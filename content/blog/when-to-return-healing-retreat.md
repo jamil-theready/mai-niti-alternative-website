@@ -15,8 +15,9 @@ excerpt: >-
   Thinking about another retreat? Learn how to tell the difference between
   genuine readiness and escapism, and find the right timing for deeper work.
 quickAnswer: >-
-  Thinking about another retreat? Learn how to tell the difference between
-  genuine readiness and escapism, and find the right timing for deeper work.
+  Almost everyone who has a powerful retreat experience feels the pull to
+  return. Sometimes it comes within days. Sometimes it takes months. The pull
+  itself is not the issue. What matters is understanding where it comes from.
 keyTakeaways:
   - The Pull to Go Back
   - Two Types of Pull

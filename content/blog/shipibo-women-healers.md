@@ -15,14 +15,15 @@ excerpt: >-
   Women have always played a role in Shipibo healing. Learn about their history,
   training, unique strengths, and the challenges they face in a changing wo...
 quickAnswer: >-
-  Women have always played a role in Shipibo healing. Learn about their history,
-  training, unique strengths, and the challenges they face in a changing wo...
+  The role of women in Shipibo healing is both ancient and contested. While the
+  majority of internationally known Shipibo healers are men, women have always
+  been part of the tradition.
 keyTakeaways:
   - Women in Shipibo Healing History
-  - Understanding historical presence in the context of plant medicine healing
-  - Understanding shifts over time in the context of plant medicine healing
-  - Understanding mai niti's commitment in the context of plant medicine healing
-  - Understanding training and lineage in the context of plant medicine healing
+  - Historical Presence
+  - Shifts Over Time
+  - Mai Niti's Commitment
+  - Training and Lineage
 faq:
   - question: What is women in shipibo healing history?
     answer: >-

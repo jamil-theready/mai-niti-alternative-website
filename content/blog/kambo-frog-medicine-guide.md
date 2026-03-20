@@ -16,21 +16,13 @@ excerpt: >-
   Kambo is a powerful cleansing medicine from the Amazon. Understand the
   process, the science, the tradition, and who it is appropriate for.
 quickAnswer: >-
-  Kambo is a powerful cleansing medicine from the Amazon. Understand the
-  process, the science, the tradition, and who it is appropriate for.
+  The practice involves applying the frog secretion to small burns made on the
+  surface of the skin.
 keyTakeaways:
-  - >-
-    What Is Kambo and Where Does It Come From<a
-    href="https://en.wikipedia.org/wiki/Kambo_(ritual)"
-    target="_blank">Kambo</a> is a secretion harvested from the giant monkey
-    frog (Phyllomedusa bicolor), a large tree frog native to the Amazon
-    rainforest. Indigenous peoples, including the Matsigenka, Katukina, and
-    Yawanawa, have used kambo for generations as a hunting aid, immune system
-    booster, and cleansing medicine. The secretion is collected by gently
-    stimulating the frog, which is then released unharmed back into the forest.
+  - What Is Kambo and Where Does It Come From
   - 'Not Visionary, But Powerful'
   - The Kambo Process Step by Step
-  - Understanding the acute phase in the context of plant medicine healing
+  - The Acute Phase
   - What Science Says About Kambo
 faq:
   - question: >-

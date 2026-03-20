@@ -15,14 +15,16 @@ excerpt: >-
   Icaros are the healing songs at the heart of Shipibo medicine. Learn what they
   are, how they work, and why they matter in ceremony.
 quickAnswer: >-
-  Icaros are the healing songs at the heart of Shipibo medicine. Learn what they
-  are, how they work, and why they matter in ceremony.
+  Icaros are the healing songs used by Shipibo curanderos during ceremony and
+  throughout the healing process. The word "icaro" comes from the Quechua verb
+  "ikaray," meaning to blow smoke for healing purposes. Over time the term
+  expanded to encompass the songs themselves.
 keyTakeaways:
-  - Understanding what icaros are in the context of plant medicine healing
-  - Understanding not ordinary music in the context of plant medicine healing
+  - What Icaros Are
+  - Not Ordinary Music
   - Where They Come From
-  - Understanding how icaros work in the context of plant medicine healing
-  - Understanding sound as energy in the context of plant medicine healing
+  - How Icaros Work
+  - Sound as Energy
 faq:
   - question: What Icaros Are?
     answer: >-

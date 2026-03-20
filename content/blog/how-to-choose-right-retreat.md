@@ -15,14 +15,15 @@ excerpt: >-
   A practical framework for choosing the right healing retreat. What to
   prioritize, what to research, and how to tell quality from marketing.
 quickAnswer: >-
-  A practical framework for choosing the right healing retreat. What to
-  prioritize, what to research, and how to tell quality from marketing.
+  There are hundreds of healing retreat centers in South America alone. They
+  range from deeply traditional to barely legitimate. Choosing the right one is
+  one of the most important decisions you will make in this process.
 keyTakeaways:
-  - Understanding what "right" means in the context of plant medicine healing
-  - Understanding two categories in the context of plant medicine healing
+  - What
+  - Two Categories
   - '1. Qualified, Experienced Healers'
-  - Understanding 2. medical screening in the context of plant medicine healing
-  - Understanding 3. safety protocols in the context of plant medicine healing
+  - 2. Medical Screening
+  - 3. Safety Protocols
 faq:
   - question: What "Right" Means?
     answer: >-

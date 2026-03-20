@@ -17,9 +17,9 @@ excerpt: >-
   sharpens your awareness, and helps you arrive fully present for the work
   ahead.
 quickAnswer: >-
-  A digital detox before your healing retreat calms your nervous system,
-  sharpens your awareness, and helps you arrive fully present for the work
-  ahead.
+  Most retreat centers in the Amazon have limited or no internet access. That
+  shift can feel shocking if you go from full connectivity to zero overnight. A
+  gradual digital detox before your retreat softens that transition.
 keyTakeaways:
   - Why Your Phone Is Working Against Your Healing
   - What a Digital Detox Actually Looks Like

@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Plant Medicine and Life Purpose: Finding Direction Throug...'
+metaTitle: 'Plant Medicine and Life Purpose: Finding Your Path'
 metaDescription: >-
   Many people come to plant medicine seeking clarity about their life purpose.
   Here is how ceremony helps and what to do with the answers you receive.
@@ -16,11 +16,12 @@ excerpt: >-
   Many people come to plant medicine seeking clarity about their life purpose.
   Here is how ceremony helps and what to do with the answers you receive.
 quickAnswer: >-
-  Many people come to plant medicine seeking clarity about their life purpose.
-  Here is how ceremony helps and what to do with the answers you receive.
+  Questions about life purpose are among the most common intentions people bring
+  to plant medicine ceremony. Why am I here? What should I do with my life? What
+  is my calling?
 keyTakeaways:
   - Why Purpose Questions Arise in Ceremony
-  - Understanding the midlife question in the context of plant medicine healing
+  - The Midlife Question
   - How Plant Medicine Reveals Direction
   - Symbolic and Direct Communication
   - Common Misconceptions About Purpose

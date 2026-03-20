@@ -17,18 +17,14 @@ excerpt: >-
   movement. A practical guide to physical readiness that goes beyond the basic
   dieta.
 quickAnswer: >-
-  How to prepare your body for a healing ceremony through nutrition and
-  movement. A practical guide to physical readiness that goes beyond the basic
-  dieta.
+  The dieta tells you what not to eat. This guide goes further. It tells you how
+  to actively build a body that is ready for deep work.
 keyTakeaways:
-  - What "Body Ready" Means
+  - What
   - Why This Matters for Ceremony
-  - Understanding nutrient dense eating in the context of plant medicine healing
-  - Understanding gut preparation in the context of plant medicine healing
-  - >-
-    Practical Tips- Start a probiotic supplement two weeks out- Eat prebiotic
-    foods (garlic, onions, bananas) to feed good bacteria- Reduce processed food
-    to minimize gut inflammation- Stay hydrated to support digestion
+  - Nutrient Dense Eating
+  - Gut Preparation
+  - Practical Tips
 faq:
   - question: What "Body Ready" Means?
     answer: >-

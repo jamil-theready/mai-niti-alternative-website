@@ -1,5 +1,5 @@
 ---
-title: 'Meditation and Plant Medicine: Building a Foundation for ...'
+title: Meditation and Plant Medicine
 slug: meditation-and-plant-medicine
 date: '2026-03-12'
 category: Guidance
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Meditation and Plant Medicine: How Stillness Supports Cer...'
+metaTitle: Meditation and Plant Medicine
 metaDescription: >-
   Meditation and plant medicine both cultivate awareness. Learn how a meditation
   practice deepens ceremony work and supports lasting integration.
@@ -16,20 +16,16 @@ excerpt: >-
   Meditation and plant medicine both cultivate awareness. Learn how a meditation
   practice deepens ceremony work and supports lasting integration.
 quickAnswer: >-
-  Meditation and plant medicine both cultivate awareness. Learn how a meditation
-  practice deepens ceremony work and supports lasting integration.
+  Both <a href="https://en.wikipedia.org/wiki/Meditation"
+  target="_blank">meditation</a> and plant medicine are technologies of
+  awareness. Both aim to dissolve the habitual patterns of mind that filter,
+  distort, and limit how we perceive reality.
 keyTakeaways:
   - The Overlap Between Meditation and Plant Medicine
-  - >-
-    Understanding complementary strengths in the context of plant medicine
-    healing
+  - Complementary Strengths
   - How Meditation Prepares You for Ceremony
-  - >-
-    Understanding practical pre-retreat meditation in the context of plant
-    medicine healing
-  - >-
-    Understanding meditation during retreat in the context of plant medicine
-    healing
+  - Practical Pre-Retreat Meditation
+  - Meditation During Retreat
 faq:
   - question: What is overlap between meditation and plant medicine?
     answer: >-

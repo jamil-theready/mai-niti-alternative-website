@@ -16,15 +16,14 @@ excerpt: >-
   The sacred brew used in ceremony combines specific plants prepared through an
   ancient process. Learn how traditional healers create this medicine.
 quickAnswer: >-
-  The sacred brew used in ceremony combines specific plants prepared through an
-  ancient process. Learn how traditional healers create this medicine.
+  The ceremonial brew used in Shipibo healing combines specific plants sourced
+  from the <a href="https://en.wikipedia.org/wiki/Amazon_rainforest"
+  target="_blank">Amazon rainforest</a>.
 keyTakeaways:
   - The Plants That Make the Brew
-  - >-
-    Understanding sourcing with intention in the context of plant medicine
-    healing
-  - Understanding the cooking process in the context of plant medicine healing
-  - Understanding fire and time in the context of plant medicine healing
+  - Sourcing with Intention
+  - The Cooking Process
+  - Fire and Time
   - The Healer's Role in Preparation
 faq:
   - question: What is plants that make the brew?

@@ -17,19 +17,16 @@ excerpt: >-
   foods support healing, what to avoid, and how to listen to your body during
   r...
 quickAnswer: >-
-  What you eat after ceremony directly affects your integration. Learn which
-  foods support healing, what to avoid, and how to listen to your body during
-  r...
+  Your body just went through an intensive process. During ceremony, your
+  digestive system, nervous system, and cellular processes were all deeply
+  activated. What you put into your body in the days and weeks that follow
+  either supports the healing that began or undermines it.
 keyTakeaways:
   - Why Post Ceremony Diet Matters
-  - >-
-    Understanding the traditional perspective in the context of plant medicine
-    healing
-  - >-
-    Understanding the physiological perspective in the context of plant medicine
-    healing
+  - The Traditional Perspective
+  - The Physiological Perspective
   - What to Eat in the First Week
-  - Understanding the foundation foods in the context of plant medicine healing
+  - The Foundation Foods
 faq:
   - question: Why Post Ceremony Diet Matters?
     answer: >-

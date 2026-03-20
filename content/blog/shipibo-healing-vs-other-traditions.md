@@ -15,12 +15,13 @@ excerpt: >-
   The Amazon is home to many healing traditions. Learn what makes the Shipibo
   approach distinct, how it compares to others, and how to choose the right.
 quickAnswer: >-
-  The Amazon is home to many healing traditions. Learn what makes the Shipibo
-  approach distinct, how it compares to others, and how to choose the right.
+  The Amazon basin is home to hundreds of indigenous groups, each with their own
+  healing practices. While outsiders sometimes lump these traditions together,
+  the differences between them are significant.
 keyTakeaways:
   - Overview of Amazonian Traditions
-  - Understanding major traditions in the context of plant medicine healing
-  - Understanding no hierarchy in the context of plant medicine healing
+  - Major Traditions
+  - No Hierarchy
   - What Sets Shipibo Apart
   - The Centrality of Song
 faq:

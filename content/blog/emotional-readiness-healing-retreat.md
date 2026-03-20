@@ -15,11 +15,12 @@ excerpt: >-
   Are you emotionally ready for a healing retreat? An honest self check to help
   you assess where you stand and what might need attention first.
 quickAnswer: >-
-  Are you emotionally ready for a healing retreat? An honest self check to help
-  you assess where you stand and what might need attention first.
+  Emotional readiness is the hardest kind of readiness to measure. You cannot
+  track it on a chart. You cannot weigh it or test it. But it matters more than
+  your packing list, your flight itinerary, and your dieta combined.
 keyTakeaways:
   - What Emotional Readiness Is
-  - Understanding why it matters in the context of plant medicine healing
+  - Why It Matters
   - You Can Sit with Discomfort
   - You Have Some Self Awareness
   - You Are Going for Yourself

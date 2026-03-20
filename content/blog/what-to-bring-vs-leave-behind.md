@@ -15,14 +15,14 @@ excerpt: >-
   A practical guide on what to bring and what to leave behind for your healing
   retreat. Beyond the packing list, this covers the intangible essentials too.
 quickAnswer: >-
-  A practical guide on what to bring and what to leave behind for your healing
-  retreat. Beyond the packing list, this covers the intangible essentials too.
+  Everyone focuses on the physical packing list. What clothes. What gear. What
+  toiletries. That matters, and we have a detailed packing guide for it.
 keyTakeaways:
-  - Understanding two lists in the context of plant medicine healing
-  - Understanding why both matter in the context of plant medicine healing
-  - Understanding the essentials in the context of plant medicine healing
-  - Understanding often forgotten in the context of plant medicine healing
-  - Understanding comfort items in the context of plant medicine healing
+  - Two Lists
+  - Why Both Matter
+  - The Essentials
+  - Often Forgotten
+  - Comfort Items
 faq:
   - question: What is two lists?
     answer: >-

@@ -15,18 +15,14 @@ excerpt: >-
   Peru holds the deepest roots in plant medicine healing on the planet. Explore
   why thousands of seekers travel here for traditional healing every year.
 quickAnswer: >-
-  Peru holds the deepest roots in plant medicine healing on the planet. Explore
-  why thousands of seekers travel here for traditional healing every year.
+  Peru is not simply a country where plant medicine exists. It is the place
+  where plant medicine traditions have been practiced, refined, and passed down
+  for thousands of years without interruption.
 keyTakeaways:
   - A Living Tradition Thousands of Years Old
   - 'The Amazon Basin: The World''s Greatest Pharmacy'
-  - >-
-    The Numbers Are Staggering- Peru's portion of the Amazon basin covers
-    roughly 60 percent of the country- Scientists estimate the region contains
-    over 80,000 plant species- Indigenous communities use an estimated 3,000 to
-    5,000 of these plants medicinally- Many of these plants have not been
-    studied by Western science at all
-  - Understanding beyond single plants in the context of plant medicine healing
+  - The Numbers Are Staggering
+  - Beyond Single Plants
   - Indigenous Knowledge Keepers and Their Role
 faq:
   - question: What is a living tradition thousands of years old?

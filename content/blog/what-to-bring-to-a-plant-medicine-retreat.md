@@ -1,5 +1,5 @@
 ---
-title: 'What to Bring to a Plant Medicine Retreat: The Complete P...'
+title: What to Bring to a Plant Medicine Retreat
 slug: what-to-bring-to-a-plant-medicine-retreat
 date: '2026-03-12'
 category: Preparation
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'What to Bring to a Plant Medicine Retreat: Packing List &...'
+metaTitle: What to Bring to a Plant Medicine Retreat
 metaDescription: >-
   Packing for a plant medicine retreat in Peru is different from packing for a
   vacation. Here is exactly what to bring and what to leave at home.
@@ -16,15 +16,15 @@ excerpt: >-
   Packing for a plant medicine retreat in Peru is different from packing for a
   vacation. Here is exactly what to bring and what to leave at home.
 quickAnswer: >-
-  Packing for a plant medicine retreat in Peru is different from packing for a
-  vacation. Here is exactly what to bring and what to leave at home.
+  If your retreat is in the Amazon, expect rain. A lightweight rain jacket or
+  poncho is non-negotiable. Waterproof sandals and a pair of sturdy shoes for
+  muddy paths will save you frustration. Nights in the jungle can be cooler than
+  expected, so pack a light sweater or shawl for ceremony.
 keyTakeaways:
   - Clothing and Comfort Essentials
   - Rain and Temperature Prep
   - Health and Hygiene Items
-  - >-
-    Understanding jungle-specific health items in the context of plant medicine
-    healing
+  - Jungle-Specific Health Items
   - Ceremony and Personal Practice Items
 faq:
   - question: What is clothing and comfort essentials?

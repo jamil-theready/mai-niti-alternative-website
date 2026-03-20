@@ -15,14 +15,15 @@ excerpt: >-
   The curandero is the central figure in Shipibo healing. Learn what a curandero
   is, how they train, and what they do during ceremony.
 quickAnswer: >-
-  The curandero is the central figure in Shipibo healing. Learn what a curandero
-  is, how they train, and what they do during ceremony.
+  The word "curandero" comes from the Spanish verb "curar," meaning to heal. In
+  the Shipibo tradition, a curandero is a trained healer who works with plant
+  medicines, icaros, and spiritual tools to diagnose and treat illness.
 keyTakeaways:
   - What a Curandero Is
-  - Understanding not a shaman in the context of plant medicine healing
+  - Not a Shaman
   - 'A Healer, Not a Priest'
   - Specialists Within the Tradition
-  - Understanding years of training in the context of plant medicine healing
+  - Years of Training
 faq:
   - question: What a Curandero Is?
     answer: 'The word "curandero" comes from the Spanish verb "curar," meaning to heal.'

@@ -15,8 +15,10 @@ excerpt: >-
   Discover how journaling before your healing retreat helps you set clear
   intentions, process emotions, and arrive ready for deeper transformation.
 quickAnswer: >-
-  Discover how journaling before your healing retreat helps you set clear
-  intentions, process emotions, and arrive ready for deeper transformation.
+  When you sit with a blank page, you start noticing things. Patterns in your
+  thinking. Emotions you have been avoiding. Questions you did not know you had.
+  This is exactly the kind of awareness that makes ceremony and healing work
+  more effective.
 keyTakeaways:
   - Why Journaling Is One of the Best Pre Retreat Practices
   - What Makes Journaling Different From Thinking
@@ -36,8 +38,7 @@ keyTakeaways:
     "I want to feel better" or "I want clarity."Journaling sharpens that. When
     you write every day for a week or two before your retreat, themes emerge.
     You start to see what keeps coming up. The thing you write about on Monday
-    shows up again on Thursday in a different form. That repetition is a
-    signal.
+    shows up again on Thursday in a different form. That repetition is a signal.
 faq:
   - question: Why Journaling Is One of the Best Pre Retreat Practices?
     answer: >-

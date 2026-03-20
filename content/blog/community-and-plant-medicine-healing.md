@@ -16,15 +16,15 @@ excerpt: >-
   Healing does not happen in isolation. Learn why community is essential before,
   during, and after your plant medicine journey.
 quickAnswer: >-
-  Healing does not happen in isolation. Learn why community is essential before,
-  during, and after your plant medicine journey.
+  Modern Western culture treats healing as a private, individual process. You go
+  to therapy alone. You take your medication alone. You work through your
+  problems inside your own head. Indigenous healing traditions take the opposite
+  approach.
 keyTakeaways:
   - Why Healing Needs Witnesses
   - The Limits of Solo Healing
-  - >-
-    Understanding community during retreat in the context of plant medicine
-    healing
-  - Understanding sharing circles in the context of plant medicine healing
+  - Community During Retreat
+  - Sharing Circles
   - Finding Your People After Retreat
 faq:
   - question: Why Healing Needs Witnesses?

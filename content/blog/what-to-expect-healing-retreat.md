@@ -15,14 +15,15 @@ excerpt: >-
   A clear and honest look at what actually happens during a traditional healing
   retreat in the Peruvian Amazon. No fluff. Just the truth.
 quickAnswer: >-
-  A clear and honest look at what actually happens during a traditional healing
-  retreat in the Peruvian Amazon. No fluff. Just the truth.
+  Most people arrive at a healing retreat with a picture in their head. Maybe it
+  looks like a movie scene. Maybe it looks like something a friend described
+  over dinner. Maybe it is just a vague feeling of the unknown.
 keyTakeaways:
   - Why Expectations Can Get in the Way
   - What This Guide Covers
-  - Understanding the environment in the context of plant medicine healing
-  - Understanding morning in the context of plant medicine healing
-  - Understanding midday in the context of plant medicine healing
+  - The Environment
+  - Morning
+  - Midday
 faq:
   - question: Why Expectations Can Get in the Way?
     answer: >-

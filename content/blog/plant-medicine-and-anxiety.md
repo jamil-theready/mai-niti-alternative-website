@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine and Anxiety: Understanding the Healing Pro...'
+title: Plant Medicine and Anxiety
 slug: plant-medicine-and-anxiety
 date: '2026-01-01'
 category: Wellness
@@ -15,16 +15,16 @@ excerpt: >-
   Anxiety is both a common reason to seek plant medicine and a common experience
   during ceremony. Learn how traditional healing addresses anxiety at its r...
 quickAnswer: >-
-  Anxiety is both a common reason to seek plant medicine and a common experience
-  during ceremony. Learn how traditional healing addresses anxiety at its r...
+  Anxiety disorders affect an estimated 300 million people globally. They range
+  from generalized anxiety that colors every waking moment to acute panic
+  attacks that feel life threatening. Many people who seek plant medicine
+  healing list anxiety as their primary concern.
 keyTakeaways:
   - Anxiety and Plant Medicine
   - Why Conventional Treatment Is Not Enough for Everyone
-  - >-
-    Understanding the shipibo understanding in the context of plant medicine
-    healing
+  - The Shipibo Understanding
   - How Ceremony Addresses Anxiety
-  - Understanding energetic rebalancing in the context of plant medicine healing
+  - Energetic Rebalancing
 faq:
   - question: What is anxiety and plant medicine?
     answer: >-

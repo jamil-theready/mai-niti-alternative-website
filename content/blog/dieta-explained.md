@@ -15,17 +15,15 @@ excerpt: >-
   The traditional dieta is more than just food restrictions. Learn why diet
   matters before ceremony and how it prepares your body for deep healing work.
 quickAnswer: >-
-  The traditional dieta is more than just food restrictions. Learn why diet
-  matters before ceremony and how it prepares your body for deep healing work.
+  The word "dieta" gets thrown around a lot in the plant medicine world. Most
+  people hear it and think: food restrictions. And while food is part of it,
+  that framing misses the point entirely.
 keyTakeaways:
   - A Practice of Respect
   - How Long Does a Dieta Last
   - The Difference Between Pre Retreat Diet and a Full Dieta
-  - Understanding what to remove in the context of plant medicine healing
-  - >-
-    What to Eat- Steamed or grilled fish and chicken- Rice, quinoa, and oats-
-    Fresh fruits and vegetables- Herbal teas (chamomile, ginger, peppermint)-
-    Clean water in large quantities
+  - What to Remove
+  - What to Eat
 faq:
   - question: What is a practice of respect?
     answer: >-

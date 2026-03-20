@@ -15,21 +15,15 @@ excerpt: >-
   PTSD creates patterns that hijack the nervous system. Learn how plant medicine
   and traditional healing address PTSD and what safety considerations matte...
 quickAnswer: >-
-  PTSD creates patterns that hijack the nervous system. Learn how plant medicine
-  and traditional healing address PTSD and what safety considerations matte...
+  Post traumatic stress disorder is not simply being upset about a bad
+  experience. It is a neurobiological condition in which the brain and body
+  remain stuck in survival mode long after the threatening event has passed.
 keyTakeaways:
-  - >-
-    Understanding PTSDPost traumatic stress disorder is not simply being upset
-    about a bad experience. It is a neurobiological condition in which the brain
-    and body remain stuck in survival mode long after the threatening event has
-    passed.
-  - Understanding what ptsd does in the context of plant medicine healing
-  - Understanding treatment challenges in the context of plant medicine healing
-  - >-
-    How Plant Medicine Addresses PTSDPlant medicine works on PTSD through
-    several mechanisms that complement and sometimes surpass what conventional
-    treatments offer.
-  - Understanding nervous system reset in the context of plant medicine healing
+  - Understanding PTSD
+  - What PTSD Does
+  - Treatment Challenges
+  - How Plant Medicine Addresses PTSD
+  - Nervous System Reset
 faq:
   - question: >-
       What is understanding ptsdpost traumatic stress disorder is not simply

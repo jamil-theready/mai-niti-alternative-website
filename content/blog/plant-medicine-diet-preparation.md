@@ -1,5 +1,5 @@
 ---
-title: 'The Plant Medicine Diet: What to Eat and Avoid Before Ret...'
+title: Plant Medicine Diet Preparation
 slug: plant-medicine-diet-preparation
 date: '2026-03-12'
 category: Preparation
@@ -16,13 +16,15 @@ excerpt: >-
   The preparatory diet is not optional. Learn exactly what to eat, what to
   avoid, and why the diet matters for your safety and healing.
 quickAnswer: >-
-  The preparatory diet is not optional. Learn exactly what to eat, what to
-  avoid, and why the diet matters for your safety and healing.
+  Drink plenty of water. Herbal teas without caffeine are welcome. Avoid sugary
+  drinks, energy drinks, and artificial sweeteners entirely. The goal is to give
+  your body the cleanest possible fuel so it can focus on healing rather than
+  digestion during ceremony.
 keyTakeaways:
   - Why the Pre-Ceremony Diet Matters
   - How Long to Diet
   - Foods to Eliminate Before Retreat
-  - Understanding substances to stop in the context of plant medicine healing
+  - Substances to Stop
   - What to Eat During Preparation
 faq:
   - question: Why the Pre-Ceremony Diet Matters?

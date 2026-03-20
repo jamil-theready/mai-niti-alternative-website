@@ -15,16 +15,15 @@ excerpt: >-
   The Shipibo Konibo language carries healing knowledge that does not translate.
   Learn how sound, frequency, and ancestral words connect to ceremony and m...
 quickAnswer: >-
-  The Shipibo Konibo language carries healing knowledge that does not translate.
-  Learn how sound, frequency, and ancestral words connect to ceremony and m...
+  The Shipibo understanding of healing through sound is not limited to the
+  content of the words. The sound itself, the specific frequencies produced by
+  Shipibo phonemes, is considered therapeutically active.
 keyTakeaways:
   - The Shipibo Konibo Language
-  - >-
-    Understanding more than communication in the context of plant medicine
-    healing
-  - Understanding linguistic structure in the context of plant medicine healing
-  - Understanding sound and frequency in the context of plant medicine healing
-  - Understanding phonetic properties in the context of plant medicine healing
+  - More Than Communication
+  - Linguistic Structure
+  - Sound and Frequency
+  - Phonetic Properties
 faq:
   - question: What is shipibo konibo language?
     answer: >-

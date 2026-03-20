@@ -15,11 +15,13 @@ excerpt: >-
   Spiritual protection is a core element of Shipibo healing. Learn what it
   means, how healers develop it, and why it matters for ceremony participants.
 quickAnswer: >-
-  Spiritual protection is a core element of Shipibo healing. Learn what it
-  means, how healers develop it, and why it matters for ceremony participants.
+  In the Shipibo worldview, the spiritual dimension is as real and populated as
+  the physical one. Just as the physical world contains both helpful and harmful
+  elements, the spiritual world does too. Protection is therefore not
+  superstition. It is practical necessity.
 keyTakeaways:
   - What Spiritual Protection Means
-  - Understanding a different framework in the context of plant medicine healing
+  - A Different Framework
   - Why Protection Is Needed
   - How Healers Build Protection
   - Dieta With Protective Plants

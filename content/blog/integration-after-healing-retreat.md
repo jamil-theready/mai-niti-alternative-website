@@ -15,14 +15,15 @@ excerpt: >-
   Learn how to integrate your healing retreat experience with practical daily
   steps, common challenges, and a long term vision for lasting transformation.
 quickAnswer: >-
-  Learn how to integrate your healing retreat experience with practical daily
-  steps, common challenges, and a long term vision for lasting transformation.
+  Integration is the process of weaving your retreat experience into daily life.
+  It is not about holding onto a feeling or chasing a peak state. It is about
+  allowing what you learned, felt, and released to settle into the way you live.
 keyTakeaways:
   - What Integration Actually Means
-  - Understanding a working definition in the context of plant medicine healing
+  - A Working Definition
   - Why It Matters So Much
   - The First Days Back
-  - Understanding protect your space in the context of plant medicine healing
+  - Protect Your Space
 faq:
   - question: What Integration Actually Means?
     answer: >-

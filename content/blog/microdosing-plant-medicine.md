@@ -16,11 +16,11 @@ excerpt: >-
   Microdosing has exploded in popularity. But what does traditional medicine say
   about sub-perceptual doses? Here is an honest look at the practice.
 quickAnswer: >-
-  Microdosing has exploded in popularity. But what does traditional medicine say
-  about sub-perceptual doses? Here is an honest look at the practice.
+  Microdosing refers to taking sub-perceptual doses of a plant medicine element,
+  typically one tenth to one twentieth of a full ceremonial serving.
 keyTakeaways:
   - What Is Microdosing and Why It Became Popular
-  - Understanding how it works in the context of plant medicine healing
+  - How It Works
   - The Science Behind Microdosing
   - What the Research Actually Shows
   - The Traditional Medicine Perspective

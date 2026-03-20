@@ -1,5 +1,5 @@
 ---
-title: 'The Long Game: How Deep Healing Unfolds Over Months and Y...'
+title: Long Term Healing Transformation
 slug: long-term-healing-transformation
 date: '2026-02-05'
 category: Integration
@@ -17,13 +17,13 @@ excerpt: >-
   transformation from the first month through the first year and beyond after
   your retr...
 quickAnswer: >-
-  Deep healing does not happen overnight. Understand the timeline of
-  transformation from the first month through the first year and beyond after
-  your retr...
+  Western culture loves quick fixes. Take a pill, feel better by Tuesday. Deep
+  healing does not work that way. It operates on its own timeline, and that
+  timeline is measured in months and years, not days and weeks.
 keyTakeaways:
   - Healing on a Timeline
   - Why Healing Takes Time
-  - Understanding the nonlinear path in the context of plant medicine healing
+  - The Nonlinear Path
   - Months One Through Three
   - 'Month One: The Raw Phase'
 faq:

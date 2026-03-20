@@ -1,5 +1,5 @@
 ---
-title: 'Pucallpa and Yarinacocha: The Heart of Traditional Amazon...'
+title: Pucallpa Yarinacocha Healing
 slug: pucallpa-yarinacocha-healing
 date: '2026-03-03'
 category: Culture
@@ -15,8 +15,9 @@ excerpt: >-
   Pucallpa and the Yarinacocha lagoon are the epicenter of Shipibo healing
   traditions. Learn why this region draws seekers from around the world.
 quickAnswer: >-
-  Pucallpa and the Yarinacocha lagoon are the epicenter of Shipibo healing
-  traditions. Learn why this region draws seekers from around the world.
+  If you trace the roots of traditional Amazonian healing in Peru, the trail
+  leads to the Ucayali region. Specifically to the city of Pucallpa and the
+  nearby Yarinacocha lagoon.
 keyTakeaways:
   - Where the Shipibo Tradition Runs Deepest
   - 'Pucallpa: Gateway to the Healing Traditions'

@@ -15,14 +15,16 @@ excerpt: >-
   An integration therapist helps you process and apply your retreat experience
   in daily life. Learn how to find one, what to expect, and when to start ses...
 quickAnswer: >-
-  An integration therapist helps you process and apply your retreat experience
-  in daily life. Learn how to find one, what to expect, and when to start ses...
+  An integration therapist is a mental health professional who understands
+  traditional healing practices and helps you process your retreat experience
+  within a therapeutic framework. They bridge the gap between the ceremonial
+  world and the clinical world.
 keyTakeaways:
   - What an Integration Therapist Does
-  - Understanding their specific role in the context of plant medicine healing
+  - Their Specific Role
   - What They Help With
   - How to Find One
-  - Understanding where to search in the context of plant medicine healing
+  - Where to Search
 faq:
   - question: What an Integration Therapist Does?
     answer: >-

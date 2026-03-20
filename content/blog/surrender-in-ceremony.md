@@ -1,5 +1,5 @@
 ---
-title: 'Surrender in Ceremony: Why Letting Go Is the Hardest and ...'
+title: Surrender in Ceremony
 slug: surrender-in-ceremony
 date: '2026-03-15'
 category: Tradition
@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Surrender in Plant Medicine Ceremony: Learning to Let Go ...'
+metaTitle: Surrender in Ceremony
 metaDescription: >-
   Control is the strategy that got you here. Surrender is the strategy that gets
   you through. Learn why letting go is the most powerful act in ceremony.
@@ -16,13 +16,13 @@ excerpt: >-
   Control is the strategy that got you here. Surrender is the strategy that gets
   you through. Learn why letting go is the most powerful act in ceremony.
 quickAnswer: >-
-  Control is the strategy that got you here. Surrender is the strategy that gets
-  you through. Learn why letting go is the most powerful act in ceremony.
+  You arrive at ceremony with the best intentions. You have read the preparation
+  guides. You have set your intentions.
 keyTakeaways:
   - Why Surrender Feels Impossible
   - The Paradox of Control
   - What Surrender Actually Looks Like
-  - Understanding micro-surrenders in the context of plant medicine healing
+  - Micro-Surrenders
   - The Body Knows Before the Mind
 faq:
   - question: Why Surrender Feels Impossible?

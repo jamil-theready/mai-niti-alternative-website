@@ -15,13 +15,14 @@ excerpt: >-
   Trauma is stored in the body and energy field. Learn how plant medicine and
   Shipibo healing address trauma at levels that talk therapy alone cannot reach.
 quickAnswer: >-
-  Trauma is stored in the body and energy field. Learn how plant medicine and
-  Shipibo healing address trauma at levels that talk therapy alone cannot reach.
+  Modern trauma research has confirmed what indigenous healers have understood
+  for centuries: trauma is not just a psychological phenomenon. It lives in the
+  body.
 keyTakeaways:
   - How Trauma Lives in the Body
-  - Understanding beyond the mind in the context of plant medicine healing
-  - Understanding the shipibo view in the context of plant medicine healing
-  - Understanding types of trauma in the context of plant medicine healing
+  - Beyond the Mind
+  - The Shipibo View
+  - Types of Trauma
   - The Shipibo Approach to Trauma
 faq:
   - question: How Trauma Lives in the Body?

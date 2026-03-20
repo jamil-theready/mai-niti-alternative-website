@@ -1,5 +1,5 @@
 ---
-title: How to Travel to a Remote Retreat Center in the Peruvian ...
+title: Travel Remote Retreat Peru
 slug: travel-remote-retreat-peru
 date: '2026-03-10'
 category: Culture
@@ -17,21 +17,14 @@ excerpt: >-
   planning. Here is a practical guide covering flights, boats, and jungle
   logistics.
 quickAnswer: >-
-  Traveling to a remote healing retreat in the Peruvian Amazon requires
-  planning. Here is a practical guide covering flights, boats, and jungle
-  logistics.
+  This guide covers the practical logistics so you can focus on the experience
+  instead of worrying about missed flights and river schedules.
 keyTakeaways:
   - The Journey Is Part of the Healing
-  - Understanding plan for flexibility in the context of plant medicine healing
+  - Plan for Flexibility
   - Getting to Peru and Your First Stop
-  - >-
-    Lima Basics- <b>Time zone.</b> Peru Standard Time (UTC minus 5). There is no
-    daylight saving time.- <b>Currency.</b> Peruvian Sol (PEN). ATMs are widely
-    available at the airport and in the city. US dollars are also accepted at
-    many exchange offices.- <b>Language.</b> Spanish is the primary language.
-    English is spoken at the airport and major hotels but not widely outside
-    Lima.
-  - Understanding overnight in lima in the context of plant medicine healing
+  - Lima Basics
+  - Overnight in Lima
 faq:
   - question: What is journey is part of the healing?
     answer: Nobody reaches a remote healing center in the Peruvian Amazon by accident.

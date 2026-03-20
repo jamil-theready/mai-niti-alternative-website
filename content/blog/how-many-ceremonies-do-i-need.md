@@ -14,16 +14,12 @@ metaDescription: >-
 excerpt: >-
   One of the most common questions people ask. The honest answer depends on many
   factors. Here is how to think about the number of ceremonies you need.
-quickAnswer: >-
-  One of the most common questions people ask. The honest answer depends on many
-  factors. Here is how to think about the number of ceremonies you need.
+quickAnswer: 'The short answer is: it depends. The longer answer is more useful.'
 keyTakeaways:
-  - Understanding the short answer in the context of plant medicine healing
-  - Understanding no magic number in the context of plant medicine healing
+  - The Short Answer
+  - No Magic Number
   - What Experienced Practitioners Say
-  - >-
-    Understanding the tradition's perspective in the context of plant medicine
-    healing
+  - The Tradition's Perspective
   - Factors That Influence the Number
 faq:
   - question: What is short answer?

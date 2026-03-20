@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine and Self-Love: Healing the Relationship wi...'
+title: Plant Medicine and Self Love
 slug: plant-medicine-and-self-love
 date: '2026-03-13'
 category: Tradition
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Plant Medicine and Self-Love: How Ceremony Teaches Self-A...'
+metaTitle: Plant Medicine and Self Love
 metaDescription: >-
   Self-love is not a luxury. It is the foundation of all healing. Discover how
   plant medicine ceremony helps you rebuild your relationship with yourself.
@@ -16,15 +16,14 @@ excerpt: >-
   Self-love is not a luxury. It is the foundation of all healing. Discover how
   plant medicine ceremony helps you rebuild your relationship with yourself.
 quickAnswer: >-
-  Self-love is not a luxury. It is the foundation of all healing. Discover how
-  plant medicine ceremony helps you rebuild your relationship with yourself.
+  Every wound, every pattern, every form of suffering that people bring to plant
+  medicine ceremony eventually traces back to the relationship you have with
+  yourself.
 keyTakeaways:
   - Why Self-Love Is Central to Healing
-  - Understanding the self-love gap in the context of plant medicine healing
+  - The Self-Love Gap
   - How Ceremony Reveals Self-Rejection
-  - >-
-    Understanding body-level self-rejection in the context of plant medicine
-    healing
+  - Body-Level Self-Rejection
   - The Medicine of Self-Compassion
 faq:
   - question: Why Self-Love Is Central to Healing?

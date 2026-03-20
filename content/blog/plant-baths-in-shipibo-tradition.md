@@ -15,16 +15,15 @@ excerpt: >-
   Plant baths are a core part of Shipibo healing practice. Learn what they
   involve, which plants are used, and why they matter for ceremony preparation.
 quickAnswer: >-
-  Plant baths are a core part of Shipibo healing practice. Learn what they
-  involve, which plants are used, and why they matter for ceremony preparation.
+  A plant bath, called *baño de plantas* in Spanish, is exactly what it sounds
+  like. Selected plants are gathered, prepared, and poured over the body. But
+  the simplicity of the description hides the depth of the practice.
 keyTakeaways:
   - What Plant Baths Are
-  - Understanding more than washing in the context of plant medicine healing
-  - >-
-    Understanding the preparation process in the context of plant medicine
-    healing
+  - More Than Washing
+  - The Preparation Process
   - When They Are Used
-  - Understanding before ceremony in the context of plant medicine healing
+  - Before Ceremony
 faq:
   - question: What Plant Baths Are?
     answer: >-

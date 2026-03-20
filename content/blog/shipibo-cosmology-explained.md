@@ -15,14 +15,15 @@ excerpt: >-
   The Shipibo worldview includes multiple layers of reality, plant spirits, and
   cosmic connections. Learn how their cosmology shapes healing practice.
 quickAnswer: >-
-  The Shipibo worldview includes multiple layers of reality, plant spirits, and
-  cosmic connections. Learn how their cosmology shapes healing practice.
+  The Shipibo do not see the world as a single, flat reality. Their cosmology
+  describes a universe with multiple layers, each inhabited by different beings
+  and governed by different principles.
 keyTakeaways:
   - The Layers of Reality
-  - Understanding the three worlds in the context of plant medicine healing
-  - Understanding not separate worlds in the context of plant medicine healing
+  - The Three Worlds
+  - Not Separate Worlds
   - Spirits and Plant Teachers
-  - Understanding plant spirits in the context of plant medicine healing
+  - Plant Spirits
 faq:
   - question: What is layers of reality?
     answer: >-

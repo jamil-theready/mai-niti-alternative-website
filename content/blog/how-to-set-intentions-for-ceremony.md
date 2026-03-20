@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Setting Intentions for Plant Medicine Ceremony: A Practic...'
+metaTitle: How to Set Intentions for Plant Medicine Ceremony
 metaDescription: >-
   Your intention shapes your ceremony experience. Learn how to craft a clear,
   open, and effective intention before your retreat.
@@ -16,8 +16,8 @@ excerpt: >-
   Your intention shapes your ceremony experience. Learn how to craft a clear,
   open, and effective intention before your retreat.
 quickAnswer: >-
-  Your intention shapes your ceremony experience. Learn how to craft a clear,
-  open, and effective intention before your retreat.
+  An intention is the question, prayer, or direction you bring into ceremony. It
+  gives the medicine something to work with.
 keyTakeaways:
   - What an Intention Is and Why It Matters
   - The Difference Between Intention and Expectation

@@ -1,5 +1,5 @@
 ---
-title: 'How to Find a Trusted Healer: Vetting Practitioners Befor...'
+title: How to Find a Trusted Healer
 slug: how-to-find-a-trusted-healer
 date: '2026-03-17'
 category: Guidance
@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: 'How to Find a Trusted Plant Medicine Healer: Red Flags an...'
+metaTitle: How to Find a Trusted Healer
 metaDescription: >-
   Not all healers are equal. Learn what to look for, what to avoid, and how to
   distinguish genuine traditional practitioners from those who cut corners.
@@ -16,13 +16,15 @@ excerpt: >-
   Not all healers are equal. Learn what to look for, what to avoid, and how to
   distinguish genuine traditional practitioners from those who cut corners.
 quickAnswer: >-
-  Not all healers are equal. Learn what to look for, what to avoid, and how to
-  distinguish genuine traditional practitioners from those who cut corners.
+  Before committing to any retreat, ask these questions directly and evaluate
+  both the content of the answers and how they are delivered. Defensiveness,
+  evasion, or irritation in response to reasonable questions is itself
+  informative.
 keyTakeaways:
   - Why the Healer Matters More Than the Medicine
-  - Understanding the training question in the context of plant medicine healing
+  - The Training Question
   - 'Green Flags: Signs of a Genuine Practitioner'
-  - Understanding community and lineage in the context of plant medicine healing
+  - Community and Lineage
   - 'Red Flags: Warning Signs to Take Seriously'
 faq:
   - question: Why the Healer Matters More Than the Medicine?

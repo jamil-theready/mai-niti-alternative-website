@@ -15,14 +15,13 @@ excerpt: >-
   Plant medicine has shown remarkable results for addiction. Learn how it works,
   what the research says, and what a responsible recovery journey looks like.
 quickAnswer: >-
-  Plant medicine has shown remarkable results for addiction. Learn how it works,
-  what the research says, and what a responsible recovery journey looks like.
+  Addiction is among the most challenging conditions in medicine. Relapse rates
+  for pattern use disorders remain stubbornly high across all treatment
+  modalities. Understanding why helps explain what plant medicine can offer.
 keyTakeaways:
   - Why Addiction Is So Hard to Treat
   - More Than a Chemical Problem
-  - >-
-    Understanding conventional treatment limitations in the context of plant
-    medicine healing
+  - Conventional Treatment Limitations
   - What Plant Medicine Offers
   - How Plant Medicine Helps
 faq:

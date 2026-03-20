@@ -15,14 +15,16 @@ excerpt: >-
   Purging during ceremony is not a side effect. It is a core part of the healing
   process. Learn what purging involves, why it happens, and how to approach...
 quickAnswer: >-
-  Purging during ceremony is not a side effect. It is a core part of the healing
-  process. Learn what purging involves, why it happens, and how to approach...
+  For many first time ceremony participants, the idea of vomiting during a
+  healing session is disconcerting. In the Western world, vomiting is associated
+  with illness, discomfort, and something gone wrong. In the Shipibo tradition,
+  it is associated with release, cleansing, and something going right.
 keyTakeaways:
-  - Understanding what purging is in the context of plant medicine healing
-  - Understanding a different framework in the context of plant medicine healing
-  - Understanding cultural context in the context of plant medicine healing
-  - Understanding why it happens in the context of plant medicine healing
-  - Understanding physical cleansing in the context of plant medicine healing
+  - What Purging Is
+  - A Different Framework
+  - Cultural Context
+  - Why It Happens
+  - Physical Cleansing
 faq:
   - question: What Purging Is?
     answer: >-

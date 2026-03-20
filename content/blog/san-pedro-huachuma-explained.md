@@ -16,16 +16,16 @@ excerpt: >-
   San Pedro, also known as Huachuma, is a powerful plant medicine from the Andes
   with a history stretching back over 3,000 years. Here is what you should ...
 quickAnswer: >-
-  San Pedro, also known as Huachuma, is a powerful plant medicine from the Andes
-  with a history stretching back over 3,000 years. Here is what you should ...
+  Effects include heightened sensory perception, emotional opening, a sense of
+  unity with nature, and shifts in how one perceives time and space. Physical
+  side effects can include nausea during the onset phase, though purging is
+  generally less intense than with jungle plant medicine traditions.
 keyTakeaways:
   - History and Origins of Huachuma
   - A Medicine of the Mountains
   - How San Pedro Ceremony Works
   - A Gentler but Longer Journey
-  - >-
-    Understanding the ceremonial experience in the context of plant medicine
-    healing
+  - The Ceremonial Experience
 faq:
   - question: What is history and origins of huachuma?
     answer: >-

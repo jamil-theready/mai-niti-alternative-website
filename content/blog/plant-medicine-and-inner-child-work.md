@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine and Inner Child Work: Healing the Youngest...'
+title: Plant Medicine and Inner Child Work
 slug: plant-medicine-and-inner-child-work
 date: '2026-03-18'
 category: Tradition
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Inner Child Healing with Plant Medicine: Reconnecting wit...'
+metaTitle: Plant Medicine and Inner Child Work
 metaDescription: >-
   Many of the patterns that bring people to ceremony were formed in childhood.
   Learn how plant medicine helps you reach and heal the youngest parts of you...
@@ -16,16 +16,15 @@ excerpt: >-
   Many of the patterns that bring people to ceremony were formed in childhood.
   Learn how plant medicine helps you reach and heal the youngest parts of you...
 quickAnswer: >-
-  Many of the patterns that bring people to ceremony were formed in childhood.
-  Learn how plant medicine helps you reach and heal the youngest parts of you...
+  The inner child is not a metaphor. It is the living record of your earliest
+  emotional experiences, stored in the body and nervous system long before the
+  conscious mind had the capacity to process them.
 keyTakeaways:
   - What Is the Inner Child
   - Why Talk Therapy Has Limits Here
   - How Ceremony Reaches the Child Self
-  - Understanding visions and memory in the context of plant medicine healing
-  - >-
-    Understanding reparenting through medicine in the context of plant medicine
-    healing
+  - Visions and Memory
+  - Reparenting Through Medicine
 faq:
   - question: What Is the Inner Child?
     answer: The inner child is not a metaphor.

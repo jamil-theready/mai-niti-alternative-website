@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Gratitude Practice After Ceremony: Integration Through Ap...'
+metaTitle: Gratitude Practice After Plant Medicine Ceremony
 metaDescription: >-
   Gratitude is more than positive thinking. After ceremony, it becomes a
   powerful integration tool that sustains and deepens your healing.
@@ -16,15 +16,15 @@ excerpt: >-
   Gratitude is more than positive thinking. After ceremony, it becomes a
   powerful integration tool that sustains and deepens your healing.
 quickAnswer: >-
-  Gratitude is more than positive thinking. After ceremony, it becomes a
-  powerful integration tool that sustains and deepens your healing.
+  The most effective gratitude practices share three qualities: they are brief,
+  consistent, and embodied. Brief because sustainability matters more than
+  duration. Consistent because neural pathways strengthen through repetition.
+  Embodied because the feeling is what produces the change, not the words.
 keyTakeaways:
   - Why Gratitude Emerges in Ceremony
-  - >-
-    Understanding gratitude for difficulty in the context of plant medicine
-    healing
+  - Gratitude for Difficulty
   - The Neuroscience of Gratitude
-  - Understanding compound effects in the context of plant medicine healing
+  - Compound Effects
   - Gratitude as an Integration Practice
 faq:
   - question: Why Gratitude Emerges in Ceremony?

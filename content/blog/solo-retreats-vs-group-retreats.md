@@ -1,5 +1,5 @@
 ---
-title: 'Solo vs Group Plant Medicine Retreats: Which Is Right for...'
+title: Solo Retreats vs Group Retreats
 slug: solo-retreats-vs-group-retreats
 date: '2026-02-27'
 category: Preparation
@@ -16,13 +16,14 @@ excerpt: >-
   Should you attend a group retreat or seek a private solo experience? Compare
   the benefits and trade-offs of each format.
 quickAnswer: >-
-  Should you attend a group retreat or seek a private solo experience? Compare
-  the benefits and trade-offs of each format.
+  Group plant medicine retreats are the most common format worldwide. A typical
+  group ranges from 6 to 20 participants who share a ceremonial space, meals,
+  and the overall retreat experience.
 keyTakeaways:
   - What Group Retreats Offer
-  - Understanding community and witness in the context of plant medicine healing
+  - Community and Witness
   - The Case for Solo or Private Retreats
-  - Understanding privacy and depth in the context of plant medicine healing
+  - Privacy and Depth
   - Comparing the Two Formats
 faq:
   - question: What Group Retreats Offer?

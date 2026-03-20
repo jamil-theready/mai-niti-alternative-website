@@ -1,5 +1,5 @@
 ---
-title: 'Common Myths About Plant Medicine: Separating Fact From F...'
+title: Common Myths About Plant Medicine
 slug: common-myths-about-plant-medicine
 date: '2026-01-24'
 category: Guidance
@@ -15,14 +15,14 @@ excerpt: >-
   Misinformation about plant medicine is everywhere. Here are the most common
   myths, what the evidence actually says, and why accuracy matters.
 quickAnswer: >-
-  Misinformation about plant medicine is everywhere. Here are the most common
-  myths, what the evidence actually says, and why accuracy matters.
+  Misinformation about plant medicine creates two kinds of harm. It scares away
+  people who might genuinely benefit from the work. And it draws in people with
+  dangerously unrealistic expectations. Both outcomes are preventable through
+  accurate information.
 keyTakeaways:
-  - Understanding why myths matter in the context of plant medicine healing
-  - >-
-    Understanding sources of misinformation in the context of plant medicine
-    healing
-  - Understanding your responsibility in the context of plant medicine healing
+  - Why Myths Matter
+  - Sources of Misinformation
+  - Your Responsibility
   - Myths About the Experience
   - 'Myth: It Is Just Hallucinations'
 faq:

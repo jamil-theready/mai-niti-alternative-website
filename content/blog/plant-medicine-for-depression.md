@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine for Depression: What the Research and Trad...'
+title: Plant Medicine for Depression
 slug: plant-medicine-for-depression
 date: '2025-12-25'
 category: Wellness
@@ -17,15 +17,16 @@ excerpt: >-
   healing. Learn what research shows, what the Shipibo tradition offers, and
   what to.
 quickAnswer: >-
-  Depression is one of the most common reasons people seek plant medicine
-  healing. Learn what research shows, what the Shipibo tradition offers, and
-  what to.
+  Depression is the leading cause of disability worldwide. Hundreds of millions
+  of people live with it. Many have tried multiple medications, years of
+  therapy, and still feel stuck. That desperation drives a growing number of
+  people toward plant medicine.
 keyTakeaways:
   - Why People Seek Plant Medicine for Depression
   - When Conventional Treatment Falls Short
   - What Draws People to Plant Medicine
-  - Understanding what research shows in the context of plant medicine healing
-  - Understanding clinical studies in the context of plant medicine healing
+  - What Research Shows
+  - Clinical Studies
 faq:
   - question: Why People Seek Plant Medicine for Depression?
     answer: >-

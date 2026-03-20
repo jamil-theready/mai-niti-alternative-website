@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine and Ancestral Healing: Working with Your L...'
+title: Plant Medicine and Ancestral Healing
 slug: plant-medicine-and-ancestral-healing
 date: '2026-03-16'
 category: Tradition
@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Ancestral Healing with Plant Medicine: How Ceremony Conne...'
+metaTitle: Plant Medicine and Ancestral Healing
 metaDescription: >-
   The patterns you carry are not all yours. Some belong to your parents,
   grandparents, and ancestors. Learn how ceremony helps heal inherited wounds.
@@ -16,8 +16,9 @@ excerpt: >-
   The patterns you carry are not all yours. Some belong to your parents,
   grandparents, and ancestors. Learn how ceremony helps heal inherited wounds.
 quickAnswer: >-
-  The patterns you carry are not all yours. Some belong to your parents,
-  grandparents, and ancestors. Learn how ceremony helps heal inherited wounds.
+  Ancestral healing is the recognition that some of the wounds you carry did not
+  originate with you. The anxiety that seems to have no cause. The grief that
+  predates any loss you have personally experienced.
 keyTakeaways:
   - What Is Ancestral Healing
   - The Weight You Did Not Choose

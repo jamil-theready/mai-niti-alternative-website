@@ -15,16 +15,15 @@ excerpt: >-
   The same medicine in different contexts produces wildly different outcomes.
   Learn why set and setting are the most important factors in your ceremony.
 quickAnswer: >-
-  The same medicine in different contexts produces wildly different outcomes.
-  Learn why set and setting are the most important factors in your ceremony.
+  Your "set" encompasses everything you bring to ceremony internally: your
+  mindset, emotional state, physical condition, expectations, fears, and
+  intentions.
 keyTakeaways:
   - What Set and Setting Means
-  - >-
-    Understanding the traditional understanding in the context of plant medicine
-    healing
-  - Understanding why it matters in the context of plant medicine healing
+  - The Traditional Understanding
+  - Why It Matters
   - 'Set: Your Internal Landscape'
-  - Understanding mental state in the context of plant medicine healing
+  - Mental State
 faq:
   - question: What Set and Setting Means?
     answer: >-

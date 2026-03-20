@@ -15,14 +15,16 @@ excerpt: >-
   A consistent daily practice is the backbone of lasting integration. Discover
   morning rituals, evening routines, and weekly rhythms to anchor your healin...
 quickAnswer: >-
-  A consistent daily practice is the backbone of lasting integration. Discover
-  morning rituals, evening routines, and weekly rhythms to anchor your healin...
+  After a healing retreat, your nervous system is in a state of openness. Old
+  patterns have been loosened. New pathways are forming. But without structure,
+  the openness closes. The old grooves win by default because they have years of
+  momentum behind them.
 keyTakeaways:
-  - Understanding why routine matters in the context of plant medicine healing
+  - Why Routine Matters
   - The Science of Habit
   - What Happens Without Structure
-  - Understanding morning practices in the context of plant medicine healing
-  - Understanding the phone rule in the context of plant medicine healing
+  - Morning Practices
+  - The Phone Rule
 faq:
   - question: Why Routine Matters?
     answer: >-

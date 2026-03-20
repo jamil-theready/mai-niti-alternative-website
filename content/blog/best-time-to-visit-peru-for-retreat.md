@@ -8,31 +8,19 @@ tags: []
 readTime: 8 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Best Time to Visit Peru for a Healing Retreat: Seasons, W...'
+metaTitle: Best Time to Visit Peru for a Plant Medicine Retreat
 metaDescription: >-
   Timing your retreat matters. Learn about Peru's seasons, regional weather
   patterns, and how to choose the right time of year for your healing journey.
 excerpt: >-
   Timing your retreat matters. Learn about Peru's seasons, regional weather
   patterns, and how to choose the right time of year for your healing journey.
-quickAnswer: >-
-  Timing your retreat matters. Learn about Peru's seasons, regional weather
-  patterns, and how to choose the right time of year for your healing journey.
+quickAnswer: Understanding these patterns is not just about comfort.
 keyTakeaways:
-  - >-
-    Peru's Two Seasons[Peru](https://en.wikipedia.org/wiki/Peru) does not have
-    the four-season pattern that visitors from temperate climates expect.
-    Instead, most of the country operates on a two-season cycle: dry season
-    (roughly May through October) and wet season (roughly November through
-    April). However, Peru's dramatic geographic diversity, from coastal desert
-    to Andean peaks to [Amazon
-    rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest), means that
-    weather varies enormously depending on where your retreat is located.
-  - >-
-    Understanding altitude and microclimate in the context of plant medicine
-    healing
+  - Peru's Two Seasons
+  - Altitude and Microclimate
   - 'Amazon Basin: Wet and Dry'
-  - Understanding the transition months in the context of plant medicine healing
+  - The Transition Months
   - Sacred Valley and Highlands
 faq:
   - question: >-

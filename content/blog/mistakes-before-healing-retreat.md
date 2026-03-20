@@ -15,16 +15,15 @@ excerpt: >-
   Avoid these common mistakes before a healing retreat. From breaking the dieta
   to overpacking your expectations, here is what to watch out for.
 quickAnswer: >-
-  Avoid these common mistakes before a healing retreat. From breaking the dieta
-  to overpacking your expectations, here is what to watch out for.
+  Most retreat preparation guides tell you what to do. This one tells you what
+  **not** to do. Because sometimes the mistakes are more instructive than the
+  instructions.
 keyTakeaways:
   - Why People Make These Mistakes
-  - Understanding the good news in the context of plant medicine healing
+  - The Good News
   - 'Mistake: Breaking the Dieta'
   - 'Mistake: Not Tapering Medications Properly'
-  - >-
-    Understanding mistake: overexercising in the context of plant medicine
-    healing
+  - 'Mistake: Overexercising'
 faq:
   - question: Why People Make These Mistakes?
     answer: 'Usually for one of three reasons:'

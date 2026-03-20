@@ -1,5 +1,5 @@
 ---
-title: 'The Amazon vs the Sacred Valley: Choosing the Right Retre...'
+title: Amazon vs Sacred Valley Retreat
 slug: amazon-vs-sacred-valley-retreat
 date: '2026-02-17'
 category: Culture
@@ -17,9 +17,10 @@ excerpt: >-
   shapes your healing experience and which one fits your needs and comfort
   level.
 quickAnswer: >-
-  Amazon jungle or Sacred Valley highlands? Learn how each retreat location
-  shapes your healing experience and which one fits your needs and comfort
-  level.
+  The Amazon basin covers the eastern lowlands of Peru. It is tropical, humid,
+  and densely forested. Elevation ranges from 100 to 500 meters above sea level.
+  The Sacred Valley sits in the Andean highlands near Cusco, at elevations
+  between 2,800 and 3,400 meters. The climate is cool and dry.
 keyTakeaways:
   - 'Two Iconic Locations, Two Very Different Experiences'
   - A Quick Geography Lesson

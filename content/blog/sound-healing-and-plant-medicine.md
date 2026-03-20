@@ -1,5 +1,5 @@
 ---
-title: 'Sound Healing and Plant Medicine: The Role of Music in Ce...'
+title: Sound Healing and Plant Medicine
 slug: sound-healing-and-plant-medicine
 date: '2026-03-22'
 category: Wellness
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Sound Healing in Plant Medicine Ceremony: How Music Drive...'
+metaTitle: Sound Healing and Plant Medicine
 metaDescription: >-
   Sound is not background music in ceremony. It is the primary tool through
   which healing is delivered. Discover why music is inseparable from plant
@@ -18,26 +18,15 @@ excerpt: >-
   which healing is delivered. Discover why music is inseparable from plant
   medic...
 quickAnswer: >-
-  Sound is not background music in ceremony. It is the primary tool through
-  which healing is delivered. Discover why music is inseparable from plant
-  medic...
+  In Western medicine, sound is ambient. Background music in the dentist's
+  office. A white noise machine for sleep. In Shipibo healing tradition, sound
+  is the medicine.
 keyTakeaways:
-  - Understanding sound as medicine in the context of plant medicine healing
+  - Sound as Medicine
   - 'Before Words, There Was Sound'
   - The Science of Vibrational Healing
-  - >-
-    Understanding resonance and entrainment in the context of plant medicine
-    healing
-  - >-
-    Icaros: The Technology of Shipibo
-    Sound[Shipibo](/blog/who-are-the-shipibo-people) icaros are not improvised
-    or casually composed. They are learned through rigorous
-    [apprenticeship](/blog/apprenticeship-in-shipibo-medicine) and extended
-    [plant dietas](/blog/what-is-a-plant-dieta), during which specific plants
-    teach the healer their songs. Each icaro carries the energy and intelligence
-    of the plant that gifted it. When the healer sings, they are channeling the
-    plant's healing capacity through the vehicle of sound. The song is a bridge
-    between the plant world and the human body.
+  - Resonance and Entrainment
+  - 'Icaros: The Technology of Shipibo Sound'
 faq:
   - question: What is sound as medicine?
     answer: >-

@@ -1,5 +1,5 @@
 ---
-title: 'Cultural Sensitivity in Plant Medicine: Being a Respectfu...'
+title: Cultural Sensitivity Plant Medicine
 slug: cultural-sensitivity-plant-medicine
 date: '2026-03-13'
 category: Culture
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Cultural Sensitivity in Plant Medicine: Respect & Awarene...'
+metaTitle: Cultural Sensitivity Plant Medicine
 metaDescription: >-
   You are a guest in someone else's tradition. Here is how to engage with
   indigenous healing practices with genuine respect and cultural awareness.
@@ -16,15 +16,15 @@ excerpt: >-
   You are a guest in someone else's tradition. Here is how to engage with
   indigenous healing practices with genuine respect and cultural awareness.
 quickAnswer: >-
-  You are a guest in someone else's tradition. Here is how to engage with
-  indigenous healing practices with genuine respect and cultural awareness.
+  When you attend a plant medicine retreat, you are entering a cultural space
+  that does not belong to you. The traditions, the songs, the practices, the
+  knowledge, all of these emerged from specific indigenous cultures over
+  thousands of years.
 keyTakeaways:
   - 'You Are a Guest, Not a Consumer'
-  - Understanding the entitlement trap in the context of plant medicine healing
-  - >-
-    Understanding common cultural missteps in the context of plant medicine
-    healing
-  - Understanding language and behavior in the context of plant medicine healing
+  - The Entitlement Trap
+  - Common Cultural Missteps
+  - Language and Behavior
   - Respecting the Healer's Authority
 faq:
   - question: 'What is you are a guest, not a consumer?'

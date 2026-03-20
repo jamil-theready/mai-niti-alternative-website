@@ -15,13 +15,15 @@ excerpt: >-
   Not everyone seeks plant medicine for a clinical condition. Many come looking
   for spiritual depth, purpose, and connection. Here is what to expect.
 quickAnswer: >-
-  Not everyone seeks plant medicine for a clinical condition. Many come looking
-  for spiritual depth, purpose, and connection. Here is what to expect.
+  If you have tried meditation, yoga, breathwork, silent retreats, and other
+  practices and still feel that something deeper is calling, plant medicine may
+  be what you are looking for. The tradition has served spiritual seekers for
+  centuries.
 keyTakeaways:
-  - Understanding the spiritual seeker in the context of plant medicine healing
-  - Understanding a valid reason in the context of plant medicine healing
+  - The Spiritual Seeker
+  - A Valid Reason
   - Different From Clinical Work
-  - Understanding no prerequisites in the context of plant medicine healing
+  - No Prerequisites
   - What Plant Medicine Offers Spiritually
 faq:
   - question: What is spiritual seeker?

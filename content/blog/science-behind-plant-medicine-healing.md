@@ -17,16 +17,14 @@ excerpt: >-
   neuroplasticity, default mode network research, and where science meets
   tradition.
 quickAnswer: >-
-  What does modern science say about how plant medicine works? Learn about
-  neuroplasticity, default mode network research, and where science meets
-  tradition.
+  Scientific research on plant medicine has expanded dramatically in the past
+  decade. What was once dismissed by mainstream science as fringe interest has
+  become one of the most active and promising areas of mental health research.
 keyTakeaways:
   - The Growing Research Base
-  - >-
-    Understanding major research programs in the context of plant medicine
-    healing
+  - Major Research Programs
   - What Is Being Studied
-  - Understanding the context gap in the context of plant medicine healing
+  - The Context Gap
   - Neuroplasticity and the Brain
 faq:
   - question: What is growing research base?

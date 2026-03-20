@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Plant Medicine for Couples: Relationship Healing Through ...'
+metaTitle: 'Plant Medicine for Couples: Healing Relationships Together'
 metaDescription: >-
   Can plant medicine help your relationship? Understand the benefits, risks, and
   realities of attending a retreat with your partner.
@@ -16,11 +16,13 @@ excerpt: >-
   Can plant medicine help your relationship? Understand the benefits, risks, and
   realities of attending a retreat with your partner.
 quickAnswer: >-
-  Can plant medicine help your relationship? Understand the benefits, risks, and
-  realities of attending a retreat with your partner.
+  Couples come to plant medicine retreats for many reasons. Some are in crisis,
+  facing issues that conventional therapy has not resolved. Others are stable
+  but feel stuck in patterns of disconnection, resentment, or emotional
+  distance.
 keyTakeaways:
   - Why Couples Seek Plant Medicine
-  - Understanding not couples therapy in the context of plant medicine healing
+  - Not Couples Therapy
   - What to Expect as a Couple
   - Different Experiences Are Normal
   - The Individual Work Comes First

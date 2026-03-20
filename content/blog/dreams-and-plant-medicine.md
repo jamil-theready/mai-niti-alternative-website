@@ -16,8 +16,9 @@ excerpt: >-
   Dreams play a vital role in plant medicine healing. Learn how the dream world
   connects to ceremony, dieta, and long-term integration.
 quickAnswer: >-
-  Dreams play a vital role in plant medicine healing. Learn how the dream world
-  connects to ceremony, dieta, and long-term integration.
+  In Shipibo tradition, dreams are not random neural firings or psychological
+  residue. They are a channel of communication between the dreamer and the
+  spirit world.
 keyTakeaways:
   - Dreams in Indigenous Healing Traditions
   - The Healer's Dream Life

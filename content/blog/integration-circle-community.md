@@ -1,5 +1,5 @@
 ---
-title: Finding an Integration Circle or Community After Your Ret...
+title: Integration Circle Community
 slug: integration-circle-community
 date: '2026-02-12'
 category: Integration
@@ -17,15 +17,16 @@ excerpt: >-
   retreat. Learn what they are, how to find one, and how to start your own
   commun...
 quickAnswer: >-
-  Integration circles provide the support most people need after a healing
-  retreat. Learn what they are, how to find one, and how to start your own
-  commun...
+  An integration circle is a small group of people who meet regularly to support
+  each other through the process of integrating deep healing experiences. It is
+  not therapy. It is not a support group in the clinical sense. It is a
+  container for honest sharing, witnessing, and mutual accountability.
 keyTakeaways:
   - What an Integration Circle Is
-  - Understanding how it works in the context of plant medicine healing
+  - How It Works
   - What Makes It Different
-  - Understanding why community matters in the context of plant medicine healing
-  - Understanding the mirror effect in the context of plant medicine healing
+  - Why Community Matters
+  - The Mirror Effect
 faq:
   - question: What an Integration Circle Is?
     answer: >-

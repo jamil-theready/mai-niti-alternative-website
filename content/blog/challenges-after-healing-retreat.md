@@ -15,14 +15,15 @@ excerpt: >-
   Deep healing brings profound shifts but also unexpected challenges. Understand
   emotional waves, physical symptoms, and relationship changes after your r...
 quickAnswer: >-
-  Deep healing brings profound shifts but also unexpected challenges. Understand
-  emotional waves, physical symptoms, and relationship changes after your r...
+  After deep ceremonial work, emotions do not follow a straight line. They come
+  in waves. Sometimes the waves are gentle. Sometimes they knock you off your
+  feet when you least expect it.
 keyTakeaways:
-  - Understanding emotional waves in the context of plant medicine healing
+  - Emotional Waves
   - What the Waves Look Like
-  - Understanding why waves happen in the context of plant medicine healing
+  - Why Waves Happen
   - How to Ride Them
-  - Understanding physical symptoms in the context of plant medicine healing
+  - Physical Symptoms
 faq:
   - question: What is emotional waves?
     answer: >-

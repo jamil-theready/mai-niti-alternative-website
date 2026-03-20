@@ -1,5 +1,5 @@
 ---
-title: 'Mapacho: The Sacred Role of Tobacco in Plant Medicine Cer...'
+title: Tobacco Mapacho in Ceremony
 slug: tobacco-mapacho-in-ceremony
 date: '2026-01-16'
 category: Tradition
@@ -16,8 +16,9 @@ excerpt: >-
   Mapacho is not recreational tobacco. Learn how this powerful plant is used for
   protection, cleansing, and healing in Shipibo ceremony.
 quickAnswer: >-
-  Mapacho is not recreational tobacco. Learn how this powerful plant is used for
-  protection, cleansing, and healing in Shipibo ceremony.
+  The plant itself is robust, with thick dark leaves and a potent aroma. It is
+  typically rolled into thick cigars or prepared as a liquid for nasal
+  application.
 keyTakeaways:
   - >-
     What Is Mapacho and How It Differs from Commercial Tobacco<a

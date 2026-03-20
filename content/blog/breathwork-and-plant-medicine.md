@@ -1,5 +1,5 @@
 ---
-title: 'Breathwork and Plant Medicine: Unlocking the Body''s Heali...'
+title: Breathwork and Plant Medicine
 slug: breathwork-and-plant-medicine
 date: '2026-03-12'
 category: Preparation
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Breathwork and Plant Medicine: Complementary Healing Tech...'
+metaTitle: Breathwork and Plant Medicine
 metaDescription: >-
   Breathwork is a powerful companion to plant medicine healing. Learn how
   conscious breathing supports preparation, ceremony, and integration.
@@ -16,13 +16,15 @@ excerpt: >-
   Breathwork is a powerful companion to plant medicine healing. Learn how
   conscious breathing supports preparation, ceremony, and integration.
 quickAnswer: >-
-  Breathwork is a powerful companion to plant medicine healing. Learn how
-  conscious breathing supports preparation, ceremony, and integration.
+  The breath sits at the intersection of the voluntary and involuntary nervous
+  system. It is the only physiological function that operates both automatically
+  and under conscious control. This dual nature makes it a uniquely powerful
+  tool for healing.
 keyTakeaways:
   - Why Breath Matters in Healing
   - The Nervous System Connection
   - Breathwork Techniques for Preparation
-  - Understanding building capacity in the context of plant medicine healing
+  - Building Capacity
   - Using Breath During Ceremony
 faq:
   - question: Why Breath Matters in Healing?

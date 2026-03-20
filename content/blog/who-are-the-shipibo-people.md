@@ -17,16 +17,14 @@ excerpt: >-
   Amazon. Learn about their history, art, language, and living spiritual
   tradi...
 quickAnswer: >-
-  The Shipibo Konibo are one of the largest indigenous groups in the Peruvian
-  Amazon. Learn about their history, art, language, and living spiritual
-  tradi...
+  The traditional Shipibo homeland centers on the Ucayali River and its
+  tributaries in eastern Peru. This is lowland tropical rainforest, hot and
+  humid, teeming with biodiversity.
 keyTakeaways:
-  - Understanding origins and history in the context of plant medicine healing
-  - Understanding pre colonial life in the context of plant medicine healing
-  - >-
-    Understanding contact and colonization in the context of plant medicine
-    healing
-  - Understanding modern recognition in the context of plant medicine healing
+  - Origins and History
+  - Pre Colonial Life
+  - Contact and Colonization
+  - Modern Recognition
   - Where the Shipibo Live
 faq:
   - question: What is origins and history?

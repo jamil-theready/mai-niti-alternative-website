@@ -16,22 +16,13 @@ excerpt: >-
   Rapeh is a traditional Amazonian snuff medicine used for grounding, cleansing,
   and spiritual connection. Learn what it is and how it is used.
 quickAnswer: >-
-  Rapeh is a traditional Amazonian snuff medicine used for grounding, cleansing,
-  and spiritual connection. Learn what it is and how it is used.
+  The base of most rapeh blends is Nicotiana rustica, the same strong tobacco
+  used as mapacho in Shipibo ceremony.
 keyTakeaways:
-  - >-
-    What Is Rapeh and Its Traditional Origins<a
-    href="https://en.wikipedia.org/wiki/Rapé" target="_blank">Rapeh</a>
-    (pronounced ha-PEH) is a sacred snuff medicine made from powdered tobacco
-    and other medicinal plants. It originates from indigenous tribes across the
-    Amazon basin, including the Yawanawa, Katukina, Huni Kuin, and Matsigenka
-    peoples. Each tribe has its own recipes, some of which have been passed down
-    through generations in carefully guarded formulas.
+  - What Is Rapeh and Its Traditional Origins
   - More Than Just Tobacco
   - How Rapeh Is Prepared and Administered
-  - >-
-    Understanding administration methods in the context of plant medicine
-    healing
+  - Administration Methods
   - Effects and Benefits of Rapeh
 faq:
   - question: >-

@@ -17,18 +17,15 @@ excerpt: >-
   reentry hits hard and practical strategies to ground yourself during the
   tran...
 quickAnswer: >-
-  Coming home after a healing retreat can feel like culture shock. Learn why
-  reentry hits hard and practical strategies to ground yourself during the
-  tran...
+  You spent days or weeks in the Amazon. No screens. No schedules beyond
+  ceremony and rest. Nature sounds instead of traffic. Simple food. Deep
+  connection. Your entire system recalibrated to a slower, more intentional
+  rhythm.
 keyTakeaways:
   - Why Reentry Hits Hard
-  - >-
-    Understanding the neurological explanation in the context of plant medicine
-    healing
-  - >-
-    Understanding common reentry experiences in the context of plant medicine
-    healing
-  - Understanding the contrast effect in the context of plant medicine healing
+  - The Neurological Explanation
+  - Common Reentry Experiences
+  - The Contrast Effect
   - Where the Contrast Shows Up
 faq:
   - question: Why Reentry Hits Hard?

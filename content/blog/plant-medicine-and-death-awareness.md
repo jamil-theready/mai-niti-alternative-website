@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine and Death Awareness: Facing Mortality in C...'
+title: Plant Medicine and Death Awareness
 slug: plant-medicine-and-death-awareness
 date: '2026-03-21'
 category: Preparation
@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Plant Medicine and Death: How Ceremony Transforms Your Re...'
+metaTitle: Plant Medicine and Death Awareness
 metaDescription: >-
   Death is the teacher we spend our lives avoiding. Learn how plant medicine
   ceremony helps you face mortality and discover what it means to truly live.
@@ -16,11 +16,11 @@ excerpt: >-
   Death is the teacher we spend our lives avoiding. Learn how plant medicine
   ceremony helps you face mortality and discover what it means to truly live.
 quickAnswer: >-
-  Death is the teacher we spend our lives avoiding. Learn how plant medicine
-  ceremony helps you face mortality and discover what it means to truly live.
+  Modern culture has achieved something historically unprecedented: it has
+  almost entirely removed death from daily awareness.
 keyTakeaways:
   - Why We Avoid Death
-  - Understanding the unspoken motive in the context of plant medicine healing
+  - The Unspoken Motive
   - Death Experiences in Ceremony
   - The Moment of Letting Go
   - The Ego and Its Dissolution

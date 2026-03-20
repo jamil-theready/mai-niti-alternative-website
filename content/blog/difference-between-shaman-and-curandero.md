@@ -15,18 +15,15 @@ excerpt: >-
   The words shaman and curandero are often used interchangeably, but they carry
   different meanings and histories. Learn why the distinction matters.
 quickAnswer: >-
-  The words shaman and curandero are often used interchangeably, but they carry
-  different meanings and histories. Learn why the distinction matters.
+  "Shaman" is one of the most widely used and most misunderstood terms in the
+  healing world. Its journey from a specific Siberian context to a universal
+  label for all indigenous healers is a story worth understanding.
 keyTakeaways:
-  - >-
-    The Word Shaman"Shaman" is one of the most widely used and most
-    misunderstood terms in the healing world. Its journey from a specific
-    Siberian context to a universal label for all indigenous healers is a story
-    worth understanding.
-  - Understanding tungusic origins in the context of plant medicine healing
-  - Understanding western adoption in the context of plant medicine healing
-  - Understanding the modern usage in the context of plant medicine healing
-  - Understanding what curandero means in the context of plant medicine healing
+  - The Word Shaman
+  - Tungusic Origins
+  - Western Adoption
+  - The Modern Usage
+  - What Curandero Means
 faq:
   - question: >-
       What is word shaman"shaman" is one of the most widely used and most

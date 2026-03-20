@@ -1,5 +1,5 @@
 ---
-title: 'Returning Home After a Plant Medicine Retreat: What to Ex...'
+title: Returning Home After Retreat
 slug: returning-home-after-retreat
 date: '2026-03-12'
 category: Preparation
@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: 'After Plant Medicine Retreat: Returning Home & Integratio...'
+metaTitle: Returning Home After Retreat
 metaDescription: >-
   The transition from retreat to daily life can be the hardest part of the
   journey. Here is how to navigate the return with grace and intention.
@@ -16,13 +16,15 @@ excerpt: >-
   The transition from retreat to daily life can be the hardest part of the
   journey. Here is how to navigate the return with grace and intention.
 quickAnswer: >-
-  The transition from retreat to daily life can be the hardest part of the
-  journey. Here is how to navigate the return with grace and intention.
+  Integration is not a one-time event. It is an ongoing practice that sustains
+  and deepens the insights gained during retreat. The most effective integration
+  practices are simple, consistent, and woven into daily life rather than
+  treated as separate spiritual exercises.
 keyTakeaways:
-  - Understanding the re-entry shock in the context of plant medicine healing
-  - Understanding give yourself time in the context of plant medicine healing
+  - The Re-Entry Shock
+  - Give Yourself Time
   - Physical Adjustments in the First Weeks
-  - Understanding sleep and dreams in the context of plant medicine healing
+  - Sleep and Dreams
   - Emotional Waves After Retreat
 faq:
   - question: What is re-entry shock?

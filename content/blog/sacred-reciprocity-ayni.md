@@ -1,5 +1,5 @@
 ---
-title: 'Sacred Reciprocity (Ayni): Giving Back to the Traditions ...'
+title: Sacred Reciprocity Ayni
 slug: sacred-reciprocity-ayni
 date: '2026-03-13'
 category: Culture
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Sacred Reciprocity Ayni: Giving Back to Indigenous Healin...'
+metaTitle: Sacred Reciprocity Ayni
 metaDescription: >-
   You receive medicine from indigenous traditions. What do you give back?
   Understanding reciprocity is essential for ethical engagement with plant
@@ -18,23 +18,13 @@ excerpt: >-
   Understanding reciprocity is essential for ethical engagement with plant
   medicine.
 quickAnswer: >-
-  You receive medicine from indigenous traditions. What do you give back?
-  Understanding reciprocity is essential for ethical engagement with plant
-  medicine.
+  In Andean and Amazonian worldviews, reciprocity is not optional. It is a
+  fundamental law of existence, as inviolable as gravity.
 keyTakeaways:
-  - >-
-    What Is Ayni and Why It Matters<a href="https://en.wikipedia.org/wiki/Ayni"
-    target="_blank">Ayni</a> is a Quechua concept that translates roughly as
-    sacred reciprocity. It is the principle that all relationships, between
-    humans, between humans and nature, between humans and spirit, are governed
-    by mutual exchange. What you receive, you give back. What you give, you
-    receive in return. This is not a transaction. It is the natural flow of a
-    balanced relationship.
+  - What Is Ayni and Why It Matters
   - Why This Matters Now
   - The Ethics of Receiving Indigenous Medicine
-  - >-
-    Understanding the extraction problem in the context of plant medicine
-    healing
+  - The Extraction Problem
   - How to Practice Reciprocity
 faq:
   - question: >-

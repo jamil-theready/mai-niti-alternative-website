@@ -1,5 +1,5 @@
 ---
-title: 'Long-Term Effects of Plant Medicine: What Changes and Wha...'
+title: Long Term Effects of Plant Medicine
 slug: long-term-effects-of-plant-medicine
 date: '2026-03-13'
 category: Integration
@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Long-Term Effects of Plant Medicine: Lasting Changes & Be...'
+metaTitle: Long Term Effects of Plant Medicine
 metaDescription: >-
   What actually lasts after ceremony ends? An honest look at the long-term
   effects of plant medicine work on health, relationships, and life direction.
@@ -16,8 +16,10 @@ excerpt: >-
   What actually lasts after ceremony ends? An honest look at the long-term
   effects of plant medicine work on health, relationships, and life direction.
 quickAnswer: >-
-  What actually lasts after ceremony ends? An honest look at the long-term
-  effects of plant medicine work on health, relationships, and life direction.
+  Plant medicine produces genuine, measurable, lasting positive change for many
+  people. It also does not fix everything. A realistic view of what ceremony can
+  and cannot do protects you from both the hype of the wellness industry and the
+  cynicism of its critics.
 keyTakeaways:
   - What the Research Shows
   - Limitations of Current Research

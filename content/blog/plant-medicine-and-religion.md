@@ -17,15 +17,15 @@ excerpt: >-
   faith. Learn how different traditions view plant medicine and how to navigate
   t...
 quickAnswer: >-
-  Many people wonder whether plant medicine conflicts with their religious
-  faith. Learn how different traditions view plant medicine and how to navigate
-  t...
+  One of the most personal questions people face when considering plant medicine
+  is whether it conflicts with their religious or spiritual beliefs. This
+  question deserves honest engagement rather than dismissive reassurance.
 keyTakeaways:
   - The Question of Compatibility
   - Why It Comes Up
-  - Understanding no easy answer in the context of plant medicine healing
+  - No Easy Answer
   - What Different Traditions Say
-  - Understanding indigenous traditions in the context of plant medicine healing
+  - Indigenous Traditions
 faq:
   - question: What is question of compatibility?
     answer: >-

@@ -1,5 +1,5 @@
 ---
-title: How to Talk About Your Retreat Experience with People Who...
+title: Talking About Retreat Experience
 slug: talking-about-retreat-experience
 date: '2026-01-29'
 category: Integration
@@ -15,16 +15,16 @@ excerpt: >-
   Sharing your healing retreat experience can feel vulnerable and frustrating.
   Learn what to say, what to keep private, and how to handle skepticism with ...
 quickAnswer: >-
-  Sharing your healing retreat experience can feel vulnerable and frustrating.
-  Learn what to say, what to keep private, and how to handle skepticism with ...
+  You come home from one of the most profound experiences of your life. Someone
+  asks how your journey was. You open your mouth and realize there are no words
+  that will bridge the gap between what you experienced and what they can
+  understand.
 keyTakeaways:
   - Why It Feels Hard to Share
-  - Understanding the language problem in the context of plant medicine healing
-  - >-
-    Understanding the vulnerability factor in the context of plant medicine
-    healing
+  - The Language Problem
+  - The Vulnerability Factor
   - What to Say and What to Keep Private
-  - Understanding the three tiers in the context of plant medicine healing
+  - The Three Tiers
 faq:
   - question: Why It Feels Hard to Share?
     answer: >-

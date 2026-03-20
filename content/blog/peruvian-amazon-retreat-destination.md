@@ -1,5 +1,5 @@
 ---
-title: What Makes the Peruvian Amazon Different from Other Retre...
+title: Peruvian Amazon Retreat Destination
 slug: peruvian-amazon-retreat-destination
 date: '2026-02-24'
 category: Culture
@@ -15,8 +15,9 @@ excerpt: >-
   The Peruvian Amazon is not just another retreat destination. Its biodiversity,
   indigenous traditions, and deep isolation create a healing experience unl...
 quickAnswer: >-
-  The Peruvian Amazon is not just another retreat destination. Its biodiversity,
-  indigenous traditions, and deep isolation create a healing experience unl...
+  Retreat centers now operate across Central America, Southeast Asia, Africa,
+  and Europe. Some offer plant medicine ceremonies. Some offer meditation. Some
+  offer a blend of everything.
 keyTakeaways:
   - Not All Jungles Are the Same
   - Biodiversity That Supports Healing

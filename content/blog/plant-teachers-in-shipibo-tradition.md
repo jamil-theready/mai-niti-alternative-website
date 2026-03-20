@@ -15,14 +15,14 @@ excerpt: >-
   Plant teachers are intelligent beings in the Shipibo worldview. Learn which
   plants are most important, how they communicate, and what it means to build a.
 quickAnswer: >-
-  Plant teachers are intelligent beings in the Shipibo worldview. Learn which
-  plants are most important, how they communicate, and what it means to build a.
+  The Shipibo pharmacopoeia includes dozens of recognized teacher plants. A few
+  stand out for their importance and frequent use.
 keyTakeaways:
   - What Plant Teachers Are
   - Intelligence Without a Brain
   - Not All Plants Are Teachers
-  - Understanding major plant teachers in the context of plant medicine healing
-  - Understanding noya rao in the context of plant medicine healing
+  - Major Plant Teachers
+  - Noya Rao
 faq:
   - question: What Plant Teachers Are?
     answer: >-

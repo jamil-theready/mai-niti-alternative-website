@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine and Parenting: How Healing Yourself Heals ...'
+title: Plant Medicine and Parenting
 slug: plant-medicine-and-parenting
 date: '2026-03-13'
 category: Tradition
@@ -18,16 +18,14 @@ excerpt: >-
   medicine can help break generational cycles and transform how you show up for
   yo...
 quickAnswer: >-
-  Parents carry the heaviest responsibility and the deepest wounds. Plant
-  medicine can help break generational cycles and transform how you show up for
-  yo...
+  Parenting has a way of surfacing every unhealed wound you carry. The child who
+  pushes your buttons is often triggering pain from your own childhood. The rage
+  that erupts over a spilled glass of milk is rarely about the milk.
 keyTakeaways:
   - Why Parents Seek Plant Medicine
   - The Weight of Responsibility
-  - >-
-    Understanding breaking generational patterns in the context of plant
-    medicine healing
-  - Understanding the compassion shift in the context of plant medicine healing
+  - Breaking Generational Patterns
+  - The Compassion Shift
   - What Ceremony Reveals About Your Parenting
 faq:
   - question: Why Parents Seek Plant Medicine?

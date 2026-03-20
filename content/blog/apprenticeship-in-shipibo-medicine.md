@@ -17,15 +17,15 @@ excerpt: >-
   sacrifice. Learn what the apprenticeship process actually involves and why
   shortc...
 quickAnswer: >-
-  Becoming a Shipibo healer requires years of isolation, discipline, and
-  sacrifice. Learn what the apprenticeship process actually involves and why
-  shortc...
+  In the Shipibo tradition, becoming a healer is not a career choice. It is a
+  calling. The distinction matters because it shapes every aspect of the
+  training that follows.
 keyTakeaways:
   - The Call to Heal
   - How the Call Arrives
-  - Understanding testing the call in the context of plant medicine healing
-  - Understanding family and community in the context of plant medicine healing
-  - Understanding the training process in the context of plant medicine healing
+  - Testing the Call
+  - Family and Community
+  - The Training Process
 faq:
   - question: What is call to heal?
     answer: >-

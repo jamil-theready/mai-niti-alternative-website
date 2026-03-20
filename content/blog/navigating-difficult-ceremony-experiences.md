@@ -15,15 +15,14 @@ excerpt: >-
   Not every ceremony is blissful. Difficult experiences are common and often the
   most healing. Learn how to work with challenging material during ceremony.
 quickAnswer: >-
-  Not every ceremony is blissful. Difficult experiences are common and often the
-  most healing. Learn how to work with challenging material during ceremony.
+  If you are going to work with plant medicine, you need to understand something
+  upfront: difficult experiences are not failures. They are often the most
+  important healing work you will do.
 keyTakeaways:
   - Why Difficult Experiences Happen
   - The Nature of Healing
   - What the Medicine Shows
-  - >-
-    Understanding resistance creates difficulty in the context of plant medicine
-    healing
+  - Resistance Creates Difficulty
   - Types of Difficult Experiences
 faq:
   - question: Why Difficult Experiences Happen?

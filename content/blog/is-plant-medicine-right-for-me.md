@@ -15,13 +15,14 @@ excerpt: >-
   Not everyone is a good candidate for plant medicine. Learn how to honestly
   assess whether this path is right for you at this point in your life.
 quickAnswer: >-
-  Not everyone is a good candidate for plant medicine. Learn how to honestly
-  assess whether this path is right for you at this point in your life.
+  Plant medicine is not for everyone. It is not for every condition. And it is
+  not right at every stage of life. This is not a failure of the medicine or of
+  the person. It is simply a matter of fit and timing.
 keyTakeaways:
-  - Understanding the honest question in the context of plant medicine healing
-  - Understanding why honesty matters in the context of plant medicine healing
+  - The Honest Question
+  - Why Honesty Matters
   - No Judgment Either Way
-  - Understanding the right time in the context of plant medicine healing
+  - The Right Time
   - Signs You Might Be Ready
 faq:
   - question: What is honest question?

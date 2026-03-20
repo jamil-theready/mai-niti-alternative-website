@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine and Creative Blocks: Unlocking Your Authen...'
+title: Plant Medicine and Creativity Blocks
 slug: plant-medicine-and-creativity-blocks
 date: '2026-03-20'
 category: Preparation
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Plant Medicine for Creative Blocks: How Ceremony Restores...'
+metaTitle: Plant Medicine and Creativity Blocks
 metaDescription: >-
   Creative blocks are rarely about creativity. They are about fear. Discover how
   plant medicine ceremony dissolves the barriers between you and your authe...
@@ -16,8 +16,8 @@ excerpt: >-
   Creative blocks are rarely about creativity. They are about fear. Discover how
   plant medicine ceremony dissolves the barriers between you and your authe...
 quickAnswer: >-
-  Creative blocks are rarely about creativity. They are about fear. Discover how
-  plant medicine ceremony dissolves the barriers between you and your authe...
+  A creative block is rarely about a lack of ideas. It is about a surplus of
+  fear. Fear of judgment. Fear of failure. Fear of being seen.
 keyTakeaways:
   - What Creative Blocks Really Are
   - Perfectionism as Creative Prison

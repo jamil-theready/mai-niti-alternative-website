@@ -1,5 +1,5 @@
 ---
-title: 'Feeling Nervous Before Ceremony: What Every First Timer S...'
+title: Preparing for Ceremony Anxiety
 slug: preparing-for-ceremony-anxiety
 date: '2026-02-03'
 category: Preparation
@@ -17,9 +17,9 @@ excerpt: >-
   normal. Learn why it happens, how to work with it, and what experienced
   healers ...
 quickAnswer: >-
-  Feeling anxious before your first plant medicine ceremony is completely
-  normal. Learn why it happens, how to work with it, and what experienced
-  healers ...
+  Think about other moments in your life that carried weight. Starting a new
+  job. Having a difficult conversation. Making a big move. Nervousness
+  accompanied all of them. That did not mean you should not have done them.
 keyTakeaways:
   - Pre Ceremony Anxiety Is Normal and Even Healthy
   - Where the Fear Actually Comes From

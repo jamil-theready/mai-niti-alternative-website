@@ -16,15 +16,15 @@ excerpt: >-
   Journaling is the single most accessible integration tool. Learn how to use
   writing to capture, process, and deepen your ceremony insights.
 quickAnswer: >-
-  Journaling is the single most accessible integration tool. Learn how to use
-  writing to capture, process, and deepen your ceremony insights.
+  Document the sensory details first. What did you see? What did you feel in
+  your body? Were there specific sounds, temperatures, or physical sensations?
+  These concrete details serve as anchors for the more abstract emotional and
+  psychological content. Start with the body and let the meaning follow.
 keyTakeaways:
   - Why Journaling Matters for Integration
-  - >-
-    Understanding the forgetting problem in the context of plant medicine
-    healing
+  - The Forgetting Problem
   - When and How to Write
-  - Understanding analog over digital in the context of plant medicine healing
+  - Analog Over Digital
   - What to Capture After Ceremony
 faq:
   - question: Why Journaling Matters for Integration?

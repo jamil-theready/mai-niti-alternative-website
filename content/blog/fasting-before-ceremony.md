@@ -17,16 +17,14 @@ excerpt: >-
   fasting, how long to fast, and what to expect when you sit down without
   eating.
 quickAnswer: >-
-  Should you fast before a healing ceremony? Learn about the tradition of
-  fasting, how long to fast, and what to expect when you sit down without
-  eating.
+  On ceremony days, most retreat centers ask you to stop eating by early
+  afternoon. Some ask for a longer fast. This is not arbitrary. It has roots in
+  the Shipibo tradition and practical purpose.
 keyTakeaways:
-  - >-
-    Understanding the spiritual dimension in the context of plant medicine
-    healing
+  - The Spiritual Dimension
   - What This Guide Covers
-  - Understanding the standard approach in the context of plant medicine healing
-  - Understanding first timers in the context of plant medicine healing
+  - The Standard Approach
+  - First Timers
   - What to Eat Before the Fast
 faq:
   - question: What is spiritual dimension?

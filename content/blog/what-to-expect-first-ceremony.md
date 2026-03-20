@@ -17,15 +17,14 @@ excerpt: >-
   needs to know, from practical details to emotional preparation and what
   come...
 quickAnswer: >-
-  Your first ceremony is a significant step. Here is everything a first timer
-  needs to know, from practical details to emotional preparation and what
-  come...
+  Your first ceremony begins long before you sit down in the maloca. The days
+  leading up to it are part of the process.
 keyTakeaways:
-  - Understanding the days before in the context of plant medicine healing
+  - The Days Before
   - Arriving at the Retreat
-  - Understanding orientation in the context of plant medicine healing
-  - Understanding plant baths in the context of plant medicine healing
-  - Understanding setting intention in the context of plant medicine healing
+  - Orientation
+  - Plant Baths
+  - Setting Intention
 faq:
   - question: What is days before?
     answer: >-

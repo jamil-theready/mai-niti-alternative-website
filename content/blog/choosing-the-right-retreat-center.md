@@ -8,7 +8,7 @@ tags: []
 readTime: 11 min read
 image: ''
 imageAlt: ''
-metaTitle: 'How to Choose a Plant Medicine Retreat Center: Red Flags ...'
+metaTitle: How to Choose the Right Plant Medicine Retreat Center
 metaDescription: >-
   Not all retreat centers are equal. Learn what to look for, what to avoid, and
   how to evaluate whether a center is safe and legitimate.
@@ -16,8 +16,10 @@ excerpt: >-
   Not all retreat centers are equal. Learn what to look for, what to avoid, and
   how to evaluate whether a center is safe and legitimate.
 quickAnswer: >-
-  Not all retreat centers are equal. Learn what to look for, what to avoid, and
-  how to evaluate whether a center is safe and legitimate.
+  The most dangerous red flag is a center that does not conduct medical
+  screening. Without screening, people with dangerous contraindications, such as
+  certain heart conditions or incompatible medications, can be put at serious
+  risk. No legitimate center skips this step. Ever.
 keyTakeaways:
   - Why Your Choice of Center Matters
   - The Stakes Are Real

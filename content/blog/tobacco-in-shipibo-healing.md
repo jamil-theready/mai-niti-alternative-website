@@ -15,16 +15,16 @@ excerpt: >-
   Sacred tobacco plays a central role in Shipibo ceremony and healing. Learn how
   mapacho is used, why it matters, and how it differs from commercial tobacco.
 quickAnswer: >-
-  Sacred tobacco plays a central role in Shipibo ceremony and healing. Learn how
-  mapacho is used, why it matters, and how it differs from commercial tobacco.
+  In the Western world, tobacco is associated with addiction and disease. In the
+  Shipibo tradition, it is one of the most respected plant medicines. This
+  difference is not a matter of marketing. It comes from how the plant is grown,
+  prepared, and used.
 keyTakeaways:
   - Tobacco as Sacred Medicine
-  - Understanding a teacher plant in the context of plant medicine healing
-  - Understanding deep cultural roots in the context of plant medicine healing
+  - A Teacher Plant
+  - Deep Cultural Roots
   - How It Is Used in Ceremony
-  - >-
-    Understanding sopladas: blowing smoke in the context of plant medicine
-    healing
+  - 'Sopladas: Blowing Smoke'
 faq:
   - question: What is tobacco as sacred medicine?
     answer: >-

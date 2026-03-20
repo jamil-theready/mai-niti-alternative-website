@@ -1,5 +1,5 @@
 ---
-title: Why the First Two Weeks After a Retreat Are the Most Impo...
+title: First Weeks After Retreat
 slug: first-weeks-after-retreat
 date: '2025-12-25'
 category: Integration
@@ -17,17 +17,16 @@ excerpt: >-
   Learn what happens in your body and mind and how to protect this critical
   window.
 quickAnswer: >-
-  The first two weeks after a healing retreat shape your long term results.
-  Learn what happens in your body and mind and how to protect this critical
-  window.
+  When you leave a healing retreat, your body and mind are not the same as when
+  you arrived. Physically, your nervous system has been through an intensive
+  recalibration. Emotionally, layers of stored tension, grief, and memory have
+  been accessed and moved.
 keyTakeaways:
   - What Happens in Your Body and Mind
   - The Nervous System Reset
-  - Understanding the mental landscape in the context of plant medicine healing
+  - The Mental Landscape
   - Why This Window Matters
-  - >-
-    Understanding neuroplasticity is elevated in the context of plant medicine
-    healing
+  - Neuroplasticity Is Elevated
 faq:
   - question: What Happens in Your Body and Mind?
     answer: >-

@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: 'When NOT to Do Plant Medicine: Contraindications & Safety...'
+metaTitle: 'When NOT to Do Plant Medicine: Honest Contraindications'
 metaDescription: >-
   Plant medicine is powerful but not for everyone. Here is an honest guide to
   the medical, psychological, and situational contraindications you need to
@@ -18,23 +18,16 @@ excerpt: >-
   the medical, psychological, and situational contraindications you need to
   know.
 quickAnswer: >-
-  Plant medicine is powerful but not for everyone. Here is an honest guide to
-  the medical, psychological, and situational contraindications you need to
-  know.
+  Recent major surgery or physical trauma requires adequate recovery time before
+  the physical demands of ceremony are safe. The timeline depends on the
+  specific procedure and your physician's assessment. Inform your retreat center
+  about any surgeries within the past six months.
 keyTakeaways:
-  - >-
-    Understanding medical contraindications in the context of plant medicine
-    healing
-  - >-
-    Understanding other medical concerns in the context of plant medicine
-    healing
-  - >-
-    Understanding psychological contraindications in the context of plant
-    medicine healing
-  - Understanding trauma considerations in the context of plant medicine healing
-  - >-
-    Understanding medication interactions in the context of plant medicine
-    healing
+  - Medical Contraindications
+  - Other Medical Concerns
+  - Psychological Contraindications
+  - Trauma Considerations
+  - Medication Interactions
 faq:
   - question: What is medical contraindications?
     answer: >-

@@ -15,12 +15,14 @@ excerpt: >-
   Song is the primary tool of Shipibo healing. Learn how healers receive their
   songs, how singing works as medicine, and what to expect in ceremony.
 quickAnswer: >-
-  Song is the primary tool of Shipibo healing. Learn how healers receive their
-  songs, how singing works as medicine, and what to expect in ceremony.
+  In the Shipibo tradition, healing does not happen through physical
+  manipulation, pharmaceutical prescription, or talk therapy. It happens through
+  song. The voice is the healer's primary instrument, and icaros are the
+  medicine it delivers.
 keyTakeaways:
-  - Understanding song as medicine in the context of plant medicine healing
-  - Understanding not performance in the context of plant medicine healing
-  - Understanding how sound heals in the context of plant medicine healing
+  - Song as Medicine
+  - Not Performance
+  - How Sound Heals
   - The Specificity of Song
   - How Healers Receive Songs
 faq:

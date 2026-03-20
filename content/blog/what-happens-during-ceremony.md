@@ -15,16 +15,14 @@ excerpt: >-
   Wondering what a ceremony is really like? Learn the structure, stages, and
   what to expect from start to finish during a Shipibo healing ceremony.
 quickAnswer: >-
-  Wondering what a ceremony is really like? Learn the structure, stages, and
-  what to expect from start to finish during a Shipibo healing ceremony.
+  The hours before ceremony are part of the ceremony. How you spend them
+  matters.
 keyTakeaways:
-  - >-
-    Understanding before ceremony begins in the context of plant medicine
-    healing
-  - Understanding the day of in the context of plant medicine healing
-  - Understanding setting intention in the context of plant medicine healing
-  - Understanding the space in the context of plant medicine healing
-  - Understanding the opening in the context of plant medicine healing
+  - Before Ceremony Begins
+  - The Day Of
+  - Setting Intention
+  - The Space
+  - The Opening
 faq:
   - question: What is before ceremony begins?
     answer: >-

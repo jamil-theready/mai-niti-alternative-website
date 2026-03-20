@@ -1,5 +1,5 @@
 ---
-title: 'Nature Connection as Medicine: Healing Through the Natura...'
+title: Nature Connection and Healing
 slug: nature-connection-and-healing
 date: '2026-03-12'
 category: Wellness
@@ -8,7 +8,7 @@ tags: []
 readTime: 9 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Nature Connection and Healing: Why the Natural World Is M...'
+metaTitle: Nature Connection and Healing
 metaDescription: >-
   Indigenous healing traditions insist that nature is not just a backdrop for
   healing. It is the healing itself. Here is why connection to the land matters.
@@ -16,15 +16,14 @@ excerpt: >-
   Indigenous healing traditions insist that nature is not just a backdrop for
   healing. It is the healing itself. Here is why connection to the land matters.
 quickAnswer: >-
-  Indigenous healing traditions insist that nature is not just a backdrop for
-  healing. It is the healing itself. Here is why connection to the land matters.
+  In Shipibo cosmology, the natural world is not a collection of resources. It
+  is a community of living beings with their own intelligence, spirit, and
+  capacity for relationship.
 keyTakeaways:
   - Why Nature Is Central to Traditional Healing
   - Separation as the Root Illness
   - The Science of Nature and Wellbeing
-  - >-
-    Understanding beyond stress reduction in the context of plant medicine
-    healing
+  - Beyond Stress Reduction
   - Nature Connection in Plant Medicine Retreats
 faq:
   - question: Why Nature Is Central to Traditional Healing?

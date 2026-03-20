@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: What Is a Plant Dieta? Traditional Healing Practice Expla...
+metaTitle: What Is a Plant Dieta? The Foundation of Traditional Healing
 metaDescription: >-
   The plant dieta is the backbone of Shipibo medicine. Learn what it involves,
   why it matters, and how it transforms both healers and participants.
@@ -16,15 +16,13 @@ excerpt: >-
   The plant dieta is the backbone of Shipibo medicine. Learn what it involves,
   why it matters, and how it transforms both healers and participants.
 quickAnswer: >-
-  The plant dieta is the backbone of Shipibo medicine. Learn what it involves,
-  why it matters, and how it transforms both healers and participants.
+  The plant dieta is a structured period of isolation, dietary restriction, and
+  direct engagement with a specific plant teacher.
 keyTakeaways:
   - Understanding the Plant Dieta
   - 'A Practice, Not an Event'
   - What Happens During a Dieta
-  - >-
-    Understanding dreams and communication in the context of plant medicine
-    healing
+  - Dreams and Communication
   - The Rules and Restrictions
 faq:
   - question: What is understanding the plant dieta?

@@ -15,10 +15,11 @@ excerpt: >-
   Returning home after a healing retreat can feel disorienting. Discover daily
   habits, relationship strategies, and practices to keep your healing momentu...
 quickAnswer: >-
-  Returning home after a healing retreat can feel disorienting. Discover daily
-  habits, relationship strategies, and practices to keep your healing momentu...
+  You land at the airport. You turn on your phone. Thirty seven notifications.
+  Two voicemails. A text from your boss. Just like that, the world rushes back
+  in.
 keyTakeaways:
-  - Understanding the reentry challenge in the context of plant medicine healing
+  - The Reentry Challenge
   - Why Reentry Is Hard
   - Daily Habits That Anchor Healing
   - The Morning Non Negotiable

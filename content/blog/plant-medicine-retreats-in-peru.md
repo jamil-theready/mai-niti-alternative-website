@@ -1,5 +1,5 @@
 ---
-title: Why Peru Is the World's Leading Destination for Plant Med...
+title: Plant Medicine Retreats in Peru
 slug: plant-medicine-retreats-in-peru
 date: '2026-02-06'
 category: Preparation
@@ -16,15 +16,13 @@ excerpt: >-
   Peru has become the global center for plant medicine retreats. Understand why
   this South American country draws thousands of seekers every year.
 quickAnswer: >-
-  Peru has become the global center for plant medicine retreats. Understand why
-  this South American country draws thousands of seekers every year.
+  Peru is home to some of the oldest and most sophisticated plant medicine
+  traditions on earth.
 keyTakeaways:
   - Peru's Unbroken Healing Lineages
-  - >-
-    Understanding the biodiversity factor in the context of plant medicine
-    healing
+  - The Biodiversity Factor
   - The Legal and Cultural Landscape
-  - Understanding cultural acceptance in the context of plant medicine healing
+  - Cultural Acceptance
   - Key Regions for Plant Medicine in Peru
 faq:
   - question: What is peru's unbroken healing lineages?

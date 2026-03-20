@@ -15,16 +15,16 @@ excerpt: >-
   Grief that will not resolve can consume a life. Learn how plant medicine and
   Shipibo healing help people process loss and find peace without forgetting.
 quickAnswer: >-
-  Grief that will not resolve can consume a life. Learn how plant medicine and
-  Shipibo healing help people process loss and find peace without forgetting.
+  Grief is natural. It is the body's response to loss. In its healthy form,
+  grief moves through stages, eventually arriving at a place where the loss has
+  been integrated and life continues with the loved one held in memory rather
+  than in active anguish.
 keyTakeaways:
   - When Grief Gets Stuck
-  - Understanding complicated grief in the context of plant medicine healing
+  - Complicated Grief
   - Why Grief Gets Stuck
   - How Plant Medicine Helps With Grief
-  - >-
-    Understanding accessing blocked emotion in the context of plant medicine
-    healing
+  - Accessing Blocked Emotion
 faq:
   - question: When Grief Gets Stuck?
     answer: Grief is natural. It is the body's response to loss.

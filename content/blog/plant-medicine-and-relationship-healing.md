@@ -15,13 +15,14 @@ excerpt: >-
   Relationship patterns often drive people to seek healing. Learn how plant
   medicine reveals relational wounds and helps build healthier connections.
 quickAnswer: >-
-  Relationship patterns often drive people to seek healing. Learn how plant
-  medicine reveals relational wounds and helps build healthier connections.
+  People arrive at healing retreats for many reasons: depression, anxiety,
+  addiction, spiritual seeking. Regardless of the stated intention,
+  relationships almost always become central to the healing process.
 keyTakeaways:
   - Why Relationships Come Up in Ceremony
   - We Are Relational Beings
   - What the Medicine Shows
-  - Understanding family system in the context of plant medicine healing
+  - Family System
   - Common Patterns That Surface
 faq:
   - question: Why Relationships Come Up in Ceremony?

@@ -17,17 +17,15 @@ excerpt: >-
   essential safety protocols, red flags, and questions every potential
   participant.
 quickAnswer: >-
-  Safety should be your top priority when choosing a retreat. Learn the
-  essential safety protocols, red flags, and questions every potential
-  participant.
+  Plant medicine is powerful. Power without appropriate safeguards creates risk.
+  The vast majority of serious incidents in plant medicine settings are
+  attributable to inadequate safety practices, not to the medicine itself.
 keyTakeaways:
-  - Understanding why safety matters in the context of plant medicine healing
-  - Understanding the stakes in the context of plant medicine healing
+  - Why Safety Matters
+  - The Stakes
   - Safety and Healing Are Not Opposed
-  - Understanding due diligence in the context of plant medicine healing
-  - >-
-    Understanding essential safety protocols in the context of plant medicine
-    healing
+  - Due Diligence
+  - Essential Safety Protocols
 faq:
   - question: Why Safety Matters?
     answer: >-

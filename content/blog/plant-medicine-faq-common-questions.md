@@ -1,5 +1,5 @@
 ---
-title: 'Plant Medicine FAQ: Honest Answers to the Questions Every...'
+title: Plant Medicine FAQ Common Questions
 slug: plant-medicine-faq-common-questions
 date: '2026-03-23'
 category: Guidance
@@ -8,7 +8,7 @@ tags: []
 readTime: 10 min read
 image: ''
 imageAlt: ''
-metaTitle: 'Plant Medicine FAQ: Common Questions About Healing Retrea...'
+metaTitle: Plant Medicine FAQ Common Questions
 metaDescription: >-
   You have questions. We have answers. Here are the honest, no-nonsense
   responses to the most common questions about plant medicine retreats.
@@ -16,13 +16,14 @@ excerpt: >-
   You have questions. We have answers. Here are the honest, no-nonsense
   responses to the most common questions about plant medicine retreats.
 quickAnswer: >-
-  You have questions. We have answers. Here are the honest, no-nonsense
-  responses to the most common questions about plant medicine retreats.
+  Readiness is less about checking boxes and more about honest self-assessment.
+  Ask yourself: Are you willing to face whatever comes up, including things you
+  have been avoiding?
 keyTakeaways:
-  - Understanding before you arrive in the context of plant medicine healing
-  - Understanding practical concerns in the context of plant medicine healing
-  - Understanding during ceremony in the context of plant medicine healing
-  - Understanding fear and difficulty in the context of plant medicine healing
+  - Before You Arrive
+  - Practical Concerns
+  - During Ceremony
+  - Fear and Difficulty
   - Safety and Medical Questions
 faq:
   - question: How do I know if I am ready for plant medicine?

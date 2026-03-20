@@ -15,16 +15,14 @@ excerpt: >-
   Thinking about attending a plant medicine retreat with your partner? What
   couples need to know about doing deep healing work together.
 quickAnswer: >-
-  Thinking about attending a plant medicine retreat with your partner? What
-  couples need to know about doing deep healing work together.
+  Yes. Couples can attend a plant medicine retreat together. Many do. But it
+  comes with considerations that solo participants do not face.
 keyTakeaways:
   - Neither Outcome Is Wrong
-  - >-
-    Understanding a common misconception in the context of plant medicine
-    healing
+  - A Common Misconception
   - Shared Experience Creates Depth
-  - Understanding mutual support in the context of plant medicine healing
-  - Understanding processing together in the context of plant medicine healing
+  - Mutual Support
+  - Processing Together
 faq:
   - question: What is neither outcome is wrong?
     answer: >-

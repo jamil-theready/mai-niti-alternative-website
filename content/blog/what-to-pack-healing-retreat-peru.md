@@ -15,14 +15,14 @@ excerpt: >-
   The essential packing list for a healing retreat in the Peruvian Amazon. What
   to bring, what to leave behind, and what most people forget.
 quickAnswer: >-
-  The essential packing list for a healing retreat in the Peruvian Amazon. What
-  to bring, what to leave behind, and what most people forget.
+  Packing for a healing retreat in the Amazon is not like packing for a beach
+  vacation. You do not need fashion. You need function.
 keyTakeaways:
-  - Understanding the golden rule in the context of plant medicine healing
+  - The Golden Rule
   - What Most People Get Wrong
   - Choosing the Right Bag
-  - Understanding clothing essentials in the context of plant medicine healing
-  - Understanding fabric tips in the context of plant medicine healing
+  - Clothing Essentials
+  - Fabric Tips
 faq:
   - question: What is golden rule?
     answer: >-

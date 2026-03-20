@@ -15,13 +15,15 @@ excerpt: >-
   Burnout is more than being tired. It is a systemic collapse of energy and
   meaning. Learn how plant medicine addresses burnout at its deepest roots.
 quickAnswer: >-
-  Burnout is more than being tired. It is a systemic collapse of energy and
-  meaning. Learn how plant medicine addresses burnout at its deepest roots.
+  Burnout was officially recognized by the World Health Organization in 2019 as
+  an occupational phenomenon. But it extends far beyond the workplace. It is a
+  state of physical, emotional, and spiritual exhaustion that results from
+  prolonged, unrelenting stress.
 keyTakeaways:
   - What Burnout Actually Is
-  - Understanding beyond tiredness in the context of plant medicine healing
-  - Understanding the three dimensions in the context of plant medicine healing
-  - Understanding who burns out in the context of plant medicine healing
+  - Beyond Tiredness
+  - The Three Dimensions
+  - Who Burns Out
   - Why Conventional Approaches Fall Short
 faq:
   - question: What Burnout Actually Is?

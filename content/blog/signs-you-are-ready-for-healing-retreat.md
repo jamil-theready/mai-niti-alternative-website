@@ -15,8 +15,10 @@ excerpt: >-
   Not sure if you are ready for a healing retreat? These seven signs suggest the
   time might be now. An honest look at readiness and what it really means.
 quickAnswer: >-
-  Not sure if you are ready for a healing retreat? These seven signs suggest the
-  time might be now. An honest look at readiness and what it really means.
+  People ask this question more than almost any other: **"Am I ready?"**The
+  honest answer is that you will probably never feel completely ready. A healing
+  retreat is not something you can fully prepare for intellectually. It asks you
+  to step into the unknown. That is uncomfortable by design.
 keyTakeaways:
   - A Note on Timing
   - What This List Is Not

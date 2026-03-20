@@ -16,20 +16,14 @@ excerpt: >-
   Floral and plant baths are an essential but often overlooked element of
   traditional Amazonian healing. Learn what they are and why they matter.
 quickAnswer: >-
-  Floral and plant baths are an essential but often overlooked element of
-  traditional Amazonian healing. Learn what they are and why they matter.
+  Unlike plant medicine ceremony, which works through internal ingestion and
+  intense altered states, plant baths work through the skin, the body's largest
+  organ.
 keyTakeaways:
-  - >-
-    What Are Plant Baths in Traditional Medicine[Plant
-    baths](/blog/plant-baths-in-shipibo-tradition) are one of the oldest and
-    most widely used healing modalities in Amazonian medicine. In Shipibo
-    tradition, banos de plantas or banos de flores involve pouring water infused
-    with specific plants, flowers, and barks over the body for therapeutic
-    purposes. This practice is used for energetic cleansing, emotional healing,
-    protection, and attracting positive energy.
-  - Understanding an ancient practice in the context of plant medicine healing
+  - What Are Plant Baths in Traditional Medicine
+  - An Ancient Practice
   - Types of Plant Baths and Their Purposes
-  - Understanding specialized baths in the context of plant medicine healing
+  - Specialized Baths
   - How Plant Baths Are Prepared and Administered
 faq:
   - question: >-

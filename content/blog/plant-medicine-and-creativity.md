@@ -16,16 +16,13 @@ excerpt: >-
   Artists, musicians, and creative professionals seek plant medicine to break
   through blocks and access new depths. Here is what the tradition offers
   crea...
-quickAnswer: >-
-  Artists, musicians, and creative professionals seek plant medicine to break
-  through blocks and access new depths. Here is what the tradition offers
-  crea...
+quickAnswer: The impact of ceremony on creative process works through several channels.
 keyTakeaways:
   - Creativity and Plant Medicine
-  - Understanding why artists come in the context of plant medicine healing
-  - Understanding not a shortcut in the context of plant medicine healing
+  - Why Artists Come
+  - Not a Shortcut
   - How Ceremony Affects Creative Process
-  - Understanding expanded perception in the context of plant medicine healing
+  - Expanded Perception
 faq:
   - question: What is creativity and plant medicine?
     answer: >-

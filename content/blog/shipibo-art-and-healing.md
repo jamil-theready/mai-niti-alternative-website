@@ -17,14 +17,15 @@ excerpt: >-
   healing energy. Learn how these designs connect to ceremony, icaros, and
   medi...
 quickAnswer: >-
-  Shipibo kene patterns are more than beautiful art. They are visual maps of
-  healing energy. Learn how these designs connect to ceremony, icaros, and
-  medi...
+  Kene is the name for the intricate geometric patterns that define Shipibo
+  visual culture. You will find these designs on textiles, ceramics, body paint,
+  architectural elements, and jewelry. They are one of the most immediately
+  recognizable features of Shipibo identity.
 keyTakeaways:
   - 'Kene: The Shipibo Design Tradition'
-  - Understanding what you see in the context of plant medicine healing
-  - Understanding who creates kene in the context of plant medicine healing
-  - Understanding historical depth in the context of plant medicine healing
+  - What You See
+  - Who Creates Kene
+  - Historical Depth
   - Patterns as Medicine Maps
 faq:
   - question: 'What is kene: the shipibo design tradition?'

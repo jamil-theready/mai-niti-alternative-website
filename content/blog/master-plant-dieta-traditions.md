@@ -15,12 +15,14 @@ excerpt: >-
   The master plant dieta is the foundation of Shipibo healing. Learn what it
   involves, which plants are used, and why this practice takes years to master.
 quickAnswer: >-
-  The master plant dieta is the foundation of Shipibo healing. Learn what it
-  involves, which plants are used, and why this practice takes years to master.
+  A master plant dieta is a structured period of isolation, fasting, and plant
+  communion that forms the core of Shipibo healing training and practice. It is
+  not a diet in the weight loss sense. It is a protocol for opening
+  communication between humans and plant spirits.
 keyTakeaways:
   - What a Master Plant Dieta Is
-  - Understanding the basic framework in the context of plant medicine healing
-  - Understanding who diets in the context of plant medicine healing
+  - The Basic Framework
+  - Who Diets
   - Not a Modern Invention
   - The Role of Specific Plants
 faq:

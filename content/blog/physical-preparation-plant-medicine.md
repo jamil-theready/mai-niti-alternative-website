@@ -15,14 +15,14 @@ excerpt: >-
   A complete guide to physically preparing your body for a plant medicine
   retreat. From diet and exercise to sleep and medications, everything covered.
 quickAnswer: >-
-  A complete guide to physically preparing your body for a plant medicine
-  retreat. From diet and exercise to sleep and medications, everything covered.
+  Your body is the vessel for the healing work. If the vessel is not prepared,
+  the work becomes harder. Sometimes significantly harder.
 keyTakeaways:
   - What the Body Holds
-  - Understanding the timeline in the context of plant medicine healing
+  - The Timeline
   - What to Remove and Why
-  - Understanding what to add in the context of plant medicine healing
-  - Understanding gut health in the context of plant medicine healing
+  - What to Add
+  - Gut Health
 faq:
   - question: What the Body Holds?
     answer: >-

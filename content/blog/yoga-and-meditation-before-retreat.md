@@ -15,8 +15,10 @@ excerpt: >-
   Learn how yoga and meditation before a healing retreat calm your body, sharpen
   your awareness, and help you go deeper during traditional plant medicine ...
 quickAnswer: >-
-  Learn how yoga and meditation before a healing retreat calm your body, sharpen
-  your awareness, and help you go deeper during traditional plant medicine ...
+  Most people who attend retreats have some familiarity with yoga or meditation.
+  But even complete beginners benefit from starting a simple practice in the
+  weeks before arrival. You do not need to be flexible. You do not need to sit
+  in lotus position. You just need to show up consistently.
 keyTakeaways:
   - Why Body and Breath Work Matter Before a Retreat
   - You Do Not Need Experience

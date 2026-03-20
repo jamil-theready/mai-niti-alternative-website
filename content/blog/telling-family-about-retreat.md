@@ -15,8 +15,10 @@ excerpt: >-
   Telling your family about a healing retreat in Peru can feel daunting. Here is
   how to have the conversation with honesty, clarity, and confidence.
 quickAnswer: >-
-  Telling your family about a healing retreat in Peru can feel daunting. Here is
-  how to have the conversation with honesty, clarity, and confidence.
+  That worry is usually rooted in love. Your parents, partner, or siblings care
+  about your safety. They may not understand what you are doing or why. And they
+  have probably seen sensationalized media coverage that paints an inaccurate
+  picture of plant medicine traditions.
 keyTakeaways:
   - Why This Conversation Feels So Hard
   - What to Say and What to Leave Out

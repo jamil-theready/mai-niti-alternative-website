@@ -15,26 +15,15 @@ excerpt: >-
   A critical safety guide on medications that interact with traditional plant
   medicine. What to stop, when to taper, and how to talk to your doctor.
 quickAnswer: >-
-  A critical safety guide on medications that interact with traditional plant
-  medicine. What to stop, when to taper, and how to talk to your doctor.
+  This is not a topic where you can afford to cut corners. **Medication
+  interactions with traditional plant medicine are a real safety concern.**
+  People have been seriously harmed by ignoring this.
 keyTakeaways:
-  - >-
-    Understanding why interactions happen in the context of plant medicine
-    healing
+  - Why Interactions Happen
   - The Non Negotiable Rule
-  - >-
-    SSRIs (Selective Serotonin Reuptake Inhibitors)These are the most commonly
-    prescribed antidepressants in the world. They directly affect serotonin
-    levels.- Fluoxetine (Prozac) , requires the longest washout period due to
-    its long half life. 
-  - >-
-    SNRIs (Serotonin Norepinephrine Reuptake Inhibitors)- Venlafaxine (Effexor)
-    , minimum two to four weeks off- Duloxetine (Cymbalta) , minimum two to four
-    weeks off
-  - >-
-    MAOIs (Monoamine Oxidase Inhibitors)- Phenelzine (Nardil)- Tranylcypromine
-    (Parnate)These interact directly with the mechanism of many plant
-    medicines. 
+  - SSRIs (Selective Serotonin Reuptake Inhibitors)
+  - SNRIs (Serotonin Norepinephrine Reuptake Inhibitors)
+  - MAOIs (Monoamine Oxidase Inhibitors)
 faq:
   - question: Why Interactions Happen?
     answer: >-
