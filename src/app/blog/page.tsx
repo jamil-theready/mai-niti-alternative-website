@@ -62,7 +62,7 @@ export default function BlogIndex() {
           {/* Featured post — full width */}
           <Link
             href={`/blog/${featured.slug}`}
-            className="group relative mb-8 flex aspect-[2/1] flex-col justify-end overflow-hidden rounded-2xl"
+            className="group relative mb-8 flex aspect-[3/4] flex-col justify-end overflow-hidden rounded-2xl sm:aspect-[3/2] lg:aspect-[2/1]"
           >
             {featured.image ? (
               <div className="absolute inset-0 bg-brown-200/30">
