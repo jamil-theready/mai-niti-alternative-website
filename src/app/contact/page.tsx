@@ -50,8 +50,8 @@ export default function ContactPage() {
       <section className="bg-cream py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="grid gap-12 lg:grid-cols-5">
-            {/* Left: Photo — 2 cols */}
-            <div className="aspect-[4/5] overflow-hidden rounded-2xl lg:col-span-2 lg:aspect-auto">
+            {/* Left: Photo — 2 cols (shows below form on mobile) */}
+            <div className="order-2 aspect-[3/2] overflow-hidden rounded-2xl lg:order-1 lg:col-span-2 lg:aspect-auto">
               <img
                 src="/images/site/retreat-4.jpg"
                 alt="People connecting and sharing at a Mai Niti retreat"
@@ -60,8 +60,8 @@ export default function ContactPage() {
               />
             </div>
 
-            {/* Right: Form — 3 cols */}
-            <div className="lg:col-span-3">
+            {/* Right: Form — 3 cols (shows above photo on mobile) */}
+            <div className="order-1 lg:order-2 lg:col-span-3">
               <h2 className="font-serif text-3xl text-brown-900 md:text-4xl">
                 Send Us a <span className="italic">Message</span>
               </h2>
