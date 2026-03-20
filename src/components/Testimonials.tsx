@@ -74,7 +74,7 @@ export default function Testimonials() {
                 >
                   <div className="grid overflow-hidden rounded-2xl bg-cream md:grid-cols-2">
                     {/* Photo side */}
-                    <div className="relative aspect-[4/5] md:aspect-auto">
+                    <div className="relative aspect-[4/3] md:aspect-[3/4] md:max-h-[500px]">
                       <img
                         src={t.image}
                         alt={t.imageAlt}

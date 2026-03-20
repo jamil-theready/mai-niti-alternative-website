@@ -101,7 +101,8 @@ export default function Hero() {
             data-parallax-layer="4"
             src="/images/hero/hiker.webp"
             alt="Hiker standing on cliff overlooking the valley"
-            className="absolute inset-x-0 -bottom-[5%] top-[15%] w-full scale-[0.85] object-cover object-bottom"
+            className="pointer-events-none absolute left-1/2 z-20 w-[55vw] max-w-[250px] -translate-x-1/2 md:w-[22vw] md:max-w-[280px]"
+            style={{ bottom: "12%" }}
           />
         </div>
       </section>
