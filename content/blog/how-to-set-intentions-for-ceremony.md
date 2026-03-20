@@ -1,21 +1,46 @@
 ---
-title: "How to Set Intentions for Plant Medicine Ceremony"
-slug: "how-to-set-intentions-for-ceremony"
-date: "2026-03-12"
-category: "Preparation"
-hook: "Ask clearly. Hold loosely. Trust deeply."
+title: How to Set Intentions for Plant Medicine Ceremony
+slug: how-to-set-intentions-for-ceremony
+date: '2026-03-12'
+category: Preparation
+hook: Ask clearly. Hold loosely. Trust deeply.
 tags: []
-readTime: "9 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Setting Intentions for Plant Medicine Ceremony: A Practic..."
-metaDescription: "Your intention shapes your ceremony experience. Learn how to craft a clear, open, and effective intention before your retreat."
-excerpt: "Your intention shapes your ceremony experience. Learn how to craft a clear, open, and effective intention before your retreat."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Healing Center"
-language: "en"
+readTime: 9 min read
+image: ''
+imageAlt: ''
+metaTitle: 'Setting Intentions for Plant Medicine Ceremony: A Practic...'
+metaDescription: >-
+  Your intention shapes your ceremony experience. Learn how to craft a clear,
+  open, and effective intention before your retreat.
+excerpt: >-
+  Your intention shapes your ceremony experience. Learn how to craft a clear,
+  open, and effective intention before your retreat.
+quickAnswer: >-
+  Your intention shapes your ceremony experience. Learn how to craft a clear,
+  open, and effective intention before your retreat.
+keyTakeaways:
+  - What an Intention Is and Why It Matters
+  - The Difference Between Intention and Expectation
+  - How to Craft an Effective Intention
+  - Examples of Strong Intentions
+  - Common Mistakes in Setting Intentions
+faq:
+  - question: What an Intention Is and Why It Matters?
+    answer: >-
+      An intention is the question, prayer, or direction you bring into
+      [ceremony](/blog/what-happens-during-ceremony). It gives the medicine
+      something to work with.
+  - question: What is difference between intention and expectation?
+    answer: >-
+      Intention says: "I want to understand my relationship with anger."
+      Expectation says: "I want to see a vision that explains exactly why I am
+      angry at my father and then feel complete resolution by morn
+  - question: How to Craft an Effective Intention?
+    answer: >-
+      Start with what hurts. Not what you think should be addressed based on
+      your self-help reading, but what actually keeps you up at night.
+author: Mai Niti Healing Center
+language: en
 draft: false
 featured: false
 ---
@@ -25,7 +50,6 @@ featured: false
 An intention is the question, prayer, or direction you bring into [ceremony](/blog/what-happens-during-ceremony). It gives the medicine something to work with. Without an intention, the experience can still be powerful, but it may lack focus or coherence. With a clear intention, the medicine has a thread to follow, and your conscious mind has an anchor to return to when the experience becomes overwhelming.
 
 Think of an intention as a compass rather than a GPS coordinate. You are pointing yourself in a direction, not demanding a specific destination. The medicine will take you where you need to go, but your intention influences the trajectory. A well-crafted intention opens doors. A rigid demand slams them shut.
-
 
 ## The Difference Between Intention and Expectation
 
@@ -39,7 +63,6 @@ Start with what hurts. Not what you think should be addressed based on your self
 
 Keep it simple. One clear question or theme per ceremony is enough. Trying to address your childhood trauma, your career direction, your romantic patterns, and your spiritual awakening in a single session dilutes the focus. Choose the thread that feels most alive, most urgent, or most frightening. That is usually where the medicine wants to go anyway.
 
-
 ## Examples of Strong Intentions
 
 "Show me what I need to see about my relationship with control." "Help me understand why I keep choosing partners who cannot be emotionally present." "I want to grieve the loss of my mother fully." "Show me what is blocking me from trusting myself." "Help me release the anger I have been carrying since childhood."Notice that each of these is open-ended. None demands a specific vision or outcome. Each identifies a genuine area of struggle and invites the medicine to illuminate it. They are honest without being dramatic. Specific without being rigid. This balance between clarity and openness is the hallmark of a well-crafted intention that the [healer](/blog/role-of-the-curandero) and the medicine can work with effectively.
@@ -49,7 +72,6 @@ Keep it simple. One clear question or theme per ceremony is enough. Trying to ad
 The most common mistake is being too vague. "I want healing" or "I want enlightenment" or "show me the truth" sound profound but give the medicine nothing specific to work with. These catch-all intentions often result in diffuse, confusing experiences that are hard to integrate. Specificity is not rigidity. It is focus.
 
 Another common mistake is setting an intention for someone else. "I want my mother to understand me" or "I want my ex to forgive me." You cannot use ceremony to change another person. You can only change your relationship to the situation. Reframe these as: "Help me understand my pain around my mother" or "Show me how to release my need for my ex's forgiveness."
-
 
 ## The Performance Intention
 
@@ -63,7 +85,6 @@ Once you have set your intention, hold it gently as the ceremony begins. Repeat 
 
 During ceremony, your experience may seem entirely unrelated to your intention. You may have asked about your relationship with your father and instead find yourself reliving a childhood memory about a teacher. Trust the process. The medicine often approaches themes indirectly, from angles your conscious mind would never consider. What seems irrelevant in the moment frequently reveals its connection during [integration](/blog/set-and-setting-plant-medicine).
 
-
 ## Returning to Your Intention
 
 If the experience becomes overwhelming or disorienting, your intention can serve as an anchor. Silently repeating your intention, or even just the core feeling behind it, gives your mind something stable to hold while everything else moves. It is not a mantra to block the experience. It is a compass to remind you why you are here.
@@ -75,7 +96,6 @@ Some ceremonies will address your intention directly and powerfully. Others will
 Experienced participants learn quickly that the medicine has its own intelligence. You may set an intention about your career and instead receive a deep healing around your body image. You may ask about love and find yourself processing grief about your childhood. This is not the medicine failing. It is the medicine prioritizing.
 
 The [plant teachers](/blog/plant-teachers-in-shipibo-tradition) see the full landscape of what you carry. Your conscious mind sees only what it is willing to look at. When the medicine redirects your experience away from your stated intention, it is usually because there is something more urgent underneath. The career confusion might be rooted in a self-worth wound that needs attention first. The relationship question might require processing old grief before it can be meaningfully addressed.
-
 
 ## Surrender as Practice
 

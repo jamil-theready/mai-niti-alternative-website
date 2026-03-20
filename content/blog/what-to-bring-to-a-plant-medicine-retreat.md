@@ -1,21 +1,49 @@
 ---
-title: "What to Bring to a Plant Medicine Retreat: The Complete P..."
-slug: "what-to-bring-to-a-plant-medicine-retreat"
-date: "2026-03-12"
-category: "Preparation"
-hook: "Pack light. Arrive ready."
+title: 'What to Bring to a Plant Medicine Retreat: The Complete P...'
+slug: what-to-bring-to-a-plant-medicine-retreat
+date: '2026-03-12'
+category: Preparation
+hook: Pack light. Arrive ready.
 tags: []
-readTime: "9 min read"
-image: ""
-imageAlt: ""
-metaTitle: "What to Bring to a Plant Medicine Retreat: Packing List &..."
-metaDescription: "Packing for a plant medicine retreat in Peru is different from packing for a vacation. Here is exactly what to bring and what to leave at home."
-excerpt: "Packing for a plant medicine retreat in Peru is different from packing for a vacation. Here is exactly what to bring and what to leave at home."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Healing Center"
-language: "en"
+readTime: 9 min read
+image: ''
+imageAlt: ''
+metaTitle: 'What to Bring to a Plant Medicine Retreat: Packing List &...'
+metaDescription: >-
+  Packing for a plant medicine retreat in Peru is different from packing for a
+  vacation. Here is exactly what to bring and what to leave at home.
+excerpt: >-
+  Packing for a plant medicine retreat in Peru is different from packing for a
+  vacation. Here is exactly what to bring and what to leave at home.
+quickAnswer: >-
+  Packing for a plant medicine retreat in Peru is different from packing for a
+  vacation. Here is exactly what to bring and what to leave at home.
+keyTakeaways:
+  - Clothing and Comfort Essentials
+  - Rain and Temperature Prep
+  - Health and Hygiene Items
+  - >-
+    Understanding jungle-specific health items in the context of plant medicine
+    healing
+  - Ceremony and Personal Practice Items
+faq:
+  - question: What is clothing and comfort essentials?
+    answer: >-
+      Plant medicine retreats in Peru typically take place in jungle or highland
+      settings where conditions are very different from what most Westerners are
+      used to.
+  - question: What is rain and temperature prep?
+    answer: >-
+      If your retreat is in the Amazon, expect rain. A lightweight rain jacket
+      or poncho is non-negotiable. Waterproof sandals and a pair of sturdy shoes
+      for muddy paths will save you frustration.
+  - question: What is health and hygiene items?
+    answer: >-
+      Bring your own toiletries in travel sizes. Many jungle retreats operate on
+      limited water systems, so biodegradable soap, shampoo, and toothpaste are
+      strongly recommended.
+author: Mai Niti Healing Center
+language: en
 draft: false
 featured: false
 ---
@@ -25,7 +53,6 @@ featured: false
 Plant medicine retreats in Peru typically take place in jungle or highland settings where conditions are very different from what most Westerners are used to. Pack lightweight, breathable clothing in natural fabrics like cotton and linen. Synthetic materials trap heat and moisture in the jungle environment. Bring enough for your entire stay plus a few extras since laundry facilities may be limited.
 
 Long sleeves and long pants are essential for evenings when mosquitoes are most active. Light colored clothing is generally preferred in ceremonial settings. Many traditions consider white or light natural tones appropriate for ceremony. Dark colors are sometimes associated with heavier energies, though each center may have its own guidance on this.
-
 
 ## Rain and Temperature Prep
 
@@ -39,7 +66,6 @@ Bring your own toiletries in travel sizes. Many jungle retreats operate on limit
 
 A personal first aid kit is wise. Include basics like bandages, antiseptic wipes, anti-itch cream for insect bites, electrolyte packets, and any personal medications you take regularly. Discuss all medications with your retreat center well in advance, as some medications are contraindicated with plant medicine. Your center will advise you on what to stop, taper, or continue.
 
-
 ## Jungle-Specific Health Items
 
 Insect repellent is essential in the Amazon. DEET-based repellents are most effective, though some participants prefer natural alternatives like lemon eucalyptus oil. A mosquito head net can be useful for sleeping if your accommodation does not have screens. Bring a headlamp or flashlight with extra batteries since many retreat centers have limited electricity, especially on jungle paths at night.
@@ -51,7 +77,6 @@ Sunscreen, lip balm with SPF, and a refillable water bottle round out the essent
 Most retreat centers provide a mattress or mat, pillow, and blanket for ceremony. However, bringing your own pillowcase, light blanket, or shawl adds a layer of personal comfort that can make a significant difference during long ceremony nights. Having something familiar and soft nearby provides grounding when experiences become intense.
 
 A journal and pen are perhaps the most important items you can bring. The days between ceremonies are prime time for processing and capturing insights that arise during your experience. Write in the morning when memories are freshest. Do not rely on your phone for this. The act of handwriting engages a different part of the brain and supports deeper [reflection](/blog/plant-medicine-and-creativity).
-
 
 ## Optional but Valuable
 
@@ -65,7 +90,6 @@ Leave your expectations at home. This sounds abstract, but it is practical advic
 
 Do not bring recreational substances of any kind. This includes alcohol, cannabis, and any other mood-altering substances. Most centers prohibit these entirely, and using them during a retreat can compromise your safety and the integrity of your healing process. Your body needs to be as clean as possible for the medicine to work effectively.
 
-
 ## Technology Boundaries
 
 Consider leaving your laptop at home unless you absolutely need it. Many retreats limit or prohibit phone and internet use, and for good reason. Constant connectivity prevents the deep introspection that retreat time offers. If you must bring your phone, plan to use it only for essential communication during designated times.
@@ -77,7 +101,6 @@ Avoid bringing expensive jewelry, large amounts of cash, or valuables that would
 The most important things you bring to a retreat cannot fit in a suitcase. Your willingness to be honest with yourself. Your courage to face whatever arises. Your commitment to the process even when it gets uncomfortable. These inner resources matter far more than any physical item on your packing list.
 
 Before you pack a single item, spend time with your intention. Why are you going? What are you hoping to address or explore? Write your intention down. Refine it. Let it evolve as your departure date approaches. Arriving with a clear but flexible intention gives the [medicine](/blog/what-happens-during-ceremony) something to work with while leaving room for the unexpected.
-
 
 ## Practical Pre-Departure Checklist
 

@@ -1,20 +1,48 @@
 ---
-title: "Preparing Your Body for Ceremony: Nutrition and Movement"
-slug: "preparing-your-body-for-ceremony"
-date: "2026-03-05"
-category: "Preparation"
+title: 'Preparing Your Body for Ceremony: Nutrition and Movement'
+slug: preparing-your-body-for-ceremony
+date: '2026-03-05'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Preparing Your Body for Ceremony"
-metaDescription: "How to prepare your body for a healing ceremony through nutrition and movement. A practical guide to physical readiness that goes beyond the basic dieta."
-excerpt: "How to prepare your body for a healing ceremony through nutrition and movement. A practical guide to physical readiness that goes beyond the basic dieta."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: Preparing Your Body for Ceremony
+metaDescription: >-
+  How to prepare your body for a healing ceremony through nutrition and
+  movement. A practical guide to physical readiness that goes beyond the basic
+  dieta.
+excerpt: >-
+  How to prepare your body for a healing ceremony through nutrition and
+  movement. A practical guide to physical readiness that goes beyond the basic
+  dieta.
+quickAnswer: >-
+  How to prepare your body for a healing ceremony through nutrition and
+  movement. A practical guide to physical readiness that goes beyond the basic
+  dieta.
+keyTakeaways:
+  - What "Body Ready" Means
+  - Why This Matters for Ceremony
+  - Understanding nutrient dense eating in the context of plant medicine healing
+  - Understanding gut preparation in the context of plant medicine healing
+  - >-
+    Practical Tips- Start a probiotic supplement two weeks out- Eat prebiotic
+    foods (garlic, onions, bananas) to feed good bacteria- Reduce processed food
+    to minimize gut inflammation- Stay hydrated to support digestion
+faq:
+  - question: What "Body Ready" Means?
+    answer: >-
+      It does not mean fit. You do not need to run a marathon or bench press
+      your bodyweight. It means your body is:
+  - question: Why This Matters for Ceremony?
+    answer: >-
+      When your body is prepared, the medicine can focus on the deeper work.
+      When your body is depleted, the medicine spends energy just bringing you
+      to baseline.
+  - question: What is nutrient dense eating?
+    answer: 'In the two weeks before your retreat, focus on foods that nourish deeply:'
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -23,7 +51,9 @@ The [dieta](/blog/dieta-explained) tells you what not to eat. This guide goes fu
 
 Ceremony is physically demanding. You sit or lie in one position for hours. You may purge intensely. You may sweat, shake, or cry. Your body needs to be in a state where it can handle these demands without breaking down.
 
-## What "Body Ready" Means
+## What 
+
+"Body Ready" Means
 
 It does not mean fit. You do not need to run a marathon or bench press your bodyweight. It means your body is:
 
@@ -35,8 +65,7 @@ It does not mean fit. You do not need to run a marathon or bench press your body
 
 - **Flexible** , able to sit comfortably for extended periods
 
-- **Calm** , with a nervous system that is not constantly activatedThink of your body as the instrument through which the healing plays. A well-tuned instrument produces clearer, more resonant sound. A neglected one still makes noise, but the music is muddled. The preparation you do in the weeks before ceremony determines how clearly the medicine can communicate with your system.#
-
+- **Calm** , with a nervous system that is not constantly activatedThink of your body as the instrument through which the healing plays. A well-tuned instrument produces clearer, more resonant sound. A neglected one still makes noise, but the music is muddled. The preparation you do in the weeks before ceremony determines how clearly the medicine can communicate with your system.
 ## Why This Matters for Ceremony
 
 When your body is prepared, the medicine can focus on the deeper work. When your body is depleted, the medicine spends energy just bringing you to baseline. That is energy that could have gone toward transformation.
@@ -63,9 +92,10 @@ In the two weeks before your retreat, focus on foods that nourish deeply:
 
 Your gut processes the medicine. A healthy gut processes it more effectively. The [gut brain connection](https://www.health.harvard.edu/diseases-and-conditions/the-gut-brain-connection) documented by Harvard Health explains why digestive health directly affects emotional and mental processing.
 
-The relationship between gut health and emotional processing is not metaphorical. Your gut produces roughly 90 percent of your body's serotonin. It contains more neurons than your spinal cord. When traditional healers say the medicine works through the stomach, they are describing something that neuroscience now confirms from a different angle.#
+The relationship between gut health and emotional processing is not metaphorical. Your gut produces roughly 90 percent of your body's serotonin. It contains more neurons than your spinal cord. When traditional healers say the medicine works through the stomach, they are describing something that neuroscience now confirms from a different angle.
+## Practical Tips
 
-## Practical Tips- Start a probiotic supplement two weeks out- Eat prebiotic foods (garlic, onions, bananas) to feed good bacteria- Reduce processed food to minimize gut inflammation- Stay hydrated to support digestion
+- Start a probiotic supplement two weeks out- Eat prebiotic foods (garlic, onions, bananas) to feed good bacteria- Reduce processed food to minimize gut inflammation- Stay hydrated to support digestion
 
 For the complete dietary guidelines, see our [physical preparation guide](/blog/physical-preparation-plant-medicine).
 
@@ -85,20 +115,26 @@ Your autonomous nervous system has two modes: sympathetic (fight or flight) and 
 
 - **Tai chi or qi gong** , slow, deliberate movement that calms the nervous system.
 
-The shift from intense to gentle movement can feel counterintuitive if you are used to pushing hard. You might feel like you are not doing enough. That feeling is your sympathetic nervous system talking — the part of you that equates effort with value. In this context, less effort is more preparation. The softer your approach, the more ready your body will be.#
+The shift from intense to gentle movement can feel counterintuitive if you are used to pushing hard. You might feel like you are not doing enough. That feeling is your sympathetic nervous system talking — the part of you that equates effort with value. In this context, less effort is more preparation. The softer your approach, the more ready your body will be.
+## What to Avoid
 
-## What to Avoid- High intensity interval training- Heavy weightlifting- Competitive sports- Running long distances
+- High intensity interval training- Heavy weightlifting- Competitive sports- Running long distances
 
 These activate the sympathetic nervous system. In the two weeks before your retreat, shift from intensity to gentleness.
 
 The final week before departure is about settling, not ramping up.
 
-## Nutrition- Meals should be simple and plain: rice, steamed vegetables, light protein- Reduce portion sizes slightly. You want your digestive system calm, not working overtime.- Drink 2 to 3 liters of water daily- Stop caffeine entirely if you have not already (or reduce to minimal)
+## Nutrition
 
-## Movement- Gentle walks only- Restorative yoga or simple stretching- No strenuous exercise
+- Meals should be simple and plain: rice, steamed vegetables, light protein- Reduce portion sizes slightly. You want your digestive system calm, not working overtime.- Drink 2 to 3 liters of water daily- Stop caffeine entirely if you have not already (or reduce to minimal)
 
-## Sleep- Go to bed earlier than usual- No screens in the last hour before sleep- Aim for 8 hours per night#
+## Movement
 
+- Gentle walks only- Restorative yoga or simple stretching- No strenuous exercise
+
+## Sleep
+
+- Go to bed earlier than usual- No screens in the last hour before sleep- Aim for 8 hours per night
 ## The Mental Side
 
 Begin a [digital detox](/blog/digital-detox-before-retreat). Reduce social engagements. Create quiet space in your day. The less stimulation you take in, the more settled you will feel when you arrive.
@@ -121,9 +157,10 @@ Eat your last meal by early afternoon. Keep it simple: rice, steamed vegetables,
 
 ## Afternoon
 
-Drink water with electrolytes. Rest. Nap if you can. Stretch gently. Sit in silence. Review your [intention](/blog/setting-intention-ceremony).#
+Drink water with electrolytes. Rest. Nap if you can. Stretch gently. Sit in silence. Review your [intention](/blog/setting-intention-ceremony).
+## What Not to Do
 
-## What Not to Do- Do not eat after the cutoff time your center gives you- Do not drink caffeine- Do not exercise- Do not engage in stressful conversations or activities
+- Do not eat after the cutoff time your center gives you- Do not drink caffeine- Do not exercise- Do not engage in stressful conversations or activities
 
 ## Before Entering the Maloca
 

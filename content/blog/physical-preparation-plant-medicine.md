@@ -1,20 +1,45 @@
 ---
-title: "Physical Preparation for Plant Medicine: A Complete Guide"
-slug: "physical-preparation-plant-medicine"
-date: "2026-02-07"
-category: "Preparation"
+title: 'Physical Preparation for Plant Medicine: A Complete Guide'
+slug: physical-preparation-plant-medicine
+date: '2026-02-07'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Physical Preparation for Plant Medicine"
-metaDescription: "A complete guide to physically preparing your body for a plant medicine retreat. From diet and exercise to sleep and medications, everything covered."
-excerpt: "A complete guide to physically preparing your body for a plant medicine retreat. From diet and exercise to sleep and medications, everything covered."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: Physical Preparation for Plant Medicine
+metaDescription: >-
+  A complete guide to physically preparing your body for a plant medicine
+  retreat. From diet and exercise to sleep and medications, everything covered.
+excerpt: >-
+  A complete guide to physically preparing your body for a plant medicine
+  retreat. From diet and exercise to sleep and medications, everything covered.
+quickAnswer: >-
+  A complete guide to physically preparing your body for a plant medicine
+  retreat. From diet and exercise to sleep and medications, everything covered.
+keyTakeaways:
+  - What the Body Holds
+  - Understanding the timeline in the context of plant medicine healing
+  - What to Remove and Why
+  - Understanding what to add in the context of plant medicine healing
+  - Understanding gut health in the context of plant medicine healing
+faq:
+  - question: What the Body Holds?
+    answer: >-
+      Traditional healers understand something that modern science is catching
+      up to: the body stores more than just physical matter. Tension, trauma,
+      grief, fear.
+  - question: What is timeline?
+    answer: >-
+      Start your physical preparation at least **two weeks before your
+      retreat**. Four weeks is better if you have the time. The earlier you
+      start, the more settled your body will be when you arrive.
+  - question: What to Remove and Why?
+    answer: >-
+      - **Alcohol** , taxes the liver, which needs to be clear to process plant
+      medicine effectively
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -27,8 +52,7 @@ Physical preparation is not about getting into peak fitness. It is about creatin
 
 Traditional healers understand something that modern science is catching up to: the body stores more than just physical matter. Tension, trauma, grief, fear. These live in your muscles, your gut, your nervous system. Research from institutions like [Harvard Health](https://www.health.harvard.edu/mind-and-mood/the-gut-brain-connection) has documented the gut brain connection and how physical states affect emotional processing.
 
-Physical preparation is about clearing the channels so these stored experiences can surface and release during ceremony.#
-
+Physical preparation is about clearing the channels so these stored experiences can surface and release during ceremony.
 ## The Timeline
 
 Start your physical preparation at least **two weeks before your retreat**. Four weeks is better if you have the time. The earlier you start, the more settled your body will be when you arrive.
@@ -61,8 +85,7 @@ We cover the [dieta in detail in a separate guide](/blog/dieta-explained). Here 
 
 - **Fruits** , natural sugars from whole fruit are fine
 
-- **Water** , aim for 2 to 3 liters daily. Hydration supports every system in your body.#
-
+- **Water** , aim for 2 to 3 liters daily. Hydration supports every system in your body.
 ## Gut Health
 
 Your gut plays a central role in how you process plant medicine. Consider adding a probiotic in the weeks leading up to your retreat. Fermented foods are traditionally avoided during the dieta, but a probiotic supplement can help prepare your gut lining.
@@ -89,13 +112,14 @@ Fit, heavy lifting, intense cardio. These stress your nervous system. You want t
 
 - **Stretching** , ceremony involves sitting or lying for hours. Flexibility helps.
 
-- **Swimming** , gentle and grounding. Water has its own calming properties.#
-
+- **Swimming** , gentle and grounding. Water has its own calming properties.
 ## The Nervous System Connection
 
 Everything you do physically affects your nervous system. Intense exercise activates the sympathetic (fight or flight) response. Gentle movement activates the parasympathetic (rest and digest) response. You want to arrive at the retreat in a parasympathetic state.
 
-## How Much Is Enough30 to 45 minutes of gentle movement daily is plenty. This is not training for a marathon. It is preparing your body to be still, open, and receptive.
+## How Much Is Enough
+
+30 to 45 minutes of gentle movement daily is plenty. This is not training for a marathon. It is preparing your body to be still, open, and receptive.
 
 Sleep is when your body repairs itself. In the weeks before a retreat, sleep becomes even more important.
 
@@ -111,8 +135,7 @@ Ceremony nights are long. You may be awake until 2 or 3 AM. If you arrive sleep 
 
 - **Reduce caffeine after noon** , caffeine's half life is five to six hours. An afternoon coffee affects your sleep more than you think.
 
-- **Create a wind down routine** , journaling, stretching, herbal tea, reading. Signal to your body that it is time to slow down.#
-
+- **Create a wind down routine** , journaling, stretching, herbal tea, reading. Signal to your body that it is time to slow down.
 ## Naps Are Welcome
 
 If you can nap during the day, do it. Short naps of 20 to 30 minutes can reduce stress hormones and improve emotional regulation. Both of these support the retreat experience.
@@ -127,8 +150,7 @@ This section is the most important safety consideration in the entire preparatio
 
 ## Medications That Require Attention
 
-Certain medications can interact dangerously with traditional plant medicines. **This is not negotiable.** You must disclose all medications to your retreat center and consult with your doctor.#
-
+Certain medications can interact dangerously with traditional plant medicines. **This is not negotiable.** You must disclose all medications to your retreat center and consult with your doctor.
 ## Highest Risk Categories
 
 - **SSRIs** (Selective Serotonin Reuptake Inhibitors) , Prozac, Zoloft, Lexapro, Celexa

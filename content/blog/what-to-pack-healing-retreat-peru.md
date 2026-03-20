@@ -1,20 +1,45 @@
 ---
-title: "What to Pack for a Healing Retreat in Peru"
-slug: "what-to-pack-healing-retreat-peru"
-date: "2026-03-03"
-category: "Preparation"
+title: What to Pack for a Healing Retreat in Peru
+slug: what-to-pack-healing-retreat-peru
+date: '2026-03-03'
+category: Preparation
 tags: []
-readTime: "7 min read"
-image: ""
-imageAlt: ""
-metaTitle: "What to Pack for a Healing Retreat in Peru"
-metaDescription: "The essential packing list for a healing retreat in the Peruvian Amazon. What to bring, what to leave behind, and what most people forget."
-excerpt: "The essential packing list for a healing retreat in the Peruvian Amazon. What to bring, what to leave behind, and what most people forget."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 7 min read
+image: ''
+imageAlt: ''
+metaTitle: What to Pack for a Healing Retreat in Peru
+metaDescription: >-
+  The essential packing list for a healing retreat in the Peruvian Amazon. What
+  to bring, what to leave behind, and what most people forget.
+excerpt: >-
+  The essential packing list for a healing retreat in the Peruvian Amazon. What
+  to bring, what to leave behind, and what most people forget.
+quickAnswer: >-
+  The essential packing list for a healing retreat in the Peruvian Amazon. What
+  to bring, what to leave behind, and what most people forget.
+keyTakeaways:
+  - Understanding the golden rule in the context of plant medicine healing
+  - What Most People Get Wrong
+  - Choosing the Right Bag
+  - Understanding clothing essentials in the context of plant medicine healing
+  - Understanding fabric tips in the context of plant medicine healing
+faq:
+  - question: What is golden rule?
+    answer: >-
+      **Pack light. Pack practical. Leave your ego at home.**Most retreat
+      centers have basic laundry options. You do not need a different outfit for
+      every day.
+  - question: What Most People Get Wrong?
+    answer: >-
+      Overpacking is the number one mistake. People bring suitcases full of
+      things they never use. Remember: you are going to the jungle to do inner
+      work.
+  - question: What is choosing the right bag?
+    answer: >-
+      A soft sided duffel or backpack works best. Hard shell suitcases do not
+      handle boat transfers or muddy jungle paths.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -23,8 +48,9 @@ Packing for a healing retreat in the Amazon is not like packing for a beach vaca
 
 The jungle is hot, humid, and unpredictable. It rains without warning. Insects are everywhere. Paths are muddy. And at night, it gets surprisingly cool. Your packing list should reflect all of this.
 
-## The Golden Rule**Pack light. Pack practical. Leave your ego at home.**Most retreat centers have basic laundry options. You do not need a different outfit for every day. Two to three changes of comfortable clothing will get you through a week. Four to five for a longer stay.#
+## The Golden Rule
 
+**Pack light. Pack practical. Leave your ego at home.**Most retreat centers have basic laundry options. You do not need a different outfit for every day. Two to three changes of comfortable clothing will get you through a week. Four to five for a longer stay.
 ## What Most People Get Wrong
 
 Overpacking is the number one mistake. People bring suitcases full of things they never use. Remember: you are going to the jungle to do inner work. The less external stuff you bring, the less you have to manage.
@@ -49,8 +75,7 @@ A 40 to 60 liter backpack is the sweet spot for most stays. Anything larger and 
 
 - **Underwear and socks** — bring extra, things take forever to dry
 
-- **Swimwear** — for river bathing if the center allows it#
-
+- **Swimwear** — for river bathing if the center allows it
 ## Fabric Tips
 
 Cotton breathes but dries slowly. Quick dry synthetic fabrics work better in humidity. Avoid dark colors during the day as they absorb heat. Light, neutral tones are best.
@@ -91,8 +116,7 @@ Ceremony nights require their own small kit. Have these items packed and ready s
 
 - **Tissues** — you may need them
 
-- **A small towel**#
-
+- **A small towel**
 ## Optional but Helpful
 
 - **Eye mask** — helpful if others have lights
@@ -125,8 +149,7 @@ Some people also bring a small comfort item. A photo of someone they love. A sto
 
 - **Anti diarrhea medicine** — just in case
 
-- **Throat lozenges** — the air can be dry in certain seasons#
-
+- **Throat lozenges** — the air can be dry in certain seasons
 ## Water Safety
 
 Most retreat centers provide filtered or purified water. Bring a reusable water bottle. If you are uncertain about water quality, pack a [water purification method](https://www.who.int/news-room/fact-sheets/detail/drinking-water). The WHO recommends boiling or chemical treatment when clean water access is uncertain.
@@ -171,8 +194,7 @@ What you leave behind matters as much as what you bring.
 
 ## A Note on Phones
 
-Bring your phone for emergencies and for the journey. But once you arrive at the center, consider putting it away. Many centers have limited connectivity anyway. The less screen time, the deeper you go.#
-
+Bring your phone for emergencies and for the journey. But once you arrive at the center, consider putting it away. Many centers have limited connectivity anyway. The less screen time, the deeper you go.
 ## Final Packing Tip
 
 ## Your Relationship With Stuff

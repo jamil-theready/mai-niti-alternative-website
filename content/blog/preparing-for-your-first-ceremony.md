@@ -75,7 +75,6 @@ You do not need to be perfect. You do not need to have it all figured out. You j
 
 For detailed guidance on preparing for your retreat at Mai Niti Alternative, visit [mainiti.org](https://mainiti.org/).
 
-
 ## Trust the Process
 
 Your first ceremony will be unlike anything you can prepare for intellectually. And that is exactly the point. The preparation practices outlined here are not about controlling the experience. They are about arriving in the best possible condition, physically, mentally, and emotionally, so that you can surrender to whatever the medicine needs to show you. Trust your curandero. Trust the tradition that has held this space for thousands of years. Trust yourself for having the courage to take this step. The healing you are seeking has already begun the moment you decided to pursue it with sincerity and respect. Everything you need for this experience is already within you. The ceremony simply creates the conditions for you to finally access it.

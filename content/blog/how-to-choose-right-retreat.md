@@ -1,20 +1,42 @@
 ---
-title: "How to Choose the Right Healing Retreat for You"
-slug: "how-to-choose-right-retreat"
-date: "2026-02-26"
-category: "Preparation"
+title: How to Choose the Right Healing Retreat for You
+slug: how-to-choose-right-retreat
+date: '2026-02-26'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "How to Choose the Right Healing Retreat"
-metaDescription: "A practical framework for choosing the right healing retreat. What to prioritize, what to research, and how to tell quality from marketing."
-excerpt: "A practical framework for choosing the right healing retreat. What to prioritize, what to research, and how to tell quality from marketing."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: How to Choose the Right Healing Retreat
+metaDescription: >-
+  A practical framework for choosing the right healing retreat. What to
+  prioritize, what to research, and how to tell quality from marketing.
+excerpt: >-
+  A practical framework for choosing the right healing retreat. What to
+  prioritize, what to research, and how to tell quality from marketing.
+quickAnswer: >-
+  A practical framework for choosing the right healing retreat. What to
+  prioritize, what to research, and how to tell quality from marketing.
+keyTakeaways:
+  - Understanding what "right" means in the context of plant medicine healing
+  - Understanding two categories in the context of plant medicine healing
+  - '1. Qualified, Experienced Healers'
+  - Understanding 2. medical screening in the context of plant medicine healing
+  - Understanding 3. safety protocols in the context of plant medicine healing
+faq:
+  - question: What "Right" Means?
+    answer: >-
+      The right retreat is not the most expensive one. It is not the one with
+      the best website. It is not the one your friend loved.
+  - question: What is two categories?
+    answer: >-
+      When evaluating a retreat, think in two categories: non negotiables
+      (things every safe, legitimate center must have) and fit (things that
+      depend on your personal preferences and situation).
+  - question: 'What is 1. qualified, experienced healers?'
+    answer: The healer should have a clear lineage and years of training.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -23,12 +45,13 @@ There are hundreds of healing retreat centers in South America alone. They range
 
 The wrong center can be ineffective at best and dangerous at worst. The right center creates a container for some of the most meaningful experiences of your life.
 
-## What "Right" Means
+## What 
+
+"Right" Means
 
 The right retreat is not the most expensive one. It is not the one with the best website. It is not the one your friend loved. The right retreat is the one that matches *your* needs, your values, and your level of experience.
 
-The internet makes this both easier and harder. Easier because information is available. Harder because marketing is sophisticated and a beautiful website does not equal a safe experience. Some of the most legitimate traditional centers have the simplest online presence. Some of the most polished websites belong to centers with questionable practices.#
-
+The internet makes this both easier and harder. Easier because information is available. Harder because marketing is sophisticated and a beautiful website does not equal a safe experience. Some of the most legitimate traditional centers have the simplest online presence. Some of the most polished websites belong to centers with questionable practices.
 ## Two Categories
 
 When evaluating a retreat, think in two categories: non negotiables (things every safe, legitimate center must have) and fit (things that depend on your personal preferences and situation).
@@ -45,15 +68,16 @@ Every center should screen participants for [medications](/blog/medications-to-a
 
 ## 3. Safety Protocols
 
-What happens if someone has a medical emergency? Is there trained support staff during ceremony? How far is the nearest medical facility? These questions should have clear answers.#
-
+What happens if someone has a medical emergency? Is there trained support staff during ceremony? How far is the nearest medical facility? These questions should have clear answers.
 ## 4. Transparent Communication
 
 A trustworthy center responds to your questions openly and thoroughly. They do not dodge difficult questions. They do not use high pressure sales tactics. They do not promise specific outcomes. Read our guide on [questions to ask before booking](/blog/questions-before-booking-retreat).
 
 Without these five non-negotiables, nothing else matters. A center with beautiful facilities but no medical screening is a liability, not a sanctuary.
 
-## 5. Ethical Practices[Indigenous led centers](/blog/indigenous-led-retreats) that fairly compensate their healers and support local communities are operating ethically. The [Chacruna Institute](https://chacruna.net/) provides resources on ethical practices in the plant medicine space.
+## 5. Ethical Practices
+
+[Indigenous led centers](/blog/indigenous-led-retreats) that fairly compensate their healers and support local communities are operating ethically. The [Chacruna Institute](https://chacruna.net/) provides resources on ethical practices in the plant medicine space.
 
 Once the non negotiables are met, these factors help you find the right match.
 
@@ -67,8 +91,7 @@ Smaller groups (6 to 12 people) generally offer more individual attention. Large
 
 ## Amenities vs Simplicity
 
-Some centers offer private rooms, hot showers, and comfortable beds. Others are rustic with shared spaces and cold water. More amenities is not automatically better. Sometimes the simplicity is part of the medicine.#
-
+Some centers offer private rooms, hot showers, and comfortable beds. Others are rustic with shared spaces and cold water. More amenities is not automatically better. Sometimes the simplicity is part of the medicine.
 ## Location
 
 Most traditional centers are in the [Peruvian Amazon](/blog/peruvian-amazon-retreat-destination). Others are in the [Sacred Valley](/blog/amazon-vs-sacred-valley-retreat) or other regions. Climate, altitude, and accessibility differ significantly between locations.
@@ -95,8 +118,7 @@ If possible, speak with people who have been to the center. Ask them:- Did they 
 
 ## Contact the Center Directly
 
-Send them your [questions](/blog/questions-before-booking-retreat). How quickly do they respond? How thoroughly? Do they ask about your health and motivations? A center that is invested in your wellbeing will want to know about you before accepting your booking.#
-
+Send them your [questions](/blog/questions-before-booking-retreat). How quickly do they respond? How thoroughly? Do they ask about your health and motivations? A center that is invested in your wellbeing will want to know about you before accepting your booking.
 ## Check for Red Flags
 
 Our dedicated guide on [red flags when choosing a retreat](/blog/red-flags-healing-retreat) covers this in detail. The short version:- No medical screening = red flag- Promises of specific outcomes = red flag- High pressure sales tactics = red flag- Vague healer credentials = red flag- No safety protocols discussed = red flag
@@ -107,8 +129,7 @@ After you have done the research, talked to the center, and checked the non nego
 
 ## Do Not Rush
 
-This is not a decision to make in one evening. Give yourself time. Compare options. Sleep on it. The right center will still be there tomorrow.#
-
+This is not a decision to make in one evening. Give yourself time. Compare options. Sleep on it. The right center will still be there tomorrow.
 ## Price Is a Factor but Not the Only Factor
 
 Healing retreat costs vary widely. Read our guide on [what retreat costs actually cover](/blog/cost-healing-retreat-peru). The cheapest option is rarely the best. Neither is the most expensive. Look at what the price includes and whether the value matches.

@@ -1,20 +1,45 @@
 ---
-title: "What to Expect at a Healing Retreat in the Amazon"
-slug: "what-to-expect-healing-retreat"
-date: "2026-02-17"
-category: "Preparation"
+title: What to Expect at a Healing Retreat in the Amazon
+slug: what-to-expect-healing-retreat
+date: '2026-02-17'
+category: Preparation
 tags: []
-readTime: "8 min read"
-image: ""
-imageAlt: ""
-metaTitle: "What to Expect at a Healing Retreat"
-metaDescription: "A clear and honest look at what actually happens during a traditional healing retreat in the Peruvian Amazon. No fluff. Just the truth."
-excerpt: "A clear and honest look at what actually happens during a traditional healing retreat in the Peruvian Amazon. No fluff. Just the truth."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 8 min read
+image: ''
+imageAlt: ''
+metaTitle: What to Expect at a Healing Retreat
+metaDescription: >-
+  A clear and honest look at what actually happens during a traditional healing
+  retreat in the Peruvian Amazon. No fluff. Just the truth.
+excerpt: >-
+  A clear and honest look at what actually happens during a traditional healing
+  retreat in the Peruvian Amazon. No fluff. Just the truth.
+quickAnswer: >-
+  A clear and honest look at what actually happens during a traditional healing
+  retreat in the Peruvian Amazon. No fluff. Just the truth.
+keyTakeaways:
+  - Why Expectations Can Get in the Way
+  - What This Guide Covers
+  - Understanding the environment in the context of plant medicine healing
+  - Understanding morning in the context of plant medicine healing
+  - Understanding midday in the context of plant medicine healing
+faq:
+  - question: Why Expectations Can Get in the Way?
+    answer: >-
+      When you expect something specific, you filter everything through that
+      lens.
+  - question: What This Guide Covers?
+    answer: >-
+      We are going to walk through the full experience: what a typical day looks
+      like, what ceremony nights feel like, what happens between sessions, and
+      what you take home with you.
+  - question: What is environment?
+    answer: >-
+      Traditional healing retreats in the [Peruvian
+      Amazon](https://en.wikipedia.org/wiki/Amazon_rainforest) are held in the
+      jungle.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -27,8 +52,7 @@ Whatever image you are carrying, let it go. The reality is both simpler and more
 
 When you expect something specific, you filter everything through that lens. You start comparing your experience to what you thought would happen instead of being present with what is actually happening.
 
-This is one of the biggest obstacles people face. The medicine does not work on your schedule or your terms. It works on its own. Your job is to show up and be willing.#
-
+This is one of the biggest obstacles people face. The medicine does not work on your schedule or your terms. It works on its own. Your job is to show up and be willing.
 ## What This Guide Covers
 
 We are going to walk through the full experience: what a typical day looks like, what ceremony nights feel like, what happens between sessions, and what you take home with you. If you have not already read our [preparation guide](/blog/how-to-prepare-for-plant-medicine-retreat), start there first.
@@ -47,8 +71,7 @@ Mornings are quiet. After a ceremony night, most people sleep in. When you wake,
 
 ## Midday
 
-Some centers offer group sharing circles. Others leave this time open. You might walk the grounds, sit by the river, read, or rest in your hammock. There is very little structured activity during the day on purpose. The space between ceremonies is where much of the processing happens.#
-
+Some centers offer group sharing circles. Others leave this time open. You might walk the grounds, sit by the river, read, or rest in your hammock. There is very little structured activity during the day on purpose. The space between ceremonies is where much of the processing happens.
 ## Why Downtime Matters
 
 Westerners tend to fill every moment with activity. At a retreat, the stillness is the point. Your nervous system needs time to process what the medicine brings up. Rushing through the day works against that.
@@ -73,9 +96,10 @@ The medicine is served individually. You drink. Then you wait.
 
 ## What Happens Next
 
-Every ceremony is different. Every person's experience is different. Some common elements include:- Nausea and purging (this is considered a release, not a side effect)- Strong emotional waves: grief, fear, joy, love- Visual imagery or sensory shifts- Deep physical relaxation or tension- A feeling of expanded awareness or clarity#
+Every ceremony is different. Every person's experience is different. Some common elements include:- Nausea and purging (this is considered a release, not a side effect)- Strong emotional waves: grief, fear, joy, love- Visual imagery or sensory shifts- Deep physical relaxation or tension- A feeling of expanded awareness or clarity
+## There Is No 
 
-## There Is No "Typical" Ceremony
+"Typical" Ceremony
 
 Some nights feel gentle. Others feel like the most intense experience of your life. Some people cry. Some laugh. Some feel nothing at all during certain ceremonies. All of these responses are normal and valid.
 
@@ -95,8 +119,7 @@ What happens between ceremonies is just as important as what happens inside them
 
 After a ceremony, your mind and body are still working through what came up. Dreams may be vivid. Emotions may surface at unexpected moments. Physical sensations can linger.
 
-This is normal. Give yourself permission to feel everything without trying to understand it immediately. The understanding comes later. For more on this, read our [integration guide](/blog/integration-after-healing-retreat).#
-
+This is normal. Give yourself permission to feel everything without trying to understand it immediately. The understanding comes later. For more on this, read our [integration guide](/blog/integration-after-healing-retreat).
 ## Journaling Is Your Best Friend
 
 Write down what you remember. Not just the visual elements, but the feelings, the body sensations, the thoughts. Details fade fast. [Your journal](/blog/journaling-before-retreat) becomes an anchor you can return to weeks and months later.
@@ -125,8 +148,9 @@ The retreat ends. You pack your bag. You leave the jungle. And then the real wor
 
 Some people feel lighter, clearer, more present. Others feel raw and open. Some feel a mixture of both. There is no wrong way to feel at the end of a retreat. What matters is what you do with it.
 
-## What Most People Report- A clearer sense of what matters to them- Reduced anxiety or emotional heaviness- New perspective on old patterns- Deeper connection to their body and intuition- A sense of purpose or direction they did not have before#
+## What Most People Report
 
+- A clearer sense of what matters to them- Reduced anxiety or emotional heaviness- New perspective on old patterns- Deeper connection to their body and intuition- A sense of purpose or direction they did not have before
 ## Not Everything Resolves Immediately
 
 Healing is not a light switch. Some insights take weeks or months to fully land. Others need additional work, whether through therapy, community, or another retreat. This is normal. The [first two weeks after a retreat](/blog/first-weeks-after-retreat) are especially important for anchoring what you experienced.

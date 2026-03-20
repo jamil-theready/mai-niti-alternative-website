@@ -82,7 +82,6 @@ The wisest approach treats plant medicine as a complement to, not a replacement 
 
 At Mai Niti Alternative, we take mental health seriously. We screen every participant, maintain clear medical protocols, and recommend ongoing professional support. Learn more at [mainiti.org](https://mainiti.org/).
 
-
 ## A Complementary Path Forward
 
 The most promising direction may lie in the integration of traditional and modern approaches. Curanderos have centuries of clinical observation. Western researchers bring controlled methodology and the ability to identify specific mechanisms of action. When these two knowledge systems inform each other with mutual respect, the potential for advancing mental health treatment expands significantly. For individuals considering this path, the priority remains finding qualified practitioners, ensuring proper medical screening, maintaining continuity with existing mental health providers, and committing fully to the integration process that makes ceremonial insights lasting. Neither tradition nor science alone holds all the answers. Together, they offer a more complete map of the healing landscape. The conversation between ancient wisdom and modern science is just beginning, and the early results suggest that both traditions have been pointing toward the same truths about healing all along.

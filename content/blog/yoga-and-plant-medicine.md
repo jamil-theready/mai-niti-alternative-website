@@ -1,21 +1,45 @@
 ---
-title: "Yoga and Plant Medicine: How They Work Together"
-slug: "yoga-and-plant-medicine"
-date: "2026-03-12"
-category: "Guidance"
-hook: "The body remembers what the mind forgets."
+title: 'Yoga and Plant Medicine: How They Work Together'
+slug: yoga-and-plant-medicine
+date: '2026-03-12'
+category: Guidance
+hook: The body remembers what the mind forgets.
 tags: []
-readTime: "9 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Yoga and Plant Medicine: Complementary Healing Practices"
-metaDescription: "Yoga and plant medicine share deep roots in body-based healing. Discover how combining these practices enhances both ceremony and integration."
-excerpt: "Yoga and plant medicine share deep roots in body-based healing. Discover how combining these practices enhances both ceremony and integration."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Healing Center"
-language: "en"
+readTime: 9 min read
+image: ''
+imageAlt: ''
+metaTitle: 'Yoga and Plant Medicine: Complementary Healing Practices'
+metaDescription: >-
+  Yoga and plant medicine share deep roots in body-based healing. Discover how
+  combining these practices enhances both ceremony and integration.
+excerpt: >-
+  Yoga and plant medicine share deep roots in body-based healing. Discover how
+  combining these practices enhances both ceremony and integration.
+quickAnswer: >-
+  Yoga and plant medicine share deep roots in body-based healing. Discover how
+  combining these practices enhances both ceremony and integration.
+keyTakeaways:
+  - Shared Roots in Body-Based Healing
+  - 'Different Traditions, Similar Principles'
+  - Yoga as Preparation for Ceremony
+  - Which Styles Work Best
+  - Understanding yoga during retreat in the context of plant medicine healing
+faq:
+  - question: What is shared roots in body-based healing?
+    answer: >-
+      Both <a href="https://en.wikipedia.org/wiki/Yoga" target="_blank">yoga</a>
+      and plant medicine traditions recognize that healing happens through the
+      body, not just the mind.
+  - question: 'What is different traditions, similar principles?'
+    answer: >-
+      Yoga originated in South Asia. Plant medicine traditions originated in the
+      Americas.
+  - question: What is yoga as preparation for ceremony?
+    answer: >-
+      A regular yoga practice in the weeks before a plant medicine retreat
+      prepares your body and nervous system for the intensity of ceremony.
+author: Mai Niti Healing Center
+language: en
 draft: false
 featured: false
 ---
@@ -25,7 +49,6 @@ featured: false
 Both <a href="https://en.wikipedia.org/wiki/Yoga" target="_blank">yoga</a> and plant medicine traditions recognize that healing happens through the body, not just the mind. In the yogic framework, unresolved emotional and psychological material is stored in the body as tension, restriction, and energetic blockage. Plant medicine traditions, particularly the [Shipibo tradition](/blog/who-are-the-shipibo-people), hold a remarkably similar view. Illness and suffering manifest in the body's energy field, and healing requires moving stuck energy through physical, emotional, and spiritual channels.
 
 This shared understanding makes yoga and plant medicine natural complements. Yoga prepares the body to receive and process the deep releases that ceremony can produce. Plant medicine opens layers of holding that yoga alone may take years to reach. Together, they create a cycle of opening, releasing, and integrating that accelerates healing in ways neither practice achieves as effectively on its own.
-
 
 ## Different Traditions, Similar Principles
 
@@ -39,7 +62,6 @@ A regular yoga practice in the weeks before a plant medicine retreat prepares yo
 
 The breathwork component of yoga, pranayama, is particularly valuable preparation. Ceremony often involves intense breathing patterns, both voluntary and involuntary. A nervous system trained through pranayama responds more fluidly to these experiences. Breath awareness also provides a reliable anchor during ceremony. When everything else is shifting, the breath remains available as a point of stability and grounding.
 
-
 ## Which Styles Work Best
 
 Gentle, restorative, and yin yoga styles are most appropriate for pre-ceremony preparation. This is not the time for intense vinyasa flows, hot yoga, or physically demanding practices that deplete energy reserves. The goal is to open, soften, and create receptivity rather than to build strength or endurance. Your body needs to be rested and pliable, not exhausted and tight.
@@ -51,7 +73,6 @@ If you do not have an existing yoga practice, starting a simple routine four to 
 Many [plant medicine retreats](/blog/plant-medicine-retreats-in-peru) offer daily yoga sessions as part of their program. These sessions are typically gentle, guided practices designed to support the broader healing work of the retreat. Morning yoga helps participants arrive in their bodies after vivid dreams and restless nights. It provides structure and grounding on days between ceremonies when the emotional landscape can feel unmoored.
 
 The yoga offered during retreat is intentionally different from what you might find in a standard studio class. It tends to be slower, more internally focused, and more attentive to the emotional and energetic states participants are navigating. A skilled retreat yoga teacher understands that participants may be processing heavy material and adjusts the practice accordingly, favoring restorative postures over challenging ones.
-
 
 ## Listening to Your Body
 
@@ -65,7 +86,6 @@ The most important role yoga plays in the plant medicine journey is as a long-te
 
 Many participants report that their yoga practice changes after plant medicine retreat. Postures that were previously just physical exercises become emotional and energetic experiences. Hip openers may trigger the release of grief. Heart openers may produce waves of compassion. Savasana may become a doorway to states reminiscent of ceremony. The medicine has taught the body to recognize and respond to these deeper layers, and yoga provides a safe, controlled context for continuing the work.
 
-
 ## Consistency Over Intensity
 
 For integration purposes, a short daily practice is far more valuable than an occasional long one. Fifteen to twenty minutes of gentle yoga each morning creates a daily check-in with your body and energy that maintains the connection established during retreat. This consistency is what transforms temporary ceremony insights into lasting changes in how you inhabit your body and navigate your life.
@@ -77,7 +97,6 @@ The practice does not need to be fancy. A few rounds of sun salutations, some se
 Not every style of yoga pairs well with plant medicine work. Competitive, achievement-oriented, or physically extreme practices can actually work against the softening and opening that ceremony initiates. If your yoga practice is driven by the same ego patterns that ceremony is trying to dissolve, it becomes another arena for performance rather than a tool for healing.
 
 Look for teachers who understand the contemplative dimensions of yoga, not just the physical ones. A teacher who can hold space for emotional releases on the mat, who encourages introspection over achievement, and who understands that yoga is ultimately a practice of awareness rather than flexibility will complement your plant medicine work most effectively.
-
 
 ## Starting Where You Are
 

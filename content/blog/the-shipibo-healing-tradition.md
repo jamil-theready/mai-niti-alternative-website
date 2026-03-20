@@ -67,7 +67,6 @@ At Mai Niti Alternative, the Shipibo tradition is the foundation of everything w
 
 Learn more about our approach at [mainiti.org](https://mainiti.org/).
 
-
 ## A Living Tradition in a Changing World
 
 The Shipibo healing tradition is not a relic of the past. It is a living, evolving system practiced by contemporary healers who navigate both the ancient world of plant spirits and the modern world of international visitors, digital communication, and global health challenges. The best Shipibo curanderos hold both worlds with skill, maintaining the integrity of their ancestral practices while adapting their communication to help outsiders understand and benefit from the tradition. For seekers approaching this path, the invitation is clear. Come with respect. Come with genuine need. Come willing to learn on the tradition's own terms rather than yours. What you find may reshape your entire understanding of what healing can be.

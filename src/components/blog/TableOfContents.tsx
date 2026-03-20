@@ -35,7 +35,10 @@ export default function TableOfContents({ headings }: TableOfContentsProps) {
     return () => observer.disconnect();
   }, [headings]);
 
-  if (headings.length < 2) return null;
+  // Only show H2 headings for a clean, short TOC
+  const h2Headings = headings.filter((h) => h.level === 2);
+
+  if (h2Headings.length < 2) return null;
 
   return (
     <nav aria-label="Table of contents">
@@ -43,7 +46,7 @@ export default function TableOfContents({ headings }: TableOfContentsProps) {
         In this article
       </h4>
       <ul className="space-y-1">
-        {headings.map((heading) => (
+        {h2Headings.map((heading) => (
           <li key={heading.id}>
             <a
               href={`#${heading.id}`}
@@ -55,9 +58,7 @@ export default function TableOfContents({ headings }: TableOfContentsProps) {
                   window.scrollTo({ top, behavior: "smooth" });
                 }
               }}
-              className={`block border-l-2 py-1.5 text-sm leading-snug transition-all ${
-                heading.level === 3 ? "pl-6" : "pl-4"
-              } ${
+              className={`block border-l-2 py-1.5 pl-4 text-sm leading-snug transition-all ${
                 activeId === heading.id
                   ? "border-brown-900 font-medium text-brown-900"
                   : "border-transparent text-brown-400 hover:border-brown-300 hover:text-brown-600"

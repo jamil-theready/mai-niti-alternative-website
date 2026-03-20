@@ -74,7 +74,6 @@ The goal is healing, not heroism. There is no shame in waiting until you are rea
 
 At Mai Niti Alternative, we screen every participant carefully and work with each person individually. Your safety is our first priority. Learn more at [mainiti.org](https://mainiti.org/).
 
-
 ## The Courage to Begin
 
 Seeking healing for trauma takes genuine courage. Whether you have carried your wounds for years or decades, the decision to face them in a ceremonial context represents a profound act of self-compassion. Plant medicine does not promise that the process will be comfortable. It promises that what has been buried can surface, be seen, and begin to transform. With the right support structure, a skilled curandero, and a commitment to integration afterward, many people find that the traditional approach reaches places that years of conventional treatment could not access. The path is not easy. But for many, it is the path that finally works. The first step is always the hardest, but it is also the most important one you will ever take.

@@ -53,7 +53,9 @@ One of the most impactful ways to respect indigenous traditions is to [choose re
 
 Some centers are run by Westerners who have genuine relationships with indigenous communities. Others exploit those relationships. Ask questions. Look at the power dynamics. Who makes the decisions? Who receives the money? These questions reveal a center's true values.
 
-## The Problem of the "Shaman Industry"
+## The Problem of the 
+
+"Shaman Industry"
 
 The surge in plant medicine tourism has created a market. Markets create incentives. And not all incentives align with safety or cultural integrity.
 
@@ -87,7 +89,6 @@ Respect for indigenous traditions does not end when you leave the retreat. In yo
 - Advocate for the rights of indigenous knowledge holders
 
 At Mai Niti Alternative, the Shipibo tradition is not a selling point. It is the foundation. Our curanderos lead with authority. Their knowledge is honored, not extracted. When you visit, you enter their world as a guest. Learn more at [mainiti.org](https://mainiti.org/).
-
 
 ## Carrying Respect Forward
 

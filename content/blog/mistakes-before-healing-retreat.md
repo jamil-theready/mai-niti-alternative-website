@@ -1,20 +1,44 @@
 ---
-title: "What NOT to Do Before a Healing Retreat"
-slug: "mistakes-before-healing-retreat"
-date: "2026-02-14"
-category: "Preparation"
+title: What NOT to Do Before a Healing Retreat
+slug: mistakes-before-healing-retreat
+date: '2026-02-14'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "What NOT to Do Before a Healing Retreat"
-metaDescription: "Avoid these common mistakes before a healing retreat. From breaking the dieta to overpacking your expectations, here is what to watch out for."
-excerpt: "Avoid these common mistakes before a healing retreat. From breaking the dieta to overpacking your expectations, here is what to watch out for."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: What NOT to Do Before a Healing Retreat
+metaDescription: >-
+  Avoid these common mistakes before a healing retreat. From breaking the dieta
+  to overpacking your expectations, here is what to watch out for.
+excerpt: >-
+  Avoid these common mistakes before a healing retreat. From breaking the dieta
+  to overpacking your expectations, here is what to watch out for.
+quickAnswer: >-
+  Avoid these common mistakes before a healing retreat. From breaking the dieta
+  to overpacking your expectations, here is what to watch out for.
+keyTakeaways:
+  - Why People Make These Mistakes
+  - Understanding the good news in the context of plant medicine healing
+  - 'Mistake: Breaking the Dieta'
+  - 'Mistake: Not Tapering Medications Properly'
+  - >-
+    Understanding mistake: overexercising in the context of plant medicine
+    healing
+faq:
+  - question: Why People Make These Mistakes?
+    answer: 'Usually for one of three reasons:'
+  - question: What is good news?
+    answer: >-
+      Every mistake on this list is avoidable. And if you are reading this, you
+      are already ahead of most people.
+  - question: 'What is mistake: breaking the dieta?'
+    answer: >-
+      This is the most common one. Someone follows the
+      [dieta](/blog/dieta-explained) for a week, then has a "last meal" the
+      night before flying out. Pizza. Wine. Chocolate cake.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -33,8 +57,7 @@ Usually for one of three reasons:
 
 - **They were in denial about what they were getting into.** They treated a healing retreat like a vacation and got a reality check.
 
-The stakes are higher than most people realize. A poorly prepared retreat does not just mean a mediocre experience. It can mean a physically uncomfortable one. Or an emotionally overwhelming one. Or one that takes months to integrate because you did not set the foundation.#
-
+The stakes are higher than most people realize. A poorly prepared retreat does not just mean a mediocre experience. It can mean a physically uncomfortable one. Or an emotionally overwhelming one. Or one that takes months to integrate because you did not set the foundation.
 ## The Good News
 
 Every mistake on this list is avoidable. And if you are reading this, you are already ahead of most people.
@@ -59,12 +82,15 @@ Ceremony involves purging. Your body needs water reserves. People who arrive deh
 
 Binge watching horror movies. Doom scrolling the news. Getting into arguments on social media. All of this loads your nervous system with energy that will surface during ceremony.**What to do instead:** Start a [digital detox](/blog/digital-detox-before-retreat) at least one week before departure.
 
-## Mistake: Setting Rigid Expectations"I am going to have a breakthrough." "My depression will be cured." "I will see visions of my grandmother." Rigid expectations set you up for disappointment when the experience does not match the script in your head.**What to do instead:** Set an [open ended intention](/blog/setting-intention-ceremony). Let the medicine work without your blueprint.
+## Mistake: Setting Rigid Expectations
+
+"I am going to have a breakthrough." "My depression will be cured." "I will see visions of my grandmother." Rigid expectations set you up for disappointment when the experience does not match the script in your head.
+
+**What to do instead:** Set an [open ended intention](/blog/setting-intention-ceremony). Let the medicine work without your blueprint.
 
 ## Mistake: Not Doing Any Inner Work Beforehand
 
-Some people think the retreat will do all the work for them. It will not. The medicine amplifies what is already there. If you have not done any self reflection, the first ceremony can be overwhelmingly disorienting.**What to do instead:** Start [journaling](/blog/journaling-before-retreat). Sit in silence for ten minutes a day. Get honest with yourself about why you are going.#
-
+Some people think the retreat will do all the work for them. It will not. The medicine amplifies what is already there. If you have not done any self reflection, the first ceremony can be overwhelmingly disorienting.**What to do instead:** Start [journaling](/blog/journaling-before-retreat). Sit in silence for ten minutes a day. Get honest with yourself about why you are going.
 ## Mistake: Telling Everyone
 
 Broadcasting your retreat plans to everyone you know invites opinions you do not need. Some people will project their fears onto you. Others will trivialize your decision.**What to do instead:** Tell one or two trusted people. Keep the rest private until after you return.
@@ -83,8 +109,7 @@ Things happen. Flights get cancelled. Health emergencies arise. Not having [trav
 
 ## Mistake: Ignoring the Communication Plan
 
-Going off the grid without telling anyone is irresponsible. Your family needs to know where you are. Your job needs to know you are unavailable. Set up an [emergency contact plan](/blog/telling-family-about-retreat) before you leave.#
-
+Going off the grid without telling anyone is irresponsible. Your family needs to know where you are. Your job needs to know you are unavailable. Set up an [emergency contact plan](/blog/telling-family-about-retreat) before you leave.
 ## Mistake: Not Exchanging Currency
 
 ATMs are not always reliable in remote areas. Bring some cash in Peruvian Soles. Not a lot. Just enough for emergencies, tips, and small purchases.
@@ -95,9 +120,10 @@ All the mistakes above are fixable. But there is one mistake that undermines eve
 
 People who treat a plant medicine retreat like a tourist experience, a box to check, or a party story get very little from it. The medicine responds to sincerity. If you show up with half commitment, you get half results.
 
-This work asks you to be vulnerable in ways you may never have been before. It asks you to face things you have spent years avoiding. That requires respect for the process, the tradition, and yourself.#
+This work asks you to be vulnerable in ways you may never have been before. It asks you to face things you have spent years avoiding. That requires respect for the process, the tradition, and yourself.
+## What Seriousness Looks Like
 
-## What Seriousness Looks Like- Following the dieta fully, not mostly- Setting a real intention, not a casual one- Showing up to ceremony ready to work, not ready to observe- Engaging with the healer and the community, not staying on the sidelines- Committing to [integration](/blog/integration-after-healing-retreat) after the retreat, not moving on to the next thing
+- Following the dieta fully, not mostly- Setting a real intention, not a casual one- Showing up to ceremony ready to work, not ready to observe- Engaging with the healer and the community, not staying on the sidelines- Committing to [integration](/blog/integration-after-healing-retreat) after the retreat, not moving on to the next thing
 
 Seriousness does not mean rigidity. It does not mean you cannot laugh or enjoy the experience. It means you respect what you are stepping into enough to show up with your full attention and your full heart.
 

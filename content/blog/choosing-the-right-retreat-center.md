@@ -1,21 +1,43 @@
 ---
-title: "How to Choose the Right Plant Medicine Retreat Center"
-slug: "choosing-the-right-retreat-center"
-date: "2026-03-12"
-category: "Preparation"
-hook: "The right center changes everything. The wrong one risks everything."
+title: How to Choose the Right Plant Medicine Retreat Center
+slug: choosing-the-right-retreat-center
+date: '2026-03-12'
+category: Preparation
+hook: The right center changes everything. The wrong one risks everything.
 tags: []
-readTime: "11 min read"
-image: ""
-imageAlt: ""
-metaTitle: "How to Choose a Plant Medicine Retreat Center: Red Flags ..."
-metaDescription: "Not all retreat centers are equal. Learn what to look for, what to avoid, and how to evaluate whether a center is safe and legitimate."
-excerpt: "Not all retreat centers are equal. Learn what to look for, what to avoid, and how to evaluate whether a center is safe and legitimate."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Healing Center"
-language: "en"
+readTime: 11 min read
+image: ''
+imageAlt: ''
+metaTitle: 'How to Choose a Plant Medicine Retreat Center: Red Flags ...'
+metaDescription: >-
+  Not all retreat centers are equal. Learn what to look for, what to avoid, and
+  how to evaluate whether a center is safe and legitimate.
+excerpt: >-
+  Not all retreat centers are equal. Learn what to look for, what to avoid, and
+  how to evaluate whether a center is safe and legitimate.
+quickAnswer: >-
+  Not all retreat centers are equal. Learn what to look for, what to avoid, and
+  how to evaluate whether a center is safe and legitimate.
+keyTakeaways:
+  - Why Your Choice of Center Matters
+  - The Stakes Are Real
+  - 'Green Flags: What to Look For'
+  - Healer Credentials and Lineage
+  - 'Red Flags: What Should Concern You'
+faq:
+  - question: Why Your Choice of Center Matters?
+    answer: >-
+      The retreat center you choose shapes every aspect of your plant medicine
+      experience.
+  - question: What is stakes are real?
+    answer: Plant medicine ceremony is not a spa day.
+  - question: 'What is green flags: what to look for?'
+    answer: >-
+      Transparency is the single most important green flag. A trustworthy center
+      is open about who their healers are, where they trained, and how long they
+      have been practicing.
+author: Mai Niti Healing Center
+language: en
 draft: false
 featured: false
 ---
@@ -25,7 +47,6 @@ featured: false
 The retreat center you choose shapes every aspect of your plant medicine experience. The quality of the healers, the safety protocols, the physical environment, the food, the support staff, and the overall integrity of the operation all influence whether your retreat produces genuine healing or becomes a cautionary tale.
 
 The plant medicine tourism industry in Peru and beyond has grown rapidly. This growth has attracted both deeply committed practitioners and opportunists looking to profit from Western demand. The gap between the best and worst retreat centers is enormous. At the top end, you find centers run by respected indigenous healers with decades of experience, proper medical screening, trained support staff, and genuine dedication to participant welfare. At the bottom end, you find untrained facilitators, no safety protocols, and potentially dangerous conditions.
-
 
 ## The Stakes Are Real
 
@@ -39,7 +60,6 @@ Transparency is the single most important green flag. A trustworthy center is op
 
 Look for centers that conduct thorough medical intake. A detailed health questionnaire, questions about medications, psychiatric history, and heart conditions, should be standard. If a center lets you book without asking about your medical history, they are not taking your safety seriously. The screening process protects both you and the other participants.
 
-
 ## Healer Credentials and Lineage
 
 The healers are the heart of any retreat. Look for centers that identify their [curanderos](/blog/role-of-the-curandero) by name and describe their training background. Legitimate Shipibo healers have typically trained for a minimum of 10 to 15 years, often much longer, through an [apprenticeship](/blog/apprenticeship-in-shipibo-medicine) system that involves extensive plant dietas, supervised ceremony practice, and gradual assumption of responsibility under their teacher's guidance.
@@ -51,7 +71,6 @@ A center that vaguely mentions "experienced shamans" without naming them or desc
 The most dangerous red flag is a center that does not conduct medical screening. Without screening, people with dangerous contraindications, such as certain heart conditions or incompatible medications, can be put at serious risk. No legitimate center skips this step. Ever.
 
 Watch for centers that promise guaranteed outcomes. Statements like "we cure depression" or "100% success rate" are dishonest. No healer and no medicine can guarantee specific results. Plant medicine works differently for each person, and the outcome depends on many factors including the participant's readiness, the healer's skill, and forces that neither party fully controls. A center that promises guaranteed healing is prioritizing marketing over truth.
-
 
 ## Boundary Violations and Isolation
 
@@ -65,7 +84,6 @@ Before committing financially, send the center a list of direct questions and ev
 
 Ask about healer qualifications. Who will lead ceremony? How long have they practiced? Who trained them? Ask about the facilitator-to-participant ratio. One healer for 20 participants is insufficient. Look for ratios of one healer or facilitator for every four to six participants. Ask what happens if someone has a medical emergency. Is there a medical professional on site or on call? How far is the nearest hospital?
 
-
 ## Logistics and Aftercare
 
 Ask about the daily schedule. How many ceremonies are included? What other healing modalities are offered? What does a typical day between ceremonies look like? Ask about food and dietary accommodations. Ask about the physical accommodations. Private room or shared? Bathroom situation? Electricity and hot water availability?
@@ -77,7 +95,6 @@ Ask about post-retreat support. Does the center offer [integration](/blog/return
 After all the research, questionnaires, and email exchanges, trust your instinct. If something feels off about a center, even if you cannot articulate exactly what, honor that feeling. Your intuition is a valid data point, especially when you are about to enter a state of deep vulnerability.
 
 Read reviews across multiple platforms. A handful of glowing testimonials on a center's own website mean very little. Look for reviews on independent platforms, in [plant medicine community](/blog/plant-medicine-for-spiritual-seekers) forums, and on social media. Pay attention to how the center responds to negative reviews. A defensive or dismissive response to criticism tells you something important about their character.
-
 
 ## The Investment Perspective
 

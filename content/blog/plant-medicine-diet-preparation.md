@@ -1,21 +1,46 @@
 ---
-title: "The Plant Medicine Diet: What to Eat and Avoid Before Ret..."
-slug: "plant-medicine-diet-preparation"
-date: "2026-03-12"
-category: "Preparation"
-hook: "What you eat before ceremony shapes what the medicine can do."
+title: 'The Plant Medicine Diet: What to Eat and Avoid Before Ret...'
+slug: plant-medicine-diet-preparation
+date: '2026-03-12'
+category: Preparation
+hook: What you eat before ceremony shapes what the medicine can do.
 tags: []
-readTime: "10 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Plant Medicine Diet: Pre-Retreat Food Guide & Preparation"
-metaDescription: "The preparatory diet is not optional. Learn exactly what to eat, what to avoid, and why the diet matters for your safety and healing."
-excerpt: "The preparatory diet is not optional. Learn exactly what to eat, what to avoid, and why the diet matters for your safety and healing."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Healing Center"
-language: "en"
+readTime: 10 min read
+image: ''
+imageAlt: ''
+metaTitle: 'Plant Medicine Diet: Pre-Retreat Food Guide & Preparation'
+metaDescription: >-
+  The preparatory diet is not optional. Learn exactly what to eat, what to
+  avoid, and why the diet matters for your safety and healing.
+excerpt: >-
+  The preparatory diet is not optional. Learn exactly what to eat, what to
+  avoid, and why the diet matters for your safety and healing.
+quickAnswer: >-
+  The preparatory diet is not optional. Learn exactly what to eat, what to
+  avoid, and why the diet matters for your safety and healing.
+keyTakeaways:
+  - Why the Pre-Ceremony Diet Matters
+  - How Long to Diet
+  - Foods to Eliminate Before Retreat
+  - Understanding substances to stop in the context of plant medicine healing
+  - What to Eat During Preparation
+faq:
+  - question: Why the Pre-Ceremony Diet Matters?
+    answer: >-
+      The preparatory diet before a plant medicine retreat serves two distinct
+      purposes. First, it is a safety requirement. Certain foods contain
+      compounds that interact dangerously with the medicine.
+  - question: How Long to Diet?
+    answer: >-
+      Most retreat centers recommend a minimum of two weeks of dietary
+      preparation. Some suggest a month for optimal results.
+  - question: What is foods to eliminate before retreat?
+    answer: >-
+      The primary safety concern is tyramine. Foods high in tyramine include
+      aged cheeses, cured meats, fermented foods like sauerkraut and kimchi, soy
+      sauce, miso, and overripe fruits.
+author: Mai Niti Healing Center
+language: en
 draft: false
 featured: false
 ---
@@ -25,7 +50,6 @@ featured: false
 The preparatory diet before a plant medicine retreat serves two distinct purposes. First, it is a safety requirement. Certain foods contain compounds that interact dangerously with the medicine. <a href="https://en.wikipedia.org/wiki/Tyramine" target="_blank">Tyramine</a>, an amino acid found in aged and fermented foods, can cause dangerous spikes in blood pressure when combined with the brew's active compounds. This is not a suggestion. It is a medical necessity.
 
 Second, the diet prepares your body and mind for the depth of work ahead. Cleaning up your diet reduces the physical load your body carries into ceremony. Less processed food, less sugar, less stimulant intake means your system is clearer and more receptive. Traditional healers are consistent on this point. The cleaner you arrive, the deeper the medicine can work.
-
 
 ## How Long to Diet
 
@@ -39,7 +63,6 @@ The primary safety concern is tyramine. Foods high in tyramine include aged chee
 
 Beyond tyramine, most centers recommend eliminating pork and red meat at least one week before arrival. These heavy proteins take longer to digest and create a heavier energetic state in the body. Spicy foods, garlic, onions, and excessive salt should also be reduced or eliminated. These pungent foods are considered energetically disruptive in many traditional healing systems.
 
-
 ## Substances to Stop
 
 All recreational substances must be stopped well before retreat. Alcohol should be eliminated at least two weeks prior. Cannabis should be stopped a minimum of one week before, ideally longer. Caffeine is not dangerous but should be tapered gradually to avoid withdrawal headaches during retreat. Going cold turkey on caffeine the day you arrive guarantees a miserable first day.
@@ -51,7 +74,6 @@ Certain medications require medical supervision to taper or discontinue. SSRIs, 
 The ideal preparatory diet is simple, whole, and plant-forward. Brown rice, quinoa, oats, and other whole grains form a solid foundation. Fresh vegetables, steamed or lightly sauteed, provide nutrients without the energetic heaviness of rich or processed foods. Fresh fruits in moderation are fine, though avoid overripe bananas and citrus in excess.
 
 Lean proteins like chicken, turkey, and fresh fish (not smoked, cured, or canned) are acceptable in most protocols. Eggs are generally fine. Legumes like lentils and beans provide plant-based protein. The key principle is simplicity. If your meal has more than five or six ingredients, it is probably more complex than necessary.
-
 
 ## Hydration and Simplicity
 
@@ -65,7 +87,6 @@ Once at the retreat center, the dietary restrictions typically become more speci
 
 In [Shipibo tradition](/blog/who-are-the-shipibo-people), the [dieta](/blog/master-plant-dieta-traditions) during retreat is not just about food. It encompasses behavior, sensory input, and social interaction. Participants may be asked to limit conversation, avoid physical contact, and stay away from strong smells. These restrictions create the conditions for the plant medicine to do its deepest work without interference from external stimulation.
 
-
 ## Fasting Before Ceremony
 
 On ceremony days, most centers require fasting for at least four to six hours before drinking the medicine. Some recommend fasting from lunch onward, with the ceremony typically beginning in the evening. An empty stomach reduces nausea and allows the medicine to be absorbed more efficiently. It also makes any necessary purging less physically taxing.
@@ -77,7 +98,6 @@ Breaking fast after ceremony should be gentle. Light broth, crackers, or fruit a
 People frequently ask whether the diet really makes a difference. The answer is unequivocally yes. Healers with decades of experience consistently report that participants who follow the diet closely have smoother, deeper, and more productive ceremonies. Those who arrive having eaten steak and drunk wine the night before tend to spend more time in physical discomfort and less time in meaningful healing work.
 
 Another common question is whether vegetarians and vegans need to make adjustments. Generally, plant-based eaters find the preparatory diet easier since they already avoid many of the restricted foods. The main adjustment is reducing fermented soy products like tempeh, miso, and soy sauce, which are staples in many plant-based diets but are high in tyramine.
-
 
 ## Dealing with Cravings and Social Situations
 

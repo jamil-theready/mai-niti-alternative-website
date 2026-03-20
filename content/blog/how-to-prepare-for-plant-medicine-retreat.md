@@ -1,20 +1,49 @@
 ---
-title: "How to Prepare for a Plant Medicine Retreat in Peru"
-slug: "how-to-prepare-for-plant-medicine-retreat"
-date: "2026-02-10"
-category: "Preparation"
+title: How to Prepare for a Plant Medicine Retreat in Peru
+slug: how-to-prepare-for-plant-medicine-retreat
+date: '2026-02-10'
+category: Preparation
 tags: []
-readTime: "9 min read"
-image: ""
-imageAlt: ""
-metaTitle: "How to Prepare for a Plant Medicine Retreat"
-metaDescription: "Everything you need to know before your first plant medicine retreat in Peru. From diet and mindset to what to pack and how to set your intention."
-excerpt: "Everything you need to know before your first plant medicine retreat in Peru. From diet and mindset to what to pack and how to set your intention."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 9 min read
+image: ''
+imageAlt: ''
+metaTitle: How to Prepare for a Plant Medicine Retreat
+metaDescription: >-
+  Everything you need to know before your first plant medicine retreat in Peru.
+  From diet and mindset to what to pack and how to set your intention.
+excerpt: >-
+  Everything you need to know before your first plant medicine retreat in Peru.
+  From diet and mindset to what to pack and how to set your intention.
+quickAnswer: >-
+  Everything you need to know before your first plant medicine retreat in Peru.
+  From diet and mindset to what to pack and how to set your intention.
+keyTakeaways:
+  - What Preparation Actually Does
+  - The Three Layers of Preparation
+  - Who This Guide Is For
+  - >-
+    Foods to Avoid- Pork and red meat- Fried and heavily processed food- Alcohol
+    (stop completely at least 2 weeks out)- Dairy- Refined sugar- Extremely
+    spicy food- Fermented foods- Sexual activity (this is part of the
+    traditional dieta)
+  - >-
+    Foods to Embrace- Fresh fruits and vegetables- Rice and quinoa- Light fish
+    and chicken (grilled or steamed)- Herbal teas
+faq:
+  - question: What Preparation Actually Does?
+    answer: >-
+      Your body needs to be clean. Your mind needs to be open. Your spirit needs
+      to be willing. When all three are aligned, the medicine has space to reach
+      the places that need it most.
+  - question: What is three layers of preparation?
+    answer: 'Preparation happens on three levels, and each one matters:'
+  - question: Who This Guide Is For?
+    answer: >-
+      Whether this is your [first time at a plant medicine
+      retreat](/blog/first-time-plant-medicine-retreat) or you are returning for
+      deeper work, the steps below will help you arrive ready.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -39,8 +68,7 @@ Preparation happens on three levels, and each one matters:
 
 - **Mental and emotional** — setting an intention, getting honest about why you are going
 
-- **Practical** — flights, packing, communication plans, travel documentsMost people focus on the practical side and overlook the first two. That is a mistake. The inner preparation is what separates a surface level experience from a life changing one.#
-
+- **Practical** — flights, packing, communication plans, travel documentsMost people focus on the practical side and overlook the first two. That is a mistake. The inner preparation is what separates a surface level experience from a life changing one.
 ## Who This Guide Is For
 
 Whether this is your [first time at a plant medicine retreat](/blog/first-time-plant-medicine-retreat) or you are returning for deeper work, the steps below will help you arrive ready. We cover everything from what to eat and what to avoid, to how to set a clear intention and what to pack for the Amazon jungle.
@@ -49,12 +77,15 @@ In the Shipibo tradition, the [dieta is sacred](/blog/dieta-explained). It is no
 
 Most retreat centers will send you dietary guidelines two to four weeks before arrival. The specifics vary, but the core principles stay the same.
 
-## Foods to Avoid- Pork and red meat- Fried and heavily processed food- Alcohol (stop completely at least 2 weeks out)- Dairy- Refined sugar- Extremely spicy food- Fermented foods- Sexual activity (this is part of the traditional dieta)
+## Foods to Avoid
 
-## Foods to Embrace- Fresh fruits and vegetables- Rice and quinoa- Light fish and chicken (grilled or steamed)- Herbal teas
+- Pork and red meat- Fried and heavily processed food- Alcohol (stop completely at least 2 weeks out)- Dairy- Refined sugar- Extremely spicy food- Fermented foods- Sexual activity (this is part of the traditional dieta)
 
-- **Clean water, and lots of it**#
+## Foods to Embrace
 
+- Fresh fruits and vegetables- Rice and quinoa- Light fish and chicken (grilled or steamed)- Herbal teas
+
+- **Clean water, and lots of it**
 ## Why These Foods Matter
 
 The dieta is rooted in the belief that certain foods create energetic heaviness. Removing them allows the body to become more receptive. A [2021 study in the Journal of Ethnopharmacology](https://pubmed.ncbi.nlm.nih.gov/34933085/) documented how the Peruvian Amazonian dieta works as a retreat based intervention involving dietary restrictions alongside plant medicines, confirming what indigenous healers have practiced for generations.
@@ -69,8 +100,9 @@ Beyond food, give your body rest. Reduce intense exercise. Get more sleep. Cut b
 
 This is a good time to add gentle movement like yoga, walking, or stretching. For a deeper breakdown, read our [complete guide to physical preparation](/blog/physical-preparation-plant-medicine).
 
-## A Note on Medications**This part is not optional.** Some medications, particularly SSRIs and MAOIs, need to be tapered off well in advance under medical supervision. This is essential for your safety.#
+## A Note on Medications
 
+**This part is not optional.** Some medications, particularly SSRIs and MAOIs, need to be tapered off well in advance under medical supervision. This is essential for your safety.
 ## Why This Is Critical
 
 Certain antidepressants interact dangerously with traditional plant medicines. The [Mayo Clinic's guide to MAOI interactions](https://www.mayoclinic.org/diseases-conditions/depression/expert-answers/maois/faq-20058035) explains why these combinations require careful medical oversight. Never adjust medications without your doctor's guidance.
@@ -89,8 +121,7 @@ Write it down. [Journaling in the weeks before your retreat](/blog/journaling-be
 
 An intention is not a wish list. It is a direction.
 
-Instead of *"I want to be happy,"* try something like **"I want to understand what is blocking me from feeling joy."**Instead of *"Fix my anxiety,"* try **"Show me the root of my fear."**#
-
+Instead of *"I want to be happy,"* try something like **"I want to understand what is blocking me from feeling joy."**Instead of *"Fix my anxiety,"* try **"Show me the root of my fear."**
 ## What Makes a Strong Intention
 
 A good intention is open ended. It gives the medicine room to work without boxing it into your expectations. The key is to stay curious rather than rigid. Let the process surprise you. Read our [full guide on setting an intention for ceremony](/blog/setting-intention-ceremony) if you want to go deeper here.
@@ -99,9 +130,10 @@ A good intention is open ended. It gives the medicine room to work without boxin
 
 Reduce your consumption of news, social media, and entertainment in the weeks before you leave. Not because those things are bad, but because they create noise. You want to arrive with a quieter mind.
 
-Consider a [digital detox](/blog/digital-detox-before-retreat) in the final week. Even a partial one helps.#
+Consider a [digital detox](/blog/digital-detox-before-retreat) in the final week. Even a partial one helps.
+## Simple Daily Practices That Help
 
-## Simple Daily Practices That Help- 10 minutes of silent sitting or meditation- Walking in nature without your phone- [Box breathing](https://www.health.harvard.edu/mind-and-mood/relaxation-techniques-breath-control-helps-quell-errant-stress-response) (inhale 4 counts, hold 4, exhale 4, hold 4)- Journaling before bed
+- 10 minutes of silent sitting or meditation- Walking in nature without your phone- [Box breathing](https://www.health.harvard.edu/mind-and-mood/relaxation-techniques-breath-control-helps-quell-errant-stress-response) (inhale 4 counts, hold 4, exhale 4, hold 4)- Journaling before bed
 
 Harvard Health has also written about [tactical breathing](https://www.health.harvard.edu/mind-and-mood/try-this-take-a-tactical-breather) as a way to calm the nervous system before stressful situations. The same principles apply here.
 
@@ -123,13 +155,17 @@ Wing](https://safetywing.com/) are popular options for South America.
 
 ## What to Pack
 
-We have a [full packing guide](/blog/what-to-pack-healing-retreat-peru) but here is the short version:#
+We have a [full packing guide](/blog/what-to-pack-healing-retreat-peru) but here is the short version:
+## Essentials
 
-## Essentials- Lightweight, breathable clothing (the Amazon is hot and humid)- A rain jacket or poncho- Bug spray with DEET or a strong natural alternative- A quality flashlight or headlamp (you will need this at night)- Comfortable shoes that can handle mud- A journal and pen- Earplugs and an eye mask#
+- Lightweight, breathable clothing (the Amazon is hot and humid)- A rain jacket or poncho- Bug spray with DEET or a strong natural alternative- A quality flashlight or headlamp (you will need this at night)- Comfortable shoes that can handle mud- A journal and pen- Earplugs and an eye mask
+## Often Overlooked
 
-## Often Overlooked- Electrolyte packets- A small amount of cash in Peruvian Soles- Ziplock bags for keeping things dry- A light blanket or shawl for ceremony nights
+- Electrolyte packets- A small amount of cash in Peruvian Soles- Ziplock bags for keeping things dry- A light blanket or shawl for ceremony nights
 
-## What to Leave Behind- Expectations about what your experience "should" look like- Valuables you do not need- Heavy electronics beyond your phone
+## What to Leave Behind
+
+- Expectations about what your experience "should" look like- Valuables you do not need- Heavy electronics beyond your phone
 
 - **Scented products** (perfumes, colognes, strong lotions — these interfere with the work)
 
@@ -139,9 +175,10 @@ Many retreat centers have limited or no internet. Let your family and workplace 
 
 ## Getting There
 
-Most international flights land in **Lima (Jorge Chavez International Airport)**. From there, you take a domestic flight to your regional airport. For retreats near [Pucallpa and Yarinacocha](/blog/pucallpa-yarinacocha-healing), fly into [Pucallpa (PCL)](https://en.wikipedia.org/wiki/Captain_FAP_David_Abensur_Rengifo_International_Airport). About one hour from Lima.#
+Most international flights land in **Lima (Jorge Chavez International Airport)**. From there, you take a domestic flight to your regional airport. For retreats near [Pucallpa and Yarinacocha](/blog/pucallpa-yarinacocha-healing), fly into [Pucallpa (PCL)](https://en.wikipedia.org/wiki/Captain_FAP_David_Abensur_Rengifo_International_Airport). About one hour from Lima.
+## Booking Domestic Flights
 
-## Booking Domestic Flights[LATAM Airlines](https://www.latamairlines.com/) operates daily flights from Lima to Pucallpa. Book early for the best prices. Check our [step by step travel guide](/blog/lima-to-jungle-travel-guide) for the full routing breakdown.
+[LATAM Airlines](https://www.latamairlines.com/) operates daily flights from Lima to Pucallpa. Book early for the best prices. Check our [step by step travel guide](/blog/lima-to-jungle-travel-guide) for the full routing breakdown.
 
 The last few days before departure are not the time to cram. They are the time to slow down.
 
@@ -167,8 +204,7 @@ Reread what you wrote. Sit with it. See if it still feels right or if it has shi
 
 ## Ask Your Questions Now
 
-Talk to your retreat center if you have any last concerns. No question is too small. Good centers welcome your curiosity. It is actually **a red flag if they do not.** If you are unsure what to ask, start with our list of [questions to ask before booking](/blog/questions-before-booking-retreat).#
-
+Talk to your retreat center if you have any last concerns. No question is too small. Good centers welcome your curiosity. It is actually **a red flag if they do not.** If you are unsure what to ask, start with our list of [questions to ask before booking](/blog/questions-before-booking-retreat).
 ## What Good Centers Will Tell You
 
 A trustworthy retreat center will be transparent about what to expect, what the risks are, and what their safety protocols look like. The [Chacruna Institute](https://chacruna.net/) is a respected research organization focused on ethical plant medicine practices and indigenous reciprocity. Their work is worth exploring if you want to understand what responsible healing looks like at a systemic level.

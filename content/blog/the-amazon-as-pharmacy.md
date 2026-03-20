@@ -73,7 +73,6 @@ When you come to the Amazon for healing, you are entering into that web of relat
 
 At Mai Niti Alternative, we operate within the Amazon, in the Pucallpa and Yarinacocha area, surrounded by the living pharmacy that makes this work possible. Learn more at [mainiti.org](https://mainiti.org/).
 
-
 ## Preserving the Pharmacy
 
 The urgency of protecting the Amazon cannot be overstated. Every hectare of rainforest lost takes with it plant species that may never be catalogued, compounds that might have treated diseases we have not yet cured, and generations of accumulated knowledge about their use. Supporting indigenous land rights, choosing retreat centers that invest in local communities, and advocating for rainforest conservation are not abstract political positions. They are direct actions to preserve the most extraordinary pharmacy the world has ever known. The plants are still there, waiting. The knowledge keepers are still teaching. But the window is narrowing. What we protect now determines what future generations will have access to for their healing.

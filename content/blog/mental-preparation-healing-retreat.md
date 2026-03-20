@@ -1,20 +1,42 @@
 ---
-title: "Mental Preparation for a Healing Retreat: What Actually H..."
-slug: "mental-preparation-healing-retreat"
-date: "2026-02-28"
-category: "Preparation"
+title: 'Mental Preparation for a Healing Retreat: What Actually H...'
+slug: mental-preparation-healing-retreat
+date: '2026-02-28'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Mental Preparation for a Healing Retreat"
-metaDescription: "How to mentally prepare for a healing retreat. Practical strategies for quieting the mind, managing fear, and arriving with the right mindset."
-excerpt: "How to mentally prepare for a healing retreat. Practical strategies for quieting the mind, managing fear, and arriving with the right mindset."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: Mental Preparation for a Healing Retreat
+metaDescription: >-
+  How to mentally prepare for a healing retreat. Practical strategies for
+  quieting the mind, managing fear, and arriving with the right mindset.
+excerpt: >-
+  How to mentally prepare for a healing retreat. Practical strategies for
+  quieting the mind, managing fear, and arriving with the right mindset.
+quickAnswer: >-
+  How to mentally prepare for a healing retreat. Practical strategies for
+  quieting the mind, managing fear, and arriving with the right mindset.
+keyTakeaways:
+  - What Mental Preparation Actually Does
+  - The Connection to Physical Prep
+  - >-
+    Understanding reduce information input in the context of plant medicine
+    healing
+  - Create Pockets of Silence
+  - Why This Feels Hard
+faq:
+  - question: What Mental Preparation Actually Does?
+    answer: A quiet mind receives more than a busy one.
+  - question: What is connection to physical prep?
+    answer: >-
+      Mental and physical preparation are not separate processes. They are
+      connected. When you clean up your diet, your mind gets clearer. When you
+      sleep better, your emotional regulation improves.
+  - question: What is reduce information input?
+    answer: 'Two weeks before your retreat, start cutting back on:'
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -27,8 +49,7 @@ Mental preparation is the most overlooked part of retreat readiness. Not because
 
 A quiet mind receives more than a busy one. When you arrive at ceremony with a mind full of work stress, relationship drama, social media chatter, and existential dread, the medicine has to work through all of that noise before it can get to the real work.
 
-Mental preparation is about reducing that noise so the medicine can reach deeper, faster.#
-
+Mental preparation is about reducing that noise so the medicine can reach deeper, faster.
 ## The Connection to Physical Prep
 
 Mental and physical preparation are not separate processes. They are connected. When you clean up your diet, your mind gets clearer. When you sleep better, your emotional regulation improves. When you move your body gently, your thoughts slow down. Our [physical preparation guide](/blog/physical-preparation-plant-medicine) covers the body side. This guide covers the mind.
@@ -53,8 +74,7 @@ A full [digital detox](/blog/digital-detox-before-retreat) is ideal in the final
 
 You do not need to meditate for an hour. Start with five minutes of sitting in silence. No phone. No music. No guided meditation. Just you and whatever shows up.
 
-This practice teaches your mind that silence is not a threat. It is space. And that space is exactly what you need in ceremony.#
-
+This practice teaches your mind that silence is not a threat. It is space. And that space is exactly what you need in ceremony.
 ## Why This Feels Hard
 
 For many people, silence is uncomfortable because it exposes what they have been avoiding. That discomfort is actually useful information. Notice what comes up. Write it down. That is pre ceremony processing already happening.
@@ -67,8 +87,7 @@ What specifically are you afraid of? Write it down. Be specific.- "I am afraid o
 
 ## Reframe the Fear
 
-Fear before a retreat is not a sign of unreadiness. It is a sign of awareness. You understand that this is serious work. That understanding is healthy. Read more about [managing pre ceremony anxiety](/blog/preparing-for-ceremony-anxiety).#
-
+Fear before a retreat is not a sign of unreadiness. It is a sign of awareness. You understand that this is serious work. That understanding is healthy. Read more about [managing pre ceremony anxiety](/blog/preparing-for-ceremony-anxiety).
 ## The Role of Surrender
 
 The antidote to fear in ceremony is not courage. It is surrender. Surrender does not mean giving up. It means choosing to trust the process even when you cannot see the path. This is something you can practice before you arrive.
@@ -89,8 +108,7 @@ Choose two or three of these and do them daily for at least one week before depa
 
 - **Walking in nature** , without your phone. 20 to 30 minutes. Notice what you see, hear, and feel.
 
-- **Breathwork** , box breathing or simple deep breathing for five minutes before bed.#
-
+- **Breathwork** , box breathing or simple deep breathing for five minutes before bed.
 ## Why Consistency Beats Intensity
 
 Five minutes every day is more valuable than one hour once. The goal is to build a rhythm that your nervous system can rely on. Consistency signals safety. Safety signals openness. Openness is what ceremony requires.
@@ -119,8 +137,9 @@ You do not understand what is about to happen. That is fine. The medicine has be
 
 Are you willing to feel things you have been avoiding? Are you willing to be surprised? Are you willing to sit in the dark and trust a process you cannot control?
 
-If the answer is yes, even a shaky yes, your mind is prepared enough.#
+If the answer is yes, even a shaky yes, your mind is prepared enough.
+## The Summary
 
-## The Summary- Reduce noise in the weeks before- Create daily pockets of silence- Name and work with your fears- Establish a simple daily practice- Arrive with curiosity, humility, and willingness
+- Reduce noise in the weeks before- Create daily pockets of silence- Name and work with your fears- Establish a simple daily practice- Arrive with curiosity, humility, and willingness
 
 For the complete preparation picture, combine this guide with our [full preparation guide](/blog/how-to-prepare-for-plant-medicine-retreat) and our [emotional readiness check](/blog/emotional-readiness-healing-retreat).<hr>*Rooted in Shipibo tradition. Held in the Amazon jungle. Led by indigenous healers. Learn more about Mai Niti at [mainiti.org](https://mainiti.org/).*

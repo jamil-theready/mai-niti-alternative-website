@@ -86,7 +86,6 @@ After you have done your research, trust your gut. Read reviews. Talk to alumni.
 
 At Mai Niti Alternative, we welcome questions. We believe transparency builds trust, and trust is the foundation of healing work. Learn more about our approach, our curanderos, and our protocols at [mainiti.org](https://mainiti.org/).
 
-
 ## Taking Your Time With This Decision
 
 There is no rush. The right retreat will still be there when you are ready. Spend weeks or even months researching. Reach out to centers with specific questions. Pay attention to how they respond. A center that takes time to answer thoughtfully, that does not pressure you to book immediately, and that demonstrates genuine care for your wellbeing before you have paid anything is showing you how they will treat you when you arrive. Trust that instinct. The quality of your healing experience begins long before you board the plane. It begins with the quality of your discernment in choosing where to go and who to trust with your process.

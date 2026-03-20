@@ -1,20 +1,46 @@
 ---
-title: "7 Signs You Are Ready for a Healing Retreat"
-slug: "signs-you-are-ready-for-healing-retreat"
-date: "2026-03-10"
-category: "Preparation"
+title: 7 Signs You Are Ready for a Healing Retreat
+slug: signs-you-are-ready-for-healing-retreat
+date: '2026-03-10'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "7 Signs You Are Ready for a Healing Retreat"
-metaDescription: "Not sure if you are ready for a healing retreat? These seven signs suggest the time might be now. An honest look at readiness and what it really means."
-excerpt: "Not sure if you are ready for a healing retreat? These seven signs suggest the time might be now. An honest look at readiness and what it really means."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: 7 Signs You Are Ready for a Healing Retreat
+metaDescription: >-
+  Not sure if you are ready for a healing retreat? These seven signs suggest the
+  time might be now. An honest look at readiness and what it really means.
+excerpt: >-
+  Not sure if you are ready for a healing retreat? These seven signs suggest the
+  time might be now. An honest look at readiness and what it really means.
+quickAnswer: >-
+  Not sure if you are ready for a healing retreat? These seven signs suggest the
+  time might be now. An honest look at readiness and what it really means.
+keyTakeaways:
+  - A Note on Timing
+  - What This List Is Not
+  - 'Sign 1: You Feel Stuck in a Pattern You Cannot Break'
+  - 'Sign 2: You Are Drawn to This Work and Cannot Explain Why'
+  - 'Sign 3: You Are Willing to Be Uncomfortable'
+faq:
+  - question: What is a note on timing?
+    answer: >-
+      There is no perfect moment. Waiting until you feel "ready enough" can
+      become its own form of avoidance. The people who get the most out of
+      retreat work are not the ones who had no fear.
+  - question: What This List Is Not?
+    answer: >-
+      This is not a checklist you need to complete. If even one or two of these
+      signs resonate, that is worth paying attention to. You do not need all
+      seven. You just need honesty.
+  - question: 'What is sign 1: you feel stuck in a pattern you cannot break?'
+    answer: >-
+      You have tried to change. Maybe multiple times. You know what the pattern
+      is. You can name it. You might even understand where it comes from. But
+      knowing is not the same as healing.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -25,8 +51,7 @@ But there are signals. Patterns. Inner nudges that suggest the time is right. No
 
 ## A Note on Timing
 
-There is no perfect moment. Waiting until you feel "ready enough" can become its own form of avoidance. The people who get the most out of retreat work are not the ones who had no fear. They are the ones who went despite it.#
-
+There is no perfect moment. Waiting until you feel "ready enough" can become its own form of avoidance. The people who get the most out of retreat work are not the ones who had no fear. They are the ones who went despite it.
 ## What This List Is Not
 
 This is not a checklist you need to complete. If even one or two of these signs resonate, that is worth paying attention to. You do not need all seven. You just need honesty.
@@ -47,16 +72,14 @@ Sometimes the call is not logical. You read an article. A friend mentioned their
 
 This is a big one. A healing retreat is not about comfort. It is about truth. And truth is not always comfortable.
 
-If you are going to a retreat hoping it will be easy and pleasant, you might be disappointed. But if you are willing to sit with discomfort, to face what you have been avoiding, to let the medicine show you things you might not want to see — that willingness is a powerful sign of readiness.#
-
+If you are going to a retreat hoping it will be easy and pleasant, you might be disappointed. But if you are willing to sit with discomfort, to face what you have been avoiding, to let the medicine show you things you might not want to see — that willingness is a powerful sign of readiness.
 ## Willingness vs Wanting
 
 There is a difference between wanting to heal and being willing to do what healing requires. Wanting is passive. Willingness is active. It says: **"I do not know what is coming, but I am showing up anyway."**
 
 ## Sign 4: You Have Done Some Inner Work Already
 
-A retreat is not a substitute for basic self awareness. People who benefit most have usually done some foundational work. This could look like:- Therapy or counseling- A meditation or [yoga practice](/blog/yoga-and-meditation-before-retreat)- Journaling or self reflection- Recovery work (12 step, somatic, or otherwise)- Reading and educating yourself about healingYou do not need years of experience. But some level of self awareness helps you navigate what comes up in ceremony. It gives you a framework to hold intense experiences.#
-
+A retreat is not a substitute for basic self awareness. People who benefit most have usually done some foundational work. This could look like:- Therapy or counseling- A meditation or [yoga practice](/blog/yoga-and-meditation-before-retreat)- Journaling or self reflection- Recovery work (12 step, somatic, or otherwise)- Reading and educating yourself about healingYou do not need years of experience. But some level of self awareness helps you navigate what comes up in ceremony. It gives you a framework to hold intense experiences.
 ## What If You Have Not Done Any Inner Work
 
 That does not automatically disqualify you. But it does mean the experience may be more overwhelming. Consider starting with some of the practices above before booking. Our guide on [mental preparation for a retreat](/blog/mental-preparation-healing-retreat) is a good starting point.
@@ -77,8 +100,7 @@ The right questions look like:- "What does this process actually involve?"- "Wha
 
 ## Sign 7: Something Inside You Already Knows
 
-This one is hard to articulate but easy to recognize. Beneath the doubt, beneath the fear, beneath the logistics and the questions, there is a quiet knowing.It does not shout. It does not argue. It just sits there, steady and clear. And when you get quiet enough to hear it, it says: **"It is time."**Trust that voice. It has been right before.#
-
+This one is hard to articulate but easy to recognize. Beneath the doubt, beneath the fear, beneath the logistics and the questions, there is a quiet knowing.It does not shout. It does not argue. It just sits there, steady and clear. And when you get quiet enough to hear it, it says: **"It is time."**Trust that voice. It has been right before.
 ## How to Hear It
 
 The knowing does not come when you are scrolling your phone or arguing with your inner critic. It comes in the quiet. On a walk. In the shower. At three in the morning when the world is still. If you want to hear it, you have to create the conditions for it to speak.Sit with the question for a week. Do not force an answer. Just hold the question and see what rises. That is all you need to do.
@@ -89,8 +111,7 @@ You do not need to act today. But do not ignore what you are feeling. Start with
 
 ## If You Are Not Sure Yet
 
-That is fine too. Readiness is not a destination. It is a direction. You can move toward it at your own pace. Start a [journaling practice](/blog/journaling-before-retreat). Sit with your intention. See what emerges.#
-
+That is fine too. Readiness is not a destination. It is a direction. You can move toward it at your own pace. Start a [journaling practice](/blog/journaling-before-retreat). Sit with your intention. See what emerges.
 ## What Readiness Is Not
 
 Readiness is not the absence of fear. It is not confidence. It is not having all the answers. It is simply this: a willingness to show up honestly and let the process do what it does.If you have that willingness, you are more ready than you think.

@@ -83,7 +83,6 @@ If you are [preparing for your first ceremony](/blog/preparing-for-your-first-ce
 
 For specific dieta guidelines for your retreat at Mai Niti Alternative, visit [mainiti.org](https://mainiti.org/).
 
-
 ## The Dieta as Teacher
 
 Many experienced practitioners say the dieta itself is one of the greatest teachers. The restrictions force you to confront habits, cravings, and attachments you did not realize you had. The simplicity of the diet clears mental fog. The social isolation creates space for self-reflection that modern life rarely allows. By the time ceremony arrives, the dieta has already begun the healing process. Your body is lighter. Your mind is clearer. Your sensitivity to the plants is heightened. What felt like deprivation in the first days reveals itself as a profound gift of clarity and readiness.

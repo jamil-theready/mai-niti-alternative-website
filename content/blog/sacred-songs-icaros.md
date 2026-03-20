@@ -73,7 +73,6 @@ Even people who arrive skeptical of the concept of healing songs often report th
 
 At Mai Niti Alternative, our curanderos carry rich traditions of icaros passed down through the [Shipibo lineage](/blog/the-shipibo-healing-tradition). The songs you hear in our ceremonies are the real thing, earned through years of dedicated practice. Learn more at [mainiti.org](https://mainiti.org/).
 
-
 ## Listening With the Heart
 
 For those preparing to experience icaros in ceremony, the most important advice is simple. Do not try to analyze the songs intellectually. Do not compare them to music you know. Instead, let the sounds wash through you. The icaros are working whether or not your conscious mind understands them. Many participants report that certain songs seem to speak directly to their specific situation, as if the curandero knew exactly what they needed to hear. In the Shipibo understanding, this is precisely what is happening. The curandero perceives your energetic state and selects the exact song that addresses it. Your task is to remain open, receptive, and willing to be moved by something far older and wiser than words. The icaros have been singing people back to wholeness for thousands of years. They will sing for you too.

@@ -1,21 +1,45 @@
 ---
-title: "Plant Medicine and Self-Love: Healing the Relationship wi..."
-slug: "plant-medicine-and-self-love"
-date: "2026-03-13"
-category: "Tradition"
-hook: "You cannot pour from an empty cup. Ceremony fills it."
+title: 'Plant Medicine and Self-Love: Healing the Relationship wi...'
+slug: plant-medicine-and-self-love
+date: '2026-03-13'
+category: Tradition
+hook: You cannot pour from an empty cup. Ceremony fills it.
 tags: []
-readTime: "9 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Plant Medicine and Self-Love: How Ceremony Teaches Self-A..."
-metaDescription: "Self-love is not a luxury. It is the foundation of all healing. Discover how plant medicine ceremony helps you rebuild your relationship with yourself."
-excerpt: "Self-love is not a luxury. It is the foundation of all healing. Discover how plant medicine ceremony helps you rebuild your relationship with yourself."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Healing Center"
-language: "en"
+readTime: 9 min read
+image: ''
+imageAlt: ''
+metaTitle: 'Plant Medicine and Self-Love: How Ceremony Teaches Self-A...'
+metaDescription: >-
+  Self-love is not a luxury. It is the foundation of all healing. Discover how
+  plant medicine ceremony helps you rebuild your relationship with yourself.
+excerpt: >-
+  Self-love is not a luxury. It is the foundation of all healing. Discover how
+  plant medicine ceremony helps you rebuild your relationship with yourself.
+quickAnswer: >-
+  Self-love is not a luxury. It is the foundation of all healing. Discover how
+  plant medicine ceremony helps you rebuild your relationship with yourself.
+keyTakeaways:
+  - Why Self-Love Is Central to Healing
+  - Understanding the self-love gap in the context of plant medicine healing
+  - How Ceremony Reveals Self-Rejection
+  - >-
+    Understanding body-level self-rejection in the context of plant medicine
+    healing
+  - The Medicine of Self-Compassion
+faq:
+  - question: Why Self-Love Is Central to Healing?
+    answer: >-
+      Every wound, every pattern, every form of suffering that people bring to
+      plant medicine [ceremony](/blog/what-happens-during-ceremony) eventually
+      traces back to the relationship you have with yourself
+  - question: What is self-love gap?
+    answer: >-
+      Most people who attend plant medicine retreats are far better at loving
+      others than they are at loving themselves.
+  - question: How Ceremony Reveals Self-Rejection?
+    answer: 'Plant medicine amplifies everything, including your inner critic.'
+author: Mai Niti Healing Center
+language: en
 draft: false
 featured: false
 ---
@@ -25,7 +49,6 @@ featured: false
 Every wound, every pattern, every form of suffering that people bring to plant medicine [ceremony](/blog/what-happens-during-ceremony) eventually traces back to the relationship you have with yourself. [Depression](/blog/plant-medicine-for-depression) is often rooted in self-rejection. [Anxiety](/blog/plant-medicine-and-anxiety) frequently stems from a fundamental distrust of your own capacity to handle life. Addiction is commonly a strategy for escaping a self you find unbearable to inhabit.
 
 Traditional healers understand this intuitively. The [curandero](/blog/role-of-the-curandero) does not just treat symptoms. They work to restore the participant's relationship with their own being. When that relationship is healed, many of the surface-level problems begin to resolve on their own because the root cause, the war you wage against yourself, has found its ceasefire.
-
 
 ## The Self-Love Gap
 
@@ -39,7 +62,6 @@ Plant medicine amplifies everything, including your inner critic. The voice that
 
 Participants often describe a moment in ceremony where they suddenly recognize their self-criticism as a distinct voice rather than objective truth. This separation between you and your inner critic is the beginning of freedom. The voice may have been running the show for decades, but in the expanded awareness of ceremony, you can finally see it as a pattern rather than reality.
 
-
 ## Body-Level Self-Rejection
 
 Self-rejection does not live only in the mind. It lives in the body as chronic tension, as holding patterns, as the inability to fully relax or receive pleasure. Ceremony often brings attention to the physical locations where self-rejection has been stored. Tightness in the chest, constriction in the throat, a clenched jaw, a guarded belly, these are the body's armor against a self it was taught to mistrust.
@@ -51,7 +73,6 @@ The [emotional releases](/blog/emotional-release-in-ceremony) that happen in cer
 Self-compassion is not self-pity. It is not weakness. It is the decision to treat yourself with the same kindness you would offer a loved friend in pain. In ceremony, this decision often arrives not as a thought but as an experience. The medicine may show you yourself through the eyes of unconditional love, and the impact of being truly seen without judgment can be shattering in the most healing way possible.
 
 Some participants describe experiencing themselves as a child during ceremony and feeling a wave of protective tenderness toward that child. The recognition that your adult self can now offer the child self what it needed but never received is a turning point that many people identify as the most transformative moment of their entire plant medicine journey.
-
 
 ## Receiving vs Earning
 
@@ -65,7 +86,6 @@ After ceremony, the work of rebuilding your relationship with yourself happens i
 
 Start by noticing the inner critic without engaging with it. When the voice says you are not enough, simply notice: "There is the critic again." This noticing, practiced through [meditation](/blog/meditation-and-plant-medicine) and daily mindfulness, gradually reduces the critic's power. You do not need to fight it. You need to stop believing it.
 
-
 ## The Mirror Practice
 
 A simple but powerful practice is to look at yourself in the mirror each morning and say something kind. Not an affirmation you copied from a book. Something genuine. Something you would say to a friend. "You are doing your best." "I see you." "You deserve kindness today." This practice feels awkward, even silly, at first. Persist anyway. The awkwardness is the inner critic resisting a challenge to its authority.
@@ -77,7 +97,6 @@ Over time, the gap between how you treat yourself and how you treat others begin
 The most effective self-love practices are the ones you actually do. Elaborate routines that you abandon after a week are less valuable than a single practice you maintain for months. Choose one thing that feels manageable and commit to it for 30 days. A two-minute morning check-in with yourself. A [journal](/blog/journaling-for-integration) entry about what you appreciate about yourself. A deliberate act of self-care each evening, whatever it is.
 
 Physical self-care is self-love made tangible. Feeding yourself nourishing food. Moving your body with kindness rather than punishment. Getting adequate sleep. Spending time in [nature](/blog/nature-connection-and-healing). These are not luxuries. They are the baseline requirements of treating yourself as someone worthy of care. Many people discover that their plant medicine insights about self-love translate most powerfully through these simple, physical acts.
-
 
 ## The Long View
 

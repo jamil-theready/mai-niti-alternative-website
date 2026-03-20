@@ -1,20 +1,49 @@
 ---
-title: "Fasting Before Ceremony: What You Need to Know"
-slug: "fasting-before-ceremony"
-date: "2026-02-05"
-category: "Preparation"
+title: 'Fasting Before Ceremony: What You Need to Know'
+slug: fasting-before-ceremony
+date: '2026-02-05'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Fasting Before Ceremony: What to Know"
-metaDescription: "Should you fast before a healing ceremony? Learn about the tradition of fasting, how long to fast, and what to expect when you sit down without eating."
-excerpt: "Should you fast before a healing ceremony? Learn about the tradition of fasting, how long to fast, and what to expect when you sit down without eating."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: 'Fasting Before Ceremony: What to Know'
+metaDescription: >-
+  Should you fast before a healing ceremony? Learn about the tradition of
+  fasting, how long to fast, and what to expect when you sit down without
+  eating.
+excerpt: >-
+  Should you fast before a healing ceremony? Learn about the tradition of
+  fasting, how long to fast, and what to expect when you sit down without
+  eating.
+quickAnswer: >-
+  Should you fast before a healing ceremony? Learn about the tradition of
+  fasting, how long to fast, and what to expect when you sit down without
+  eating.
+keyTakeaways:
+  - >-
+    Understanding the spiritual dimension in the context of plant medicine
+    healing
+  - What This Guide Covers
+  - Understanding the standard approach in the context of plant medicine healing
+  - Understanding first timers in the context of plant medicine healing
+  - What to Eat Before the Fast
+faq:
+  - question: What is spiritual dimension?
+    answer: >-
+      Fasting is not just about digestion. In many indigenous traditions,
+      fasting is a form of offering. You are emptying yourself physically so you
+      can be filled spiritually.
+  - question: What This Guide Covers?
+    answer: >-
+      We will walk through how long to fast, what it feels like, how to stay
+      hydrated, and how to break the fast properly.
+  - question: What is standard approach?
+    answer: >-
+      Most traditional centers recommend eating your last meal **four to six
+      hours before ceremony**.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -27,8 +56,7 @@ An empty stomach makes the medicine more effective and the purging process clean
 
 Fasting is not just about digestion. In many indigenous traditions, fasting is a form of offering. You are emptying yourself physically so you can be filled spiritually. It is a gesture of humility and readiness.
 
-Many participants describe the fast as the moment their preparation becomes tangible. You have been following the dieta, adjusting your habits, doing the mental work. But fasting is the point where your body physically clears space. It is the last step before you sit down and say: I am ready.#
-
+Many participants describe the fast as the moment their preparation becomes tangible. You have been following the dieta, adjusting your habits, doing the mental work. But fasting is the point where your body physically clears space. It is the last step before you sit down and say: I am ready.
 ## What This Guide Covers
 
 We will walk through how long to fast, what it feels like, how to stay hydrated, and how to break the fast properly. If you want the broader context, start with our [guide to the dieta](/blog/dieta-explained).
@@ -41,8 +69,7 @@ Most traditional centers recommend eating your last meal **four to six hours bef
 
 If this is your first ceremony, follow your center's guidelines exactly. Do not try to push yourself with an extended fast unless the healer recommends it. A four to six hour fast is sufficient.
 
-There is no honor in suffering through a longer fast than you need to. The medicine does not reward the person who fasted the longest. It works with whatever state your body is in. A comfortable four-hour fast puts you in a much better position than a miserable twelve-hour one that leaves you shaking and distracted.#
-
+There is no honor in suffering through a longer fast than you need to. The medicine does not reward the person who fasted the longest. It works with whatever state your body is in. A comfortable four-hour fast puts you in a much better position than a miserable twelve-hour one that leaves you shaking and distracted.
 ## What to Eat Before the Fast
 
 Your pre fast meal should be:- Light and simple- Easy to digest (rice, steamed vegetables, plain chicken or fish)- Not too large- Nothing on the [dieta restricted list](/blog/dieta-explained)Avoid eating a large meal thinking it will "hold you over." That is the worst thing you can do. A heavy stomach during ceremony creates misery.
@@ -55,8 +82,7 @@ You might feel hungry. This is normal. It passes. Your body has plenty of energy
 
 ## As Ceremony Approaches
 
-Many people find that nervousness replaces hunger as ceremony time gets closer. The anticipation shifts your focus away from food entirely. By the time you sit down in the maloca, food is the last thing on your mind.#
-
+Many people find that nervousness replaces hunger as ceremony time gets closer. The anticipation shifts your focus away from food entirely. By the time you sit down in the maloca, food is the last thing on your mind.
 ## During Ceremony
 
 You will not feel hungry during ceremony. The medicine occupies your full attention. If anything, you will be grateful your stomach is empty when the purging begins.
@@ -75,8 +101,7 @@ While you stop eating, **do not stop drinking water**. Stay hydrated throughout 
 
 ## Electrolytes
 
-Add an electrolyte packet to your water in the afternoon before ceremony. This helps maintain your mineral balance and prevents the dizziness or headaches that can come from sweating and not eating.#
-
+Add an electrolyte packet to your water in the afternoon before ceremony. This helps maintain your mineral balance and prevents the dizziness or headaches that can come from sweating and not eating.
 ## What to Drink
 
 - **Water** , plain, filtered, room temperature
@@ -103,8 +128,7 @@ When ceremony ends (usually in the early morning hours), most people are not hun
 
 ## The Morning After
 
-Breakfast after a ceremony night is usually simple: rice, plantains, a light soup, herbal tea. Eat what feels right. If you are not hungry, do not force it. Your body knows what it needs.#
-
+Breakfast after a ceremony night is usually simple: rice, plantains, a light soup, herbal tea. Eat what feels right. If you are not hungry, do not force it. Your body knows what it needs.
 ## Rehydrate
 
 Purging during ceremony can leave you dehydrated. Drink water and electrolytes throughout the following day. Listen to your body. If you feel dizzy or weak, drink more and eat something light.

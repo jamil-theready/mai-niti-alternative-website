@@ -79,7 +79,6 @@ During [integration](/blog/integration-after-ceremony), revisit your original in
 
 To learn more about the ceremonial process at Mai Niti Alternative, visit [mainiti.org](https://mainiti.org/).
 
-
 ## Holding Intentions Lightly
 
 The paradox of intention setting is that the tighter you grip your desired outcome, the less space you leave for genuine healing. The most powerful ceremonies often deliver something completely different from what the participant requested, and something far more profound than what they imagined. Set your intention with sincerity. Write it on paper. Speak it aloud. Then release your attachment to how it should be answered. The medicine has its own intelligence, refined over millennia. It knows what you need, often better than you do. Your intention is the invitation. What arrives is the gift.

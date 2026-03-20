@@ -65,7 +65,6 @@ The path of plant medicine is not for everyone. But for those who feel called, i
 
 To learn more about beginning your journey with Mai Niti Alternative, visit [mainiti.org](https://mainiti.org/).
 
-
 ## A Path Worth Walking Carefully
 
 Plant medicine is not for everyone, and it is not a casual undertaking. But for those who feel genuinely called to this path, who have done their research, who approach with humility and respect for the traditions that carry it, the potential for deep and lasting transformation is real. Thousands of years of continuous practice by indigenous healers is not a trend or a fad. It is a proven system of healing that has survived precisely because it works. The question is not whether plant medicine is powerful. The question is whether you are ready to meet that power with the seriousness, preparation, and commitment it deserves.

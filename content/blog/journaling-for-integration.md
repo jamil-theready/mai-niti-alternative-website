@@ -1,21 +1,44 @@
 ---
-title: "Journaling for Plant Medicine Integration: A Practical Guide"
-slug: "journaling-for-integration"
-date: "2026-03-12"
-category: "Integration"
-hook: "Write it down before the ordinary mind explains it away."
+title: 'Journaling for Plant Medicine Integration: A Practical Guide'
+slug: journaling-for-integration
+date: '2026-03-12'
+category: Integration
+hook: Write it down before the ordinary mind explains it away.
 tags: []
-readTime: "9 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Journaling for Plant Medicine Integration: Tips & Techniques"
-metaDescription: "Journaling is the single most accessible integration tool. Learn how to use writing to capture, process, and deepen your ceremony insights."
-excerpt: "Journaling is the single most accessible integration tool. Learn how to use writing to capture, process, and deepen your ceremony insights."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Healing Center"
-language: "en"
+readTime: 9 min read
+image: ''
+imageAlt: ''
+metaTitle: 'Journaling for Plant Medicine Integration: Tips & Techniques'
+metaDescription: >-
+  Journaling is the single most accessible integration tool. Learn how to use
+  writing to capture, process, and deepen your ceremony insights.
+excerpt: >-
+  Journaling is the single most accessible integration tool. Learn how to use
+  writing to capture, process, and deepen your ceremony insights.
+quickAnswer: >-
+  Journaling is the single most accessible integration tool. Learn how to use
+  writing to capture, process, and deepen your ceremony insights.
+keyTakeaways:
+  - Why Journaling Matters for Integration
+  - >-
+    Understanding the forgetting problem in the context of plant medicine
+    healing
+  - When and How to Write
+  - Understanding analog over digital in the context of plant medicine healing
+  - What to Capture After Ceremony
+faq:
+  - question: Why Journaling Matters for Integration?
+    answer: >-
+      Ceremony experiences are vast, non-linear, and often impossible to hold in
+      ordinary memory.
+  - question: What is forgetting problem?
+    answer: >-
+      Studies on memory formation during altered states consistently show that
+      recall diminishes rapidly.
+  - question: When and How to Write?
+    answer: The ideal time to journal is as soon as possible after ceremony ends.
+author: Mai Niti Healing Center
+language: en
 draft: false
 featured: false
 ---
@@ -25,7 +48,6 @@ featured: false
 Ceremony experiences are vast, non-linear, and often impossible to hold in ordinary memory. The expanded states of consciousness produced by plant medicine generate insights, emotions, and perceptions that the rational mind struggles to retain once you return to baseline. Without a deliberate practice of capturing these experiences, the most important revelations can fade within days like a dream you cannot quite remember.
 
 Journaling creates a bridge between the ceremony experience and your daily life. It gives form to the formless. It anchors the ephemeral. When you write down what happened in ceremony, you are not just recording events. You are beginning the process of [integration](/blog/plant-medicine-and-trauma-healing), which is the work of making ceremony insights relevant and applicable to your waking life.
-
 
 ## The Forgetting Problem
 
@@ -39,7 +61,6 @@ The ideal time to journal is as soon as possible after ceremony ends. Many exper
 
 The morning after ceremony is the second critical window. Before breakfast, before conversation, before checking your phone, sit with your journal and write. Start with what you remember, then let the pen take over. Stream of consciousness writing often recovers details that deliberate recall misses. Do not edit. Do not organize. Just write.
 
-
 ## Analog Over Digital
 
 Use a physical notebook and pen rather than a phone or laptop. Handwriting engages the body in ways that typing does not. The slower pace of handwriting also creates space for reflection between thoughts. You are not transcribing a lecture. You are processing an experience that engaged your entire being. The physicality of pen on paper honors that fullness.
@@ -51,7 +72,6 @@ Keep your journal with you throughout the retreat. Ideas, connections, and emoti
 Document the sensory details first. What did you see? What did you feel in your body? Were there specific sounds, temperatures, or physical sensations? These concrete details serve as anchors for the more abstract emotional and psychological content. Start with the body and let the meaning follow.
 
 Record the emotional arc of the ceremony. Did you feel fear, joy, grief, anger, love, confusion? In what sequence? Were there moments of breakthrough or moments of resistance? What was the [purging](/blog/purging-in-ceremony) like, if it happened? Physical, emotional, or both? Tracking the emotional journey helps you identify patterns across multiple ceremonies over time.
-
 
 ## Insights and Questions
 
@@ -65,7 +85,6 @@ Free writing is the most basic and often most effective technique. Set a timer f
 
 Dialogue writing involves writing a conversation between yourself and a figure or force from your ceremony experience. If you encountered a specific presence, a version of yourself, or an emotional state during ceremony, write a dialogue with it. Ask it questions. Let it respond. This technique can unlock understanding that pure narrative journaling misses.
 
-
 ## Drawing and Non-Verbal Expression
 
 Not everything from ceremony translates into words. [Visual expression](/blog/shipibo-art-and-healing) can capture geometry, color, movement, and spatial relationships that language cannot. You do not need artistic skill for this. Simple shapes, color fields, or abstract marks can represent energetic patterns, emotional textures, or visionary content that defies verbal description.
@@ -77,7 +96,6 @@ Some people find that combining writing and drawing on the same page creates the
 Integration journaling does not end when you return home from retreat. The most valuable insights often emerge weeks or months after ceremony, triggered by ordinary life experiences that suddenly illuminate something you saw or felt during the session. Maintaining a regular journaling practice, even just five to ten minutes a day, creates a container for these delayed revelations.
 
 Review your ceremony journals periodically. Every few weeks, reread your entries from retreat. You will be surprised by how your understanding of the experience evolves over time. Details that seemed insignificant during the retreat may suddenly reveal their importance months later. Connections between different ceremonies become visible. Patterns in your healing journey emerge.
-
 
 ## The Journal as Compass
 

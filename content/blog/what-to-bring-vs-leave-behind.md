@@ -1,20 +1,43 @@
 ---
-title: "What to Bring and What to Leave Behind at a Retreat"
-slug: "what-to-bring-vs-leave-behind"
-date: "2026-02-19"
-category: "Preparation"
+title: What to Bring and What to Leave Behind at a Retreat
+slug: what-to-bring-vs-leave-behind
+date: '2026-02-19'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "What to Bring and Leave Behind at a Retreat"
-metaDescription: "A practical guide on what to bring and what to leave behind for your healing retreat. Beyond the packing list, this covers the intangible essentials too."
-excerpt: "A practical guide on what to bring and what to leave behind for your healing retreat. Beyond the packing list, this covers the intangible essentials too."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: What to Bring and Leave Behind at a Retreat
+metaDescription: >-
+  A practical guide on what to bring and what to leave behind for your healing
+  retreat. Beyond the packing list, this covers the intangible essentials too.
+excerpt: >-
+  A practical guide on what to bring and what to leave behind for your healing
+  retreat. Beyond the packing list, this covers the intangible essentials too.
+quickAnswer: >-
+  A practical guide on what to bring and what to leave behind for your healing
+  retreat. Beyond the packing list, this covers the intangible essentials too.
+keyTakeaways:
+  - Understanding two lists in the context of plant medicine healing
+  - Understanding why both matter in the context of plant medicine healing
+  - Understanding the essentials in the context of plant medicine healing
+  - Understanding often forgotten in the context of plant medicine healing
+  - Understanding comfort items in the context of plant medicine healing
+faq:
+  - question: What is two lists?
+    answer: >-
+      This guide covers both: the things you should physically bring, the things
+      you should intentionally carry in spirit, the physical items to leave at
+      home, and the mental baggage to drop before you arri
+  - question: Why Both Matter?
+    answer: >-
+      A person who brings the perfect gear but arrives with a closed mind and
+      rigid expectations will have a harder time than someone with a half packed
+      bag and a fully open heart.
+  - question: What is essentials?
+    answer: '- **Passport and documents** , copies in digital and physical form'
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -27,8 +50,7 @@ But there is a second packing list that nobody talks about. The intangible one. 
 
 This guide covers both: the things you should physically bring, the things you should intentionally carry in spirit, the physical items to leave at home, and the mental baggage to drop before you arrive.
 
-Think of it this way: the physical list keeps you comfortable. The intangible list keeps you open. You need both. A person who is physically prepared but emotionally closed off will have a frustrating experience. A person who is emotionally open but physically miserable will be distracted by discomfort when they should be going deeper.#
-
+Think of it this way: the physical list keeps you comfortable. The intangible list keeps you open. You need both. A person who is physically prepared but emotionally closed off will have a frustrating experience. A person who is emotionally open but physically miserable will be distracted by discomfort when they should be going deeper.
 ## Why Both Matter
 
 A person who brings the perfect gear but arrives with a closed mind and rigid expectations will have a harder time than someone with a half packed bag and a fully open heart. The external preparation supports the internal preparation. Neither one alone is enough.
@@ -65,8 +87,7 @@ A person who brings the perfect gear but arrives with a closed mind and rigid ex
 
 ## Comfort Items
 
-A few personal comfort items can make a real difference. A favorite shawl for ceremony. A small photo that grounds you. A simple talisman or object that carries personal meaning. These are not frivolous. They are anchors that remind you of who you are when the experience gets intense.#
-
+A few personal comfort items can make a real difference. A favorite shawl for ceremony. A small photo that grounds you. A simple talisman or object that carries personal meaning. These are not frivolous. They are anchors that remind you of who you are when the experience gets intense.
 ## Less Is More
 
 When in doubt, leave it out. You can survive with much less than you think. The simplicity is part of the experience. Our detailed [packing list](/blog/what-to-pack-healing-retreat-peru) has the full breakdown.
@@ -83,8 +104,7 @@ Arrive with a clear, open ended [intention](/blog/setting-intention-ceremony). N
 
 ## Willingness to Be Uncomfortable
 
-The jungle is physically uncomfortable. Ceremony is emotionally uncomfortable. Both are designed that way. Bringing a willingness to be uncomfortable is the single most powerful thing you can carry.#
-
+The jungle is physically uncomfortable. Ceremony is emotionally uncomfortable. Both are designed that way. Bringing a willingness to be uncomfortable is the single most powerful thing you can carry.
 ## Curiosity
 
 Wonder is an underrated tool. "I wonder what will happen" is a better mindset than "I know what will happen" or "I am afraid of what will happen." Curiosity keeps you present and receptive.
@@ -105,15 +125,16 @@ You are about to do something brave and difficult. You will not do it perfectly.
 
 - **Heavy luggage** , you may need to travel by boat or walk on muddy paths. A large suitcase is a burden.
 
-The point of leaving physical items behind is not minimalism for its own sake. It is about removing distractions. Every unnecessary item you bring is something you have to manage, worry about, or make decisions about. At a retreat, your decision-making energy should go toward your inner work, not your luggage.#
-
+The point of leaving physical items behind is not minimalism for its own sake. It is about removing distractions. Every unnecessary item you bring is something you have to manage, worry about, or make decisions about. At a retreat, your decision-making energy should go toward your inner work, not your luggage.
 ## Why Scented Products Matter
 
 This one surprises people. In the Shipibo tradition, strong artificial scents create interference with the plant spirits. It is not superstition. It is a practice refined over generations. Most centers will ask you to switch to unscented products before you arrive.
 
 This is the harder list. And the more important one.
 
-## Rigid Expectations"I need to have a vision." "This must cure my depression." "I will have a breakthrough by night three." Drop all of it. Expectations create a lens that distorts the actual experience.
+## Rigid Expectations
+
+"I need to have a vision." "This must cure my depression." "I will have a breakthrough by night three." Drop all of it. Expectations create a lens that distorts the actual experience.
 
 ## The Need to Control
 
@@ -121,8 +142,7 @@ You cannot control what the medicine does. You cannot control what comes up. You
 
 ## Judgment
 
-Of yourself. Of others. Of the process. Judgment closes doors that need to be open for healing to happen. Practice noticing judgment and letting it pass without acting on it.#
-
+Of yourself. Of others. Of the process. Judgment closes doors that need to be open for healing to happen. Practice noticing judgment and letting it pass without acting on it.
 ## Other People's Opinions
 
 Leave behind the voices of everyone who has an opinion about what you are doing. Your mother's worry. Your friend's skepticism. Your colleague's judgment. This is *your* journey. Their opinions do not get a seat in the maloca.

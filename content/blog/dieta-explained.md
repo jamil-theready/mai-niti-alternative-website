@@ -1,20 +1,48 @@
 ---
-title: "The Dieta Explained: Why Diet Matters Before Ceremony"
-slug: "dieta-explained"
-date: "2026-02-24"
-category: "Preparation"
+title: 'The Dieta Explained: Why Diet Matters Before Ceremony'
+slug: dieta-explained
+date: '2026-02-24'
+category: Preparation
 tags: []
-readTime: "6 min read"
-image: ""
-imageAlt: ""
-metaTitle: "The Dieta Explained: Why Diet Matters"
-metaDescription: "The traditional dieta is more than just food restrictions. Learn why diet matters before ceremony and how it prepares your body for deep healing work."
-excerpt: "The traditional dieta is more than just food restrictions. Learn why diet matters before ceremony and how it prepares your body for deep healing work."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 6 min read
+image: ''
+imageAlt: ''
+metaTitle: 'The Dieta Explained: Why Diet Matters'
+metaDescription: >-
+  The traditional dieta is more than just food restrictions. Learn why diet
+  matters before ceremony and how it prepares your body for deep healing work.
+excerpt: >-
+  The traditional dieta is more than just food restrictions. Learn why diet
+  matters before ceremony and how it prepares your body for deep healing work.
+quickAnswer: >-
+  The traditional dieta is more than just food restrictions. Learn why diet
+  matters before ceremony and how it prepares your body for deep healing work.
+keyTakeaways:
+  - A Practice of Respect
+  - How Long Does a Dieta Last
+  - The Difference Between Pre Retreat Diet and a Full Dieta
+  - Understanding what to remove in the context of plant medicine healing
+  - >-
+    What to Eat- Steamed or grilled fish and chicken- Rice, quinoa, and oats-
+    Fresh fruits and vegetables- Herbal teas (chamomile, ginger, peppermint)-
+    Clean water in large quantities
+faq:
+  - question: What is a practice of respect?
+    answer: >-
+      The dieta is not about punishment or deprivation. It is about creating the
+      right conditions for healing. Think of it as clearing the channel so the
+      signal can come through clean.
+  - question: How Long Does a Dieta Last?
+    answer: >-
+      The length depends on the context. Before a retreat, most centers
+      recommend starting a basic dieta **one to two weeks** in advance.
+  - question: What is difference between pre retreat diet and a full dieta?
+    answer: >-
+      There is an important distinction. The pre retreat dietary guidelines you
+      receive before arriving are a simplified version. They clean up your body
+      and prepare you for ceremony.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -27,8 +55,7 @@ In the [Shipibo tradition](/blog/shipibo-healing-tradition-introduction), the di
 
 The dieta is not about punishment or deprivation. It is about creating the right conditions for healing. Think of it as clearing the channel so the signal can come through clean.
 
-When you eat heavy food, drink alcohol, or engage in certain activities, you create interference. The plants cannot reach the places they need to reach. The dieta removes that interference.#
-
+When you eat heavy food, drink alcohol, or engage in certain activities, you create interference. The plants cannot reach the places they need to reach. The dieta removes that interference.
 ## How Long Does a Dieta Last
 
 The length depends on the context. Before a retreat, most centers recommend starting a basic dieta **one to two weeks** in advance. During a deeper plant dieta at a center, restrictions can last weeks or even months. The healer determines the timeline based on what you are working with.
@@ -59,22 +86,26 @@ The physical restrictions are the most tangible part of the dieta. They are also
 
 - **Sexual activity** — this is part of the traditional practice
 
-## What to Eat- Steamed or grilled fish and chicken- Rice, quinoa, and oats- Fresh fruits and vegetables- Herbal teas (chamomile, ginger, peppermint)- Clean water in large quantities#
+## What to Eat
 
+- Steamed or grilled fish and chicken- Rice, quinoa, and oats- Fresh fruits and vegetables- Herbal teas (chamomile, ginger, peppermint)- Clean water in large quantities
 ## Why These Specific Restrictions
 
 Each restriction has a purpose rooted in generations of practice. A [study published in the Journal of Ethnopharmacology](https://pubmed.ncbi.nlm.nih.gov/34933085/) examined the Amazonian dieta as a retreat based intervention and found that dietary restrictions work alongside the plant medicines to create conditions for healing. The science is catching up to what healers have known for centuries.
 
-## Medications**This is the most important physical consideration.** Certain medications, especially antidepressants (SSRIs, SNRIs, MAOIs), must be tapered off under medical supervision well before ceremony. This is not optional. It is a safety requirement. Read our full guide on [medications to avoid before a retreat](/blog/medications-to-avoid-before-retreat).
+## Medications
+
+**This is the most important physical consideration.** Certain medications, especially antidepressants (SSRIs, SNRIs, MAOIs), must be tapered off under medical supervision well before ceremony. This is not optional. It is a safety requirement. Read our full guide on [medications to avoid before a retreat](/blog/medications-to-avoid-before-retreat).
 
 This is where the dieta goes beyond what you can find in a nutrition article. The energetic layer is what makes it a spiritual practice rather than just a cleanse.
 
-## What "Energetic" Actually Means Here
+## What 
+
+"Energetic" Actually Means Here
 
 In the Shipibo worldview, everything carries energy. Food, people, places, activities. Some energies are compatible with healing work. Others are not. The dieta is about aligning your energy so the plants can work with you effectively.
 
-This is not abstract. People who follow the dieta closely consistently report deeper, clearer ceremony experiences. Those who cut corners tend to have a harder time.#
-
+This is not abstract. People who follow the dieta closely consistently report deeper, clearer ceremony experiences. Those who cut corners tend to have a harder time.
 ## Beyond Food
 
 The energetic dieta includes more than what you eat. Traditional guidelines also recommend:- Reducing exposure to violent or disturbing media- Limiting time on social media and news- Avoiding arguments and high conflict situations- Spending time in nature and quiet reflectionThe principle is simple: **what you consume through your senses matters as much as what you consume through your mouth.**
@@ -99,8 +130,7 @@ Most people will be following the dieta at home before they arrive at the retrea
 
 ## Start Gradually
 
-Do not try to change everything overnight. Begin removing the big items first: alcohol, pork, and processed food. Then gradually simplify your meals over the course of one to two weeks.#
-
+Do not try to change everything overnight. Begin removing the big items first: alcohol, pork, and processed food. Then gradually simplify your meals over the course of one to two weeks.
 ## A Simple Weekly Timeline
 
 - **Two weeks out:** Stop alcohol completely. Remove pork and red meat. Cut back on dairy and sugar.
@@ -131,8 +161,7 @@ During this time, your body is still processing. Reintroducing heavy food, alcoh
 
 ## Reintroducing Foods
 
-Go slowly. Add things back one at a time. Pay attention to how your body responds. Many people find that after a dieta, their relationship to food has shifted. Things they used to crave no longer appeal. Foods they used to ignore become deeply satisfying.#
-
+Go slowly. Add things back one at a time. Pay attention to how your body responds. Many people find that after a dieta, their relationship to food has shifted. Things they used to crave no longer appeal. Foods they used to ignore become deeply satisfying.
 ## What to Watch For
 
 If reintroducing a food causes digestive discomfort, strong cravings, or mood shifts, take note. Your body is giving you information. Use it.

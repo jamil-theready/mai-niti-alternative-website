@@ -1,20 +1,46 @@
 ---
-title: "Can Couples Attend a Plant Medicine Retreat Together"
-slug: "plant-medicine-retreat-for-couples"
-date: "2026-03-07"
-category: "Preparation"
+title: Can Couples Attend a Plant Medicine Retreat Together
+slug: plant-medicine-retreat-for-couples
+date: '2026-03-07'
+category: Preparation
 tags: []
-readTime: "5 min read"
-image: ""
-imageAlt: ""
-metaTitle: "Can Couples Do a Plant Medicine Retreat"
-metaDescription: "Thinking about attending a plant medicine retreat with your partner? What couples need to know about doing deep healing work together."
-excerpt: "Thinking about attending a plant medicine retreat with your partner? What couples need to know about doing deep healing work together."
-quickAnswer: ""
-keyTakeaways: []
-faq: []
-author: "Mai Niti Team"
-language: "en"
+readTime: 5 min read
+image: ''
+imageAlt: ''
+metaTitle: Can Couples Do a Plant Medicine Retreat
+metaDescription: >-
+  Thinking about attending a plant medicine retreat with your partner? What
+  couples need to know about doing deep healing work together.
+excerpt: >-
+  Thinking about attending a plant medicine retreat with your partner? What
+  couples need to know about doing deep healing work together.
+quickAnswer: >-
+  Thinking about attending a plant medicine retreat with your partner? What
+  couples need to know about doing deep healing work together.
+keyTakeaways:
+  - Neither Outcome Is Wrong
+  - >-
+    Understanding a common misconception in the context of plant medicine
+    healing
+  - Shared Experience Creates Depth
+  - Understanding mutual support in the context of plant medicine healing
+  - Understanding processing together in the context of plant medicine healing
+faq:
+  - question: What is neither outcome is wrong?
+    answer: >-
+      Whatever the retreat reveals about your relationship is information worth
+      having. But you need to go in with eyes open about what might come up.
+  - question: What is a common misconception?
+    answer: >-
+      Some couples attend a retreat hoping the medicine will "fix" their
+      relationship. That is not how it works. The medicine works on individuals.
+  - question: What is shared experience creates depth?
+    answer: >-
+      Going through something this intense together builds a kind of intimacy
+      that is hard to create any other way. You are both being vulnerable. You
+      are both facing things.
+author: Mai Niti Team
+language: en
 draft: false
 featured: false
 ---
@@ -27,8 +53,7 @@ The healing work is deeply personal. When you add a partner into the mix, dynami
 
 Whatever the retreat reveals about your relationship is information worth having. But you need to go in with eyes open about what might come up.
 
-We have seen couples arrive at the center in all stages of relationship. Newlyweds seeking a shared adventure. Long-term partners looking for reconnection. Couples on the edge hoping the medicine will give them clarity. Each situation brings its own dynamics, and the medicine meets each couple exactly where they are.#
-
+We have seen couples arrive at the center in all stages of relationship. Newlyweds seeking a shared adventure. Long-term partners looking for reconnection. Couples on the edge hoping the medicine will give them clarity. Each situation brings its own dynamics, and the medicine meets each couple exactly where they are.
 ## A Common Misconception
 
 Some couples attend a retreat hoping the medicine will "fix" their relationship. That is not how it works. The medicine works on individuals. It shows each person their own patterns, their own wounds, their own truth. Those individual revelations may affect the relationship, but the work itself is personal.
@@ -41,8 +66,7 @@ Going through something this intense together builds a kind of intimacy that is 
 
 ## Mutual Support
 
-Having someone you love and trust at the retreat can feel grounding. Knowing your partner is going through the same process, even if your individual experiences are completely different, creates a sense of solidarity.#
-
+Having someone you love and trust at the retreat can feel grounding. Knowing your partner is going through the same process, even if your individual experiences are completely different, creates a sense of solidarity.
 ## Processing Together
 
 Between ceremonies, couples often have conversations that would be difficult to have at home. The retreat environment strips away distractions. There is no TV to turn to. No errands to run. Just the two of you and whatever the medicine brought up. These conversations can be transformative.
@@ -57,8 +81,7 @@ You will be in ceremony together, but your experiences will be entirely differen
 
 ## Caretaking Instinct
 
-It is natural to worry about your partner during ceremony. But **your only job in ceremony is your own work**. If you spend the night listening for your partner's sounds or worrying about whether they are okay, you are not doing your own healing.The healers and support staff are there for a reason. Trust them to take care of your partner while you take care of yourself.#
-
+It is natural to worry about your partner during ceremony. But **your only job in ceremony is your own work**. If you spend the night listening for your partner's sounds or worrying about whether they are okay, you are not doing your own healing.The healers and support staff are there for a reason. Trust them to take care of your partner while you take care of yourself.
 ## Relationship Revelations
 
 The medicine may show you things about your relationship that you did not expect. Unspoken resentments. Power dynamics. Codependency. Things you have been avoiding together.
@@ -81,8 +104,7 @@ Each of you should set your own [intention for ceremony](/blog/setting-intention
 
 ## Agree on Boundaries
 
-Decide in advance:- Will you share your ceremony experiences with each other? Some couples share everything. Others prefer to process privately.- How will you handle it if one of you wants to talk and the other needs space?- Are you both okay with the possibility that the medicine reveals relationship issues?#
-
+Decide in advance:- Will you share your ceremony experiences with each other? Some couples share everything. Others prefer to process privately.- How will you handle it if one of you wants to talk and the other needs space?- Are you both okay with the possibility that the medicine reveals relationship issues?
 ## Prepare Separately Too
 
 While doing the practical preparation together, make sure you each have solo time for your own mental and emotional work. [Journal alone](/blog/journaling-before-retreat). Meditate alone. Your individual preparation is just as important as your shared preparation.
@@ -99,8 +121,7 @@ While doing the practical preparation together, make sure you each have solo tim
 
 ## After the Retreat
 
-The [first two weeks after a retreat](/blog/first-weeks-after-retreat) are sensitive. Both of you are processing. Both of you are adjusting. Give each other grace during this period.#
-
+The [first two weeks after a retreat](/blog/first-weeks-after-retreat) are sensitive. Both of you are processing. Both of you are adjusting. Give each other grace during this period.
 ## Integration as a Couple
 
 Consider working with an [integration therapist](/blog/integration-therapist-after-retreat) together, or separately, depending on what came up. The insights from ceremony need to be grounded in daily life, and that is especially true for relationship revelations.
